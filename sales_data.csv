@@ -1,0 +1,1251 @@
+order_id,order_date,region,category,product,sales_channel,quantity,unit_price,gross_sales,discount_pct,discount_amount,net_revenue,total_cost,profit,profit_margin,high_discount_erosion
+ORD-2025001,2025-04-13,Asia Pacific,Technology,Smart Projectors,Direct Enterprise,7,830.2073174937844,1099.75,0.0,0.0,1099.75,813.0,286.75,26.07,False
+ORD-2025002,2025-04-10,North America,Office Supplies,Paper Shredders,Online Portal,8,1506.774621400738,2281.13,0.0,0.0,2281.13,1610.92,670.21,29.38,False
+ORD-2025003,2025-10-04,Europe,Office Supplies,Paper Shredders,Retail Store,9,559.6509953465734,953.17,0.1,95.32,857.85,639.82,218.03,25.42,False
+ORD-2025004,2025-07-07,North America,Office Supplies,Filing Cabinets,Retail Store,7,1770.6540501618792,2345.54,0.1,234.55,2110.99,1775.85,335.14,15.88,False
+ORD-2025005,2025-05-15,North America,Technology,Cloud Servers,Direct Enterprise,12,1035.7543812296938,2352.06,0.05,117.6,2234.46,1579.36,655.1,29.32,False
+ORD-2025006,2025-12-06,North America,Office Supplies,Laser Printers,Direct Enterprise,8,110.17991195163219,166.8,0.25,41.7,125.1,106.86,18.24,14.58,True
+ORD-2025007,2025-12-26,Asia Pacific,Technology,UltraHD Monitors,Retail Store,6,104.79826179722752,118.99,0.2,23.8,95.19,80.71,14.48,15.21,False
+ORD-2025008,2025-07-21,Latin America,Office Supplies,Laser Printers,Direct Enterprise,14,619.3280788357126,1640.82,0.05,82.04,1558.77,1151.71,407.06,26.11,False
+ORD-2025009,2025-02-22,Europe,Software & Services,Cloud Migration Services,Retail Store,13,296.6173937058346,729.71,0.2,145.94,583.77,462.36,121.41,20.8,False
+ORD-2025010,2025-11-23,Europe,Technology,Wireless Headsets,Partner Reseller,1,1294.8484173101374,245.04,0.15,36.76,208.28,174.44,33.84,16.25,False
+ORD-2025011,2025-08-19,Europe,Software & Services,SaaS Enterprise Licenses,Retail Store,12,629.0715434921361,1428.54,0.0,0.0,1428.54,1030.81,397.73,27.84,False
+ORD-2025012,2025-08-04,Europe,Office Supplies,Filing Cabinets,Partner Reseller,1,720.1220308191322,136.27,0.35,47.7,88.58,92.81,-4.23,-4.78,True
+ORD-2025013,2025-01-05,Europe,Furniture,Acoustic Panels,Direct Enterprise,10,94.48347180216658,178.8,0.0,0.0,178.8,123.06,55.74,31.17,False
+ORD-2025014,2025-08-19,Europe,Office Supplies,Laser Printers,Online Portal,5,486.26140101053113,460.1,0.05,23.01,437.09,349.5,87.59,20.04,False
+ORD-2025015,2025-02-05,Latin America,Office Supplies,Filing Cabinets,Online Portal,12,1676.970891599503,3808.18,0.2,761.64,3046.55,2666.58,379.97,12.47,False
+ORD-2025016,2025-05-14,Europe,Technology,Cloud Servers,Online Portal,14,993.8489233523887,2633.05,0.2,526.61,2106.44,1926.16,180.28,8.56,False
+ORD-2025017,2025-08-19,Latin America,Technology,Wireless Headsets,Online Portal,9,1481.525840364363,2523.26,0.2,504.65,2018.61,1578.46,440.15,21.8,False
+ORD-2025018,2025-05-17,Europe,Office Supplies,Executive Desks,Retail Store,8,1700.0919818469085,2573.79,0.05,128.69,2445.1,1882.48,562.62,23.01,False
+ORD-2025019,2025-08-21,Europe,Technology,UltraHD Monitors,Retail Store,12,490.61901769438725,1114.13,0.1,111.41,1002.72,769.29,233.43,23.28,False
+ORD-2025020,2025-04-23,Latin America,Technology,UltraHD Monitors,Online Portal,12,140.08781468748137,318.12,0.05,15.91,302.22,247.45,54.77,18.12,False
+ORD-2025021,2025-05-06,North America,Office Supplies,Laser Printers,Partner Reseller,11,696.8952981074578,1450.68,0.0,0.0,1450.68,1131.88,318.8,21.98,False
+ORD-2025022,2025-11-21,Europe,Office Supplies,Filing Cabinets,Partner Reseller,1,313.7557019395016,59.38,0.1,5.94,53.44,43.8,9.64,18.04,False
+ORD-2025023,2025-09-16,Europe,Office Supplies,Filing Cabinets,Online Portal,3,1466.626830744502,832.63,0.05,41.63,791.0,567.05,223.95,28.31,False
+ORD-2025024,2025-05-08,Europe,Furniture,Acoustic Panels,Retail Store,9,248.57866217103089,423.37,0.25,105.84,317.53,302.44,15.09,4.75,True
+ORD-2025025,2025-04-09,North America,Technology,Enterprise Laptops,Retail Store,12,506.45105595321576,1150.08,0.4,460.03,690.05,782.06,-92.01,-13.33,True
+ORD-2025026,2025-02-06,Latin America,Technology,Enterprise Laptops,Partner Reseller,3,1320.4224380229189,749.63,0.25,187.41,562.22,536.37,25.85,4.6,True
+ORD-2025027,2025-04-30,Latin America,Furniture,Modern Conference Tables,Retail Store,4,1622.4698299223887,1228.14,0.1,122.81,1105.33,805.33,300.0,27.14,False
+ORD-2025028,2025-04-09,Latin America,Technology,UltraHD Monitors,Online Portal,6,834.7422502259328,947.8,0.4,379.12,568.68,555.33,13.35,2.35,True
+ORD-2025029,2025-03-09,North America,Technology,Cloud Servers,Retail Store,8,1536.1409683648114,2325.59,0.15,348.84,1976.75,1645.15,331.6,16.78,False
+ORD-2025030,2025-01-22,North America,Software & Services,SaaS Enterprise Licenses,Partner Reseller,6,1635.6728785074695,1857.2,0.05,92.86,1764.34,1321.02,443.32,25.13,False
+ORD-2025031,2025-04-07,Europe,Office Supplies,Paper Shredders,Retail Store,13,923.5884147983165,2272.13,0.1,227.21,2044.92,1695.52,349.4,17.09,False
+ORD-2025032,2025-01-17,Latin America,Office Supplies,Paper Shredders,Online Portal,3,1358.5078543204743,771.25,0.3,231.38,539.87,489.17,50.7,9.39,True
+ORD-2025033,2025-10-29,Latin America,Software & Services,SaaS Enterprise Licenses,Retail Store,13,723.9210250533692,1780.92,0.2,356.18,1424.74,1179.87,244.87,17.19,False
+ORD-2025034,2025-05-08,North America,Technology,UltraHD Monitors,Partner Reseller,8,173.22822898670182,262.25,0.0,0.0,262.25,200.49,61.76,23.55,False
+ORD-2025035,2025-05-31,North America,Office Supplies,Executive Desks,Online Portal,1,1535.1721411181802,290.51,0.0,0.0,290.51,223.4,67.11,23.1,False
+ORD-2025036,2025-02-08,North America,Furniture,Acoustic Panels,Online Portal,9,1120.1489940149409,1907.78,0.0,0.0,1907.78,1307.09,600.69,31.49,False
+ORD-2025037,2025-02-05,Asia Pacific,Office Supplies,Laser Printers,Partner Reseller,7,98.32935077898324,130.26,0.1,13.03,117.23,92.07,25.16,21.46,False
+ORD-2025038,2025-12-08,North America,Technology,Smart Projectors,Online Portal,10,1555.7080820454316,2944.01,0.05,147.2,2796.81,1984.86,811.95,29.03,False
+ORD-2025039,2025-09-28,North America,Technology,Enterprise Laptops,Retail Store,5,525.2001026845483,496.94,0.3,149.08,347.86,322.68,25.18,7.24,True
+ORD-2025040,2025-09-19,North America,Office Supplies,Filing Cabinets,Partner Reseller,8,1320.6598340146577,1999.37,0.35,699.78,1299.59,1282.45,17.14,1.32,True
+ORD-2025041,2025-06-07,North America,Technology,Wireless Headsets,Retail Store,10,187.29866734896544,354.44,0.0,0.0,354.44,283.29,71.15,20.07,False
+ORD-2025042,2025-10-06,Europe,Office Supplies,Ergonomic Chairs,Online Portal,10,323.7648246744006,612.69,0.05,30.63,582.06,450.35,131.71,22.63,False
+ORD-2025043,2025-02-17,North America,Software & Services,SaaS Enterprise Licenses,Retail Store,13,1341.3196042175948,3299.79,0.1,329.98,2969.81,2400.71,569.1,19.16,False
+ORD-2025044,2025-09-04,North America,Office Supplies,Filing Cabinets,Direct Enterprise,6,75.18860510207277,85.37,0.0,0.0,85.37,58.91,26.46,30.99,False
+ORD-2025045,2025-04-04,Asia Pacific,Furniture,Task Lighting,Retail Store,10,1385.8877402568442,2622.64,0.2,524.53,2098.11,1746.7,351.41,16.75,False
+ORD-2025046,2025-09-11,Europe,Technology,UltraHD Monitors,Online Portal,5,1601.6906777715833,1515.51,0.05,75.78,1439.74,1017.52,422.22,29.33,False
+ORD-2025047,2025-05-27,Europe,Furniture,Storage Shelves,Direct Enterprise,4,1127.7395376823492,853.65,0.3,256.1,597.56,603.86,-6.3,-1.05,True
+ORD-2025048,2025-06-09,Latin America,Office Supplies,Executive Desks,Partner Reseller,12,274.8756181593428,624.21,0.2,124.84,499.37,451.02,48.35,9.68,False
+ORD-2025049,2025-09-25,North America,Software & Services,Data Analytics Suite,Partner Reseller,12,529.431972811984,1202.27,0.0,0.0,1202.27,877.04,325.23,27.05,False
+ORD-2025050,2025-09-10,North America,Office Supplies,Ergonomic Chairs,Online Portal,8,724.4440866897388,1096.75,0.15,164.51,932.23,746.09,186.14,19.97,False
+ORD-2025051,2025-04-25,North America,Technology,Smart Projectors,Online Portal,13,1689.1342657474877,4155.46,0.0,0.0,4155.46,3051.49,1103.97,26.57,False
+ORD-2025052,2025-09-06,Europe,Technology,Wireless Headsets,Direct Enterprise,3,772.0809345949964,438.32,0.05,21.92,416.41,334.05,82.36,19.78,False
+ORD-2025053,2025-06-01,Asia Pacific,Office Supplies,Laser Printers,Direct Enterprise,7,1364.0243686351205,1806.89,0.15,271.03,1535.85,1178.04,357.81,23.3,False
+ORD-2025054,2025-09-30,Europe,Office Supplies,Ergonomic Chairs,Online Portal,13,1617.1656498683508,3978.4,0.05,198.92,3779.48,2668.98,1110.5,29.38,False
+ORD-2025055,2025-08-21,Asia Pacific,Technology,Cloud Servers,Online Portal,4,1053.5163042157506,797.47,0.1,79.75,717.72,564.67,153.05,21.32,False
+ORD-2025056,2025-04-09,Europe,Office Supplies,Paper Shredders,Retail Store,5,1435.2633265202348,1358.04,0.15,203.71,1154.33,883.47,270.86,23.46,False
+ORD-2025057,2025-02-11,Latin America,Software & Services,Data Analytics Suite,Direct Enterprise,3,1603.4823198270246,910.33,0.05,45.52,864.81,622.23,242.58,28.05,False
+ORD-2025058,2025-03-17,Asia Pacific,Furniture,Modern Conference Tables,Direct Enterprise,6,197.18691070124552,223.89,0.15,33.58,190.31,145.16,45.15,23.72,False
+ORD-2025059,2025-10-10,Asia Pacific,Technology,Smart Projectors,Online Portal,3,1067.284480146869,605.92,0.2,121.18,484.73,442.11,42.62,8.79,False
+ORD-2025060,2025-05-25,Latin America,Software & Services,Cloud Migration Services,Retail Store,6,1289.3170922705997,1463.94,0.1,146.39,1317.54,1024.28,293.26,22.26,False
+ORD-2025061,2025-06-16,Europe,Software & Services,Cybersecurity Audits,Online Portal,3,493.9438042779928,280.42,0.05,14.02,266.4,206.86,59.54,22.35,False
+ORD-2025062,2025-05-28,North America,Technology,Enterprise Laptops,Partner Reseller,1,1241.8189974195907,235.0,0.0,0.0,235.0,172.07,62.93,26.78,False
+ORD-2025063,2025-11-08,Europe,Technology,UltraHD Monitors,Retail Store,13,1747.2879467383682,4298.52,0.0,0.0,4298.52,3398.96,899.56,20.93,False
+ORD-2025064,2025-08-01,Latin America,Technology,Wireless Headsets,Partner Reseller,4,182.01045740709623,137.77,0.0,0.0,137.77,97.87,39.9,28.96,False
+ORD-2025065,2025-05-23,Europe,Office Supplies,Filing Cabinets,Retail Store,7,129.53116559755128,171.59,0.05,8.58,163.01,134.33,28.68,17.59,False
+ORD-2025066,2025-12-24,Europe,Office Supplies,Executive Desks,Retail Store,4,861.4722086449688,652.1,0.05,32.6,619.49,481.99,137.5,22.2,False
+ORD-2025067,2025-08-08,North America,Technology,Wireless Headsets,Online Portal,1,539.586137545655,102.11,0.05,5.11,97.01,75.71,21.3,21.96,False
+ORD-2025068,2025-08-28,North America,Software & Services,SaaS Enterprise Licenses,Online Portal,2,779.1183510423386,294.88,0.1,29.49,265.39,225.34,40.05,15.09,False
+ORD-2025069,2025-01-10,Latin America,Furniture,Storage Shelves,Direct Enterprise,7,769.6964540243958,1019.6,0.15,152.94,866.66,710.59,156.07,18.01,False
+ORD-2025070,2025-08-27,North America,Office Supplies,Ergonomic Chairs,Online Portal,11,1523.7081154874902,3171.8,0.2,634.36,2537.44,2158.71,378.73,14.93,False
+ORD-2025071,2025-04-09,North America,Technology,Cloud Servers,Direct Enterprise,5,1799.5059282507286,1702.69,0.4,681.07,1021.61,1074.64,-53.03,-5.19,True
+ORD-2025072,2025-02-22,Latin America,Furniture,Modern Conference Tables,Direct Enterprise,14,408.8293248864186,1083.13,0.05,54.16,1028.98,760.71,268.27,26.07,False
+ORD-2025073,2025-09-17,North America,Office Supplies,Executive Desks,Retail Store,8,88.82329855302785,134.47,0.1,13.45,121.02,95.66,25.36,20.96,False
+ORD-2025074,2025-09-16,Europe,Furniture,Task Lighting,Direct Enterprise,14,1584.1438046521039,4196.95,0.05,209.85,3987.1,2877.21,1109.89,27.84,False
+ORD-2025075,2025-10-30,Europe,Furniture,Modular Workstations,Partner Reseller,3,1630.514352684096,925.67,0.1,92.57,833.1,714.13,118.97,14.28,False
+ORD-2025076,2025-11-02,Europe,Technology,Wireless Headsets,Partner Reseller,2,659.4470672907756,249.59,0.1,24.96,224.63,186.7,37.93,16.89,False
+ORD-2025077,2025-01-30,Europe,Furniture,Storage Shelves,Direct Enterprise,4,853.8569139058018,646.33,0.2,129.27,517.07,463.02,54.05,10.45,False
+ORD-2025078,2025-12-06,Europe,Software & Services,SaaS Enterprise Licenses,Online Portal,13,415.97888438739983,1023.35,0.1,102.33,921.02,711.58,209.44,22.74,False
+ORD-2025079,2025-04-21,North America,Technology,Wireless Headsets,Online Portal,8,365.1177266112724,552.76,0.15,82.91,469.84,380.7,89.14,18.97,False
+ORD-2025080,2025-12-18,Europe,Office Supplies,Executive Desks,Direct Enterprise,10,441.735865336061,835.94,0.2,167.19,668.75,556.62,112.13,16.77,False
+ORD-2025081,2025-06-19,North America,Technology,Enterprise Laptops,Direct Enterprise,9,672.9850974759757,1146.2,0.25,286.55,859.65,716.53,143.12,16.65,True
+ORD-2025082,2025-08-06,Asia Pacific,Technology,Enterprise Laptops,Partner Reseller,9,1253.6232549181452,2135.11,0.1,213.51,1921.6,1437.65,483.95,25.18,False
+ORD-2025083,2025-02-17,North America,Technology,Enterprise Laptops,Retail Store,1,1095.2366439470034,207.26,0.35,72.54,134.72,133.44,1.28,0.95,True
+ORD-2025084,2025-02-25,Europe,Office Supplies,Executive Desks,Direct Enterprise,10,114.19560505854632,216.1,0.05,10.81,205.3,163.07,42.23,20.57,False
+ORD-2025085,2025-04-21,Asia Pacific,Furniture,Task Lighting,Direct Enterprise,2,832.9716419410456,315.26,0.1,31.53,283.74,215.49,68.25,24.05,False
+ORD-2025086,2025-04-29,North America,Technology,Enterprise Laptops,Direct Enterprise,7,206.10757524609832,273.02,0.1,27.3,245.72,186.32,59.4,24.17,False
+ORD-2025087,2025-01-13,Europe,Office Supplies,Filing Cabinets,Direct Enterprise,13,889.2686780699379,2187.7,0.1,218.77,1968.93,1624.24,344.69,17.51,False
+ORD-2025088,2025-04-21,Asia Pacific,Technology,Wireless Headsets,Online Portal,9,640.5319592758567,1090.92,0.25,272.73,818.19,744.22,73.97,9.04,True
+ORD-2025089,2025-11-11,Latin America,Office Supplies,Ergonomic Chairs,Direct Enterprise,6,444.3323959969244,504.51,0.05,25.23,479.28,367.13,112.15,23.4,False
+ORD-2025090,2025-12-16,North America,Technology,Enterprise Laptops,Partner Reseller,3,967.8949317479456,549.49,0.05,27.47,522.02,432.26,89.76,17.19,False
+ORD-2025091,2025-08-11,Latin America,Office Supplies,Filing Cabinets,Retail Store,6,1756.3675351539994,1994.24,0.1,199.42,1794.82,1477.3,317.52,17.69,False
+ORD-2025092,2025-03-03,Latin America,Office Supplies,Executive Desks,Partner Reseller,13,1396.6126330858897,3435.82,0.0,0.0,3435.82,2484.44,951.38,27.69,False
+ORD-2025093,2025-10-02,North America,Furniture,Task Lighting,Partner Reseller,1,1118.5850742728571,211.68,0.05,10.58,201.1,156.4,44.7,22.23,False
+ORD-2025094,2025-05-19,Latin America,Technology,Wireless Headsets,Direct Enterprise,6,639.057486839361,725.61,0.0,0.0,725.61,502.18,223.43,30.79,False
+ORD-2025095,2025-06-21,North America,Office Supplies,Laser Printers,Direct Enterprise,5,54.74407397507692,51.8,0.0,0.0,51.8,38.38,13.42,25.91,False
+ORD-2025096,2025-02-07,Europe,Technology,Enterprise Laptops,Direct Enterprise,14,1355.4554197102568,3591.08,0.05,179.55,3411.52,2803.78,607.74,17.81,False
+ORD-2025097,2025-05-17,North America,Technology,Enterprise Laptops,Retail Store,6,134.16562693715346,152.34,0.15,22.85,129.49,112.48,17.01,13.14,False
+ORD-2025098,2025-08-17,North America,Technology,Smart Projectors,Direct Enterprise,5,462.4605556137496,437.58,0.1,43.76,393.82,333.8,60.02,15.24,False
+ORD-2025099,2025-03-30,Asia Pacific,Technology,Wireless Headsets,Direct Enterprise,6,994.6168583506078,1129.32,0.05,56.47,1072.86,833.89,238.97,22.27,False
+ORD-2025100,2025-05-25,Latin America,Technology,Smart Projectors,Retail Store,8,1142.416492849486,1729.52,0.0,0.0,1729.52,1377.62,351.9,20.35,False
+ORD-2025101,2025-06-28,North America,Technology,Smart Projectors,Direct Enterprise,4,1347.5565944933296,1020.04,0.1,102.0,918.04,789.04,129.0,14.05,False
+ORD-2025102,2025-04-07,Asia Pacific,Furniture,Modern Conference Tables,Online Portal,4,1047.3069485248038,792.77,0.15,118.91,673.85,589.95,83.9,12.45,False
+ORD-2025103,2025-12-19,North America,Office Supplies,Laser Printers,Direct Enterprise,8,1106.926276126897,1675.79,0.1,167.58,1508.21,1204.84,303.37,20.11,False
+ORD-2025104,2025-06-06,North America,Furniture,Modular Workstations,Partner Reseller,3,1264.409777817425,717.83,0.1,71.78,646.05,491.46,154.59,23.93,False
+ORD-2025105,2025-03-10,Asia Pacific,Software & Services,Cloud Migration Services,Online Portal,6,751.4899793363699,853.27,0.1,85.33,767.94,654.9,113.04,14.72,False
+ORD-2025106,2025-08-06,Europe,Office Supplies,Ergonomic Chairs,Direct Enterprise,8,1576.216840652265,2386.26,0.3,715.88,1670.38,1580.16,90.22,5.4,True
+ORD-2025107,2025-11-20,Asia Pacific,Technology,UltraHD Monitors,Direct Enterprise,12,705.2618970107385,1601.56,0.0,0.0,1601.56,1111.06,490.5,30.63,False
+ORD-2025108,2025-10-23,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Online Portal,5,1773.4720981840856,1678.05,0.2,335.61,1342.44,1073.27,269.17,20.05,False
+ORD-2025109,2025-11-09,North America,Technology,Wireless Headsets,Retail Store,5,713.7849721747104,675.38,0.15,101.31,574.07,448.57,125.5,21.86,False
+ORD-2025110,2025-11-09,North America,Technology,Cloud Servers,Direct Enterprise,10,1659.7473287223308,3140.89,0.05,157.04,2983.85,2232.94,750.91,25.17,False
+ORD-2025111,2025-12-13,Europe,Technology,Cloud Servers,Partner Reseller,3,484.3962748250158,275.0,0.1,27.5,247.5,185.45,62.05,25.07,False
+ORD-2025112,2025-12-10,North America,Furniture,Acoustic Panels,Online Portal,10,72.91529902958386,137.98,0.15,20.7,117.29,91.2,26.09,22.24,False
+ORD-2025113,2025-03-25,Europe,Office Supplies,Laser Printers,Partner Reseller,13,372.81002498299813,917.15,0.05,45.86,871.3,647.99,223.31,25.63,False
+ORD-2025114,2025-08-03,Europe,Furniture,Storage Shelves,Direct Enterprise,13,711.0204080202963,1749.19,0.2,349.84,1399.35,1215.24,184.11,13.16,False
+ORD-2025115,2025-09-14,Asia Pacific,Office Supplies,Executive Desks,Online Portal,12,891.9039096782755,2025.4,0.1,202.54,1822.86,1510.63,312.23,17.13,False
+ORD-2025116,2025-05-12,North America,Furniture,Acoustic Panels,Retail Store,10,523.8031780012191,991.24,0.1,99.12,892.12,697.18,194.94,21.85,False
+ORD-2025117,2025-03-28,Latin America,Furniture,Storage Shelves,Retail Store,1,1015.5145417038445,192.17,0.05,9.61,182.56,133.16,49.4,27.06,False
+ORD-2025118,2025-09-12,North America,Technology,Smart Projectors,Partner Reseller,3,1192.3056887407806,676.89,0.0,0.0,676.89,471.37,205.52,30.36,False
+ORD-2025119,2025-04-06,Latin America,Office Supplies,Filing Cabinets,Retail Store,4,1702.7170197602286,1288.88,0.0,0.0,1288.88,944.69,344.19,26.7,False
+ORD-2025120,2025-11-07,Latin America,Technology,Enterprise Laptops,Partner Reseller,5,96.43135677918451,91.24,0.0,0.0,91.24,68.8,22.44,24.59,False
+ORD-2025121,2025-07-07,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Retail Store,11,503.99100850476185,1049.12,0.05,52.46,996.67,776.28,220.39,22.11,False
+ORD-2025122,2025-01-20,Europe,Technology,Enterprise Laptops,Online Portal,5,565.3150791983559,534.9,0.3,160.47,374.43,366.86,7.57,2.02,True
+ORD-2025123,2025-10-07,North America,Office Supplies,Filing Cabinets,Online Portal,7,1449.7466979078017,1920.44,0.05,96.02,1824.42,1291.02,533.4,29.24,False
+ORD-2025124,2025-01-14,Asia Pacific,Office Supplies,Ergonomic Chairs,Partner Reseller,9,293.87312962744227,500.51,0.2,100.1,400.41,371.41,29.0,7.24,False
+ORD-2025125,2025-01-29,North America,Technology,Wireless Headsets,Online Portal,2,976.9079376463918,369.74,0.2,73.95,295.79,252.94,42.85,14.49,False
+ORD-2025126,2025-02-03,Europe,Office Supplies,Executive Desks,Retail Store,7,236.51277772518011,313.3,0.0,0.0,313.3,224.31,88.99,28.4,False
+ORD-2025127,2025-10-14,Asia Pacific,Office Supplies,Laser Printers,Direct Enterprise,9,914.979237741975,1558.35,0.1,155.83,1402.51,1175.79,226.72,16.17,False
+ORD-2025128,2025-07-09,Europe,Technology,Cloud Servers,Online Portal,11,372.6491111881856,775.72,0.0,0.0,775.72,602.28,173.44,22.36,False
+ORD-2025129,2025-01-29,North America,Technology,Cloud Servers,Direct Enterprise,11,569.9630023405563,1186.45,0.1,118.65,1067.81,844.0,223.81,20.96,False
+ORD-2025130,2025-04-21,Latin America,Technology,Enterprise Laptops,Online Portal,4,994.7248630893386,752.96,0.0,0.0,752.96,590.93,162.03,21.52,False
+ORD-2025131,2025-12-03,Europe,Office Supplies,Executive Desks,Direct Enterprise,10,879.9152902256468,1665.14,0.05,83.26,1581.89,1184.71,397.18,25.11,False
+ORD-2025132,2025-05-09,Europe,Office Supplies,Executive Desks,Direct Enterprise,7,182.88346814683865,242.26,0.0,0.0,242.26,165.9,76.36,31.52,False
+ORD-2025133,2025-04-12,Europe,Technology,Cloud Servers,Partner Reseller,11,1733.672875087206,3608.87,0.15,541.33,3067.54,2605.54,462.0,15.06,False
+ORD-2025134,2025-10-30,North America,Software & Services,Cybersecurity Audits,Retail Store,5,1378.3127296929872,1304.15,0.15,195.62,1108.53,933.29,175.24,15.81,False
+ORD-2025135,2025-07-19,North America,Office Supplies,Filing Cabinets,Online Portal,9,1702.1038444515732,2898.94,0.0,0.0,2898.94,2228.16,670.78,23.14,False
+ORD-2025136,2025-07-18,Latin America,Office Supplies,Executive Desks,Partner Reseller,14,260.91451287631276,691.25,0.15,103.69,587.57,458.05,129.52,22.04,False
+ORD-2025137,2025-11-24,Latin America,Software & Services,Data Analytics Suite,Partner Reseller,14,146.0445756313311,386.92,0.1,38.69,348.23,277.38,70.85,20.35,False
+ORD-2025138,2025-04-13,North America,Office Supplies,Filing Cabinets,Retail Store,12,891.8582967271512,2025.29,0.25,506.32,1518.97,1362.99,155.98,10.27,True
+ORD-2025139,2025-07-02,Europe,Office Supplies,Ergonomic Chairs,Retail Store,13,1207.8965563909476,2971.56,0.15,445.73,2525.83,2085.07,440.76,17.45,False
+ORD-2025140,2025-04-18,North America,Technology,UltraHD Monitors,Online Portal,14,50.415666257798016,133.57,0.0,0.0,133.57,97.54,36.03,26.97,False
+ORD-2025141,2025-04-06,Asia Pacific,Software & Services,Cloud Migration Services,Direct Enterprise,14,204.95096857383174,542.99,0.0,0.0,542.99,402.74,140.25,25.83,False
+ORD-2025142,2025-09-29,Asia Pacific,Software & Services,Data Analytics Suite,Online Portal,9,638.6483116997387,1087.71,0.1,108.77,978.94,806.97,171.97,17.57,False
+ORD-2025143,2025-06-26,North America,Technology,UltraHD Monitors,Retail Store,2,458.81356433734237,173.65,0.0,0.0,173.65,119.24,54.41,31.33,False
+ORD-2025144,2025-03-14,North America,Technology,Cloud Servers,Retail Store,11,1712.4320719128943,3564.65,0.15,534.7,3029.95,2318.22,711.73,23.49,False
+ORD-2025145,2025-07-17,Latin America,Software & Services,Cloud Migration Services,Partner Reseller,14,1123.4699311187385,2976.46,0.0,0.0,2976.46,2389.05,587.41,19.74,False
+ORD-2025146,2025-02-28,Europe,Furniture,Storage Shelves,Partner Reseller,13,260.59283356124286,641.09,0.0,0.0,641.09,468.19,172.9,26.97,False
+ORD-2025147,2025-08-29,Latin America,Furniture,Storage Shelves,Direct Enterprise,6,1745.9296027464197,1982.39,0.25,495.6,1486.79,1428.03,58.76,3.95,True
+ORD-2025148,2025-08-29,North America,Technology,UltraHD Monitors,Online Portal,14,1793.5876076617674,4751.84,0.25,1187.96,3563.88,3160.04,403.84,11.33,True
+ORD-2025149,2025-09-26,North America,Office Supplies,Ergonomic Chairs,Retail Store,14,1555.2219287313667,4120.33,0.1,412.03,3708.29,2889.37,818.92,22.08,False
+ORD-2025150,2025-05-03,North America,Software & Services,SaaS Enterprise Licenses,Online Portal,12,111.98914473245387,254.31,0.05,12.71,241.6,198.52,43.08,17.83,False
+ORD-2025151,2025-08-14,Europe,Technology,Wireless Headsets,Direct Enterprise,10,982.0544089513337,1858.43,0.3,557.53,1300.9,1129.72,171.18,13.16,True
+ORD-2025152,2025-10-11,North America,Furniture,Storage Shelves,Retail Store,14,1086.7136231541558,2879.08,0.2,575.82,2303.27,1918.01,385.26,16.73,False
+ORD-2025153,2025-12-20,Europe,Furniture,Modern Conference Tables,Online Portal,8,1445.4955378121242,2188.35,0.15,328.25,1860.1,1621.69,238.41,12.82,False
+ORD-2025154,2025-02-28,North America,Technology,Smart Projectors,Direct Enterprise,5,1240.2463505805258,1173.52,0.1,117.35,1056.16,873.49,182.67,17.3,False
+ORD-2025155,2025-01-07,Latin America,Software & Services,SaaS Enterprise Licenses,Partner Reseller,7,59.00404882075084,78.16,0.2,15.63,62.53,50.96,11.57,18.5,False
+ORD-2025156,2025-02-08,North America,Furniture,Storage Shelves,Direct Enterprise,12,61.17527550445877,138.92,0.05,6.95,131.97,103.23,28.74,21.78,False
+ORD-2025157,2025-04-23,Europe,Technology,UltraHD Monitors,Retail Store,8,1482.6889858747231,2244.66,0.0,0.0,2244.66,1612.32,632.34,28.17,False
+ORD-2025158,2025-03-15,Europe,Furniture,Task Lighting,Retail Store,14,1368.9729595884087,3626.89,0.15,544.03,3082.85,2395.15,687.7,22.31,False
+ORD-2025159,2025-08-30,Latin America,Technology,Cloud Servers,Online Portal,1,1068.7983053084781,202.26,0.05,10.11,192.15,150.4,41.75,21.73,False
+ORD-2025160,2025-07-29,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Retail Store,4,1183.2538759533384,895.67,0.1,89.57,806.11,627.29,178.82,22.18,False
+ORD-2025161,2025-01-29,North America,Technology,Wireless Headsets,Partner Reseller,10,51.80158972985844,98.03,0.0,0.0,98.03,72.58,25.45,25.96,False
+ORD-2025162,2025-01-04,Europe,Office Supplies,Paper Shredders,Direct Enterprise,11,436.3468223803307,908.31,0.0,0.0,908.31,695.42,212.89,23.44,False
+ORD-2025163,2025-01-22,North America,Furniture,Task Lighting,Retail Store,12,1329.7226172039498,3019.63,0.25,754.91,2264.72,2149.88,114.84,5.07,True
+ORD-2025164,2025-03-25,North America,Technology,Wireless Headsets,Partner Reseller,1,611.299795766723,115.68,0.15,17.35,98.33,84.28,14.05,14.29,False
+ORD-2025165,2025-06-12,North America,Office Supplies,Laser Printers,Online Portal,12,878.117336710225,1994.09,0.3,598.23,1395.86,1230.25,165.61,11.86,True
+ORD-2025166,2025-05-25,North America,Technology,Wireless Headsets,Online Portal,2,1381.791984150248,522.98,0.1,52.3,470.68,350.54,120.14,25.52,False
+ORD-2025167,2025-06-30,Latin America,Software & Services,Cloud Migration Services,Online Portal,9,52.1557115412453,88.83,0.1,8.88,79.95,64.58,15.37,19.22,False
+ORD-2025168,2025-12-06,Europe,Technology,Enterprise Laptops,Retail Store,6,1068.449953350198,1213.16,0.05,60.66,1152.5,927.62,224.88,19.51,False
+ORD-2025169,2025-03-05,Europe,Technology,UltraHD Monitors,Online Portal,2,889.8929607549661,336.81,0.1,33.68,303.13,232.19,70.94,23.4,False
+ORD-2025170,2025-10-28,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Retail Store,11,890.8871577012006,1854.5,0.0,0.0,1854.5,1322.94,531.56,28.66,False
+ORD-2025171,2025-02-15,North America,Office Supplies,Laser Printers,Retail Store,1,1029.3851961020996,194.8,0.0,0.0,194.8,140.92,53.88,27.66,False
+ORD-2025172,2025-01-02,Europe,Software & Services,Data Analytics Suite,Direct Enterprise,13,187.5123700212863,461.3,0.05,23.06,438.24,316.18,122.06,27.85,False
+ORD-2025173,2025-12-25,North America,Office Supplies,Executive Desks,Online Portal,7,1223.1745521202213,1620.31,0.3,486.09,1134.21,987.81,146.4,12.91,True
+ORD-2025174,2025-05-03,North America,Software & Services,Cybersecurity Audits,Partner Reseller,9,1290.8559090391038,2198.52,0.2,439.7,1758.82,1560.6,198.22,11.27,False
+ORD-2025175,2025-11-14,Asia Pacific,Office Supplies,Filing Cabinets,Retail Store,4,1095.5827596058778,829.31,0.15,124.4,704.91,578.02,126.89,18.0,False
+ORD-2025176,2025-05-07,Europe,Furniture,Acoustic Panels,Online Portal,6,1088.2376345428129,1235.62,0.15,185.34,1050.28,860.98,189.3,18.02,False
+ORD-2025177,2025-08-31,North America,Software & Services,Cloud Migration Services,Direct Enterprise,8,1575.7073632029621,2385.49,0.05,119.27,2266.21,1609.67,656.54,28.97,False
+ORD-2025178,2025-10-27,Europe,Furniture,Storage Shelves,Retail Store,8,1755.8880337568705,2658.26,0.15,398.74,2259.52,1763.66,495.86,21.95,False
+ORD-2025179,2025-02-04,North America,Technology,Enterprise Laptops,Partner Reseller,12,354.8383390119439,805.79,0.3,241.74,564.05,519.26,44.79,7.94,True
+ORD-2025180,2025-01-24,Europe,Technology,Cloud Servers,Online Portal,4,933.4785433127811,706.6,0.1,70.66,635.94,505.85,130.09,20.46,False
+ORD-2025181,2025-04-15,Europe,Furniture,Task Lighting,Online Portal,2,1437.6731655598553,544.13,0.15,81.62,462.51,412.41,50.1,10.83,False
+ORD-2025182,2025-07-05,Latin America,Technology,Smart Projectors,Online Portal,8,1512.9966116171165,2290.55,0.0,0.0,2290.55,1779.77,510.78,22.3,False
+ORD-2025183,2025-04-10,Latin America,Technology,Cloud Servers,Online Portal,14,947.0766091101591,2509.14,0.05,125.46,2383.68,1700.73,682.95,28.65,False
+ORD-2025184,2025-02-10,North America,Furniture,Modern Conference Tables,Retail Store,2,216.707638920596,82.02,0.15,12.3,69.72,55.52,14.2,20.37,False
+ORD-2025185,2025-01-28,North America,Office Supplies,Ergonomic Chairs,Retail Store,12,279.0289062571122,633.64,0.3,190.09,443.55,411.19,32.36,7.3,True
+ORD-2025186,2025-01-10,North America,Technology,UltraHD Monitors,Direct Enterprise,10,1221.4332025538824,2311.43,0.0,0.0,2311.43,1706.03,605.4,26.19,False
+ORD-2025187,2025-09-21,Europe,Furniture,Task Lighting,Retail Store,9,1109.691775878545,1889.98,0.05,94.5,1795.48,1385.66,409.82,22.83,False
+ORD-2025188,2025-11-01,Asia Pacific,Furniture,Task Lighting,Partner Reseller,6,410.22211756434444,465.78,0.0,0.0,465.78,333.81,131.97,28.33,False
+ORD-2025189,2025-05-10,North America,Technology,UltraHD Monitors,Direct Enterprise,1,263.69234951754686,49.9,0.1,4.99,44.91,38.22,6.69,14.9,False
+ORD-2025190,2025-11-21,North America,Office Supplies,Laser Printers,Online Portal,4,1776.602715177982,1344.81,0.3,403.44,941.37,800.74,140.63,14.94,True
+ORD-2025191,2025-08-05,Europe,Furniture,Acoustic Panels,Online Portal,7,1217.0124507056826,1612.15,0.0,0.0,1612.15,1109.31,502.84,31.19,False
+ORD-2025192,2025-10-28,North America,Software & Services,Cloud Migration Services,Partner Reseller,8,1747.3460806877233,2645.33,0.0,0.0,2645.33,2022.84,622.49,23.53,False
+ORD-2025193,2025-12-18,North America,Software & Services,Cybersecurity Audits,Online Portal,1,1516.701756884193,287.02,0.3,86.11,200.91,194.1,6.81,3.39,True
+ORD-2025194,2025-04-24,North America,Furniture,Modern Conference Tables,Retail Store,11,1679.160217137211,3495.39,0.15,524.31,2971.08,2517.76,453.32,15.26,False
+ORD-2025195,2025-05-27,Latin America,Furniture,Storage Shelves,Direct Enterprise,10,660.0039176734483,1248.99,0.0,0.0,1248.99,945.01,303.98,24.34,False
+ORD-2025196,2025-03-04,Latin America,Technology,Smart Projectors,Direct Enterprise,5,1042.2784567266685,986.2,0.15,147.93,838.27,734.11,104.16,12.43,False
+ORD-2025197,2025-04-12,North America,Office Supplies,Executive Desks,Online Portal,13,1446.1738855026103,3557.75,0.05,177.89,3379.86,2728.95,650.91,19.26,False
+ORD-2025198,2025-12-10,North America,Office Supplies,Paper Shredders,Partner Reseller,1,691.3076860249463,130.82,0.05,6.54,124.28,98.44,25.84,20.79,False
+ORD-2025199,2025-11-12,Europe,Office Supplies,Ergonomic Chairs,Partner Reseller,12,75.66734983096167,171.83,0.1,17.18,154.65,115.94,38.71,25.03,False
+ORD-2025200,2025-11-26,Asia Pacific,Office Supplies,Paper Shredders,Online Portal,8,958.3931239883816,1450.92,0.1,145.09,1305.83,954.25,351.58,26.92,False
+ORD-2025201,2025-06-03,North America,Technology,Smart Projectors,Partner Reseller,12,884.2170813220285,2007.94,0.05,100.4,1907.54,1475.94,431.6,22.63,False
+ORD-2025202,2025-10-29,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,7,804.0086601915583,1065.05,0.25,266.26,798.79,658.51,140.28,17.56,True
+ORD-2025203,2025-10-08,Europe,Technology,Cloud Servers,Direct Enterprise,13,665.3397026693602,1636.81,0.0,0.0,1636.81,1215.21,421.6,25.76,False
+ORD-2025204,2025-02-21,Europe,Software & Services,Cloud Migration Services,Partner Reseller,8,594.7884735230064,900.46,0.1,90.05,810.41,666.32,144.09,17.78,False
+ORD-2025205,2025-03-18,Europe,Technology,Wireless Headsets,Partner Reseller,12,367.51710846734716,834.58,0.1,83.46,751.13,616.87,134.26,17.87,False
+ORD-2025206,2025-11-08,Asia Pacific,Technology,Cloud Servers,Retail Store,4,202.3181845284026,153.15,0.2,30.63,122.52,102.5,20.02,16.34,False
+ORD-2025207,2025-06-22,Europe,Software & Services,Cybersecurity Audits,Online Portal,6,951.5565480840303,1080.43,0.1,108.04,972.39,809.49,162.9,16.75,False
+ORD-2025208,2025-09-28,Europe,Technology,Smart Projectors,Online Portal,8,1397.403225440438,2115.55,0.1,211.55,1903.99,1449.35,454.64,23.88,False
+ORD-2025209,2025-03-09,North America,Furniture,Task Lighting,Partner Reseller,10,1466.6774575947732,2775.53,0.15,416.33,2359.2,1824.98,534.22,22.64,False
+ORD-2025210,2025-08-30,North America,Technology,Cloud Servers,Online Portal,1,429.2946501588574,81.24,0.0,0.0,81.24,55.84,25.4,31.27,False
+ORD-2025211,2025-05-23,North America,Technology,Wireless Headsets,Online Portal,9,734.0854928346507,1250.26,0.1,125.03,1125.23,892.47,232.76,20.69,False
+ORD-2025212,2025-09-15,North America,Office Supplies,Executive Desks,Partner Reseller,10,799.3493261198258,1512.68,0.15,226.9,1285.78,1092.47,193.31,15.03,False
+ORD-2025213,2025-10-07,North America,Technology,UltraHD Monitors,Online Portal,10,1634.6683865769294,3093.43,0.15,464.01,2629.42,2076.47,552.95,21.03,False
+ORD-2025214,2025-08-17,Latin America,Technology,Enterprise Laptops,Partner Reseller,6,671.2435352058903,762.15,0.0,0.0,762.15,568.86,193.29,25.36,False
+ORD-2025215,2025-05-10,Europe,Technology,Smart Projectors,Retail Store,6,1087.4209853934897,1234.7,0.15,185.2,1049.49,823.78,225.71,21.51,False
+ORD-2025216,2025-02-27,North America,Office Supplies,Laser Printers,Online Portal,6,1026.1209803975435,1165.09,0.15,174.76,990.33,809.89,180.44,18.22,False
+ORD-2025217,2025-09-21,Europe,Technology,Smart Projectors,Direct Enterprise,13,1257.508558936165,3093.61,0.0,0.0,3093.61,2315.2,778.41,25.16,False
+ORD-2025218,2025-06-07,Europe,Furniture,Modern Conference Tables,Retail Store,12,1767.1636551025317,4013.0,0.1,401.3,3611.7,2809.98,801.72,22.2,False
+ORD-2025219,2025-10-06,North America,Technology,Smart Projectors,Retail Store,8,1395.0496583798897,2111.99,0.0,0.0,2111.99,1614.74,497.25,23.54,False
+ORD-2025220,2025-03-25,Europe,Technology,Enterprise Laptops,Direct Enterprise,12,1418.5491534231753,3221.34,0.15,483.2,2738.14,2074.52,663.62,24.24,False
+ORD-2025221,2025-05-31,North America,Technology,Smart Projectors,Online Portal,11,468.3468313452148,974.93,0.1,97.49,877.43,734.1,143.33,16.34,False
+ORD-2025222,2025-07-09,Europe,Office Supplies,Filing Cabinets,Online Portal,11,1055.5279190560916,2197.22,0.1,219.72,1977.5,1540.76,436.74,22.09,False
+ORD-2025223,2025-01-12,Latin America,Technology,UltraHD Monitors,Direct Enterprise,3,1230.0316612158347,698.31,0.1,69.83,628.48,517.18,111.3,17.71,False
+ORD-2025224,2025-03-08,Asia Pacific,Technology,Enterprise Laptops,Partner Reseller,5,90.06419370821044,85.22,0.0,0.0,85.22,60.61,24.61,28.88,False
+ORD-2025225,2025-07-25,Latin America,Office Supplies,Ergonomic Chairs,Online Portal,9,888.8702702412406,1513.88,0.05,75.69,1438.19,1123.07,315.12,21.91,False
+ORD-2025226,2025-11-17,Europe,Furniture,Storage Shelves,Retail Store,3,1717.395673302265,975.0,0.2,195.0,780.0,686.54,93.46,11.98,False
+ORD-2025227,2025-01-25,North America,Technology,Cloud Servers,Retail Store,12,595.6782328992042,1352.71,0.1,135.27,1217.44,956.38,261.06,21.44,False
+ORD-2025228,2025-11-12,Asia Pacific,Technology,Wireless Headsets,Online Portal,2,1187.8519116967684,449.58,0.0,0.0,449.58,311.04,138.54,30.82,False
+ORD-2025229,2025-09-23,North America,Office Supplies,Executive Desks,Direct Enterprise,8,570.371334414468,863.49,0.05,43.17,820.32,595.74,224.58,27.38,False
+ORD-2025230,2025-05-29,North America,Technology,Wireless Headsets,Partner Reseller,12,1131.5904300025754,2569.7,0.1,256.97,2312.73,1752.3,560.43,24.23,False
+ORD-2025231,2025-04-11,Europe,Technology,Cloud Servers,Retail Store,12,1534.0277991864525,3483.58,0.15,522.54,2961.04,2557.24,403.8,13.64,False
+ORD-2025232,2025-07-10,Europe,Technology,Wireless Headsets,Retail Store,6,1498.19131724203,1701.1,0.15,255.16,1445.94,1244.13,201.81,13.96,False
+ORD-2025233,2025-07-02,Europe,Office Supplies,Paper Shredders,Online Portal,7,289.94198502574835,384.08,0.1,38.41,345.67,261.28,84.39,24.41,False
+ORD-2025234,2025-08-01,Asia Pacific,Office Supplies,Paper Shredders,Online Portal,5,1729.2591275618086,1636.22,0.1,163.62,1472.6,1092.52,380.08,25.81,False
+ORD-2025235,2025-07-07,Europe,Office Supplies,Paper Shredders,Online Portal,14,312.58516321447246,828.15,0.05,41.41,786.74,627.28,159.46,20.27,False
+ORD-2025236,2025-08-20,Asia Pacific,Office Supplies,Paper Shredders,Online Portal,10,1423.7789517148494,2694.35,0.25,673.59,2020.76,1949.75,71.01,3.51,True
+ORD-2025237,2025-01-17,Europe,Software & Services,Data Analytics Suite,Retail Store,13,538.8934993857537,1325.74,0.3,397.72,928.02,828.59,99.43,10.71,True
+ORD-2025238,2025-08-20,Europe,Office Supplies,Executive Desks,Retail Store,11,837.7177567345793,1743.82,0.0,0.0,1743.82,1378.52,365.3,20.95,False
+ORD-2025239,2025-12-09,Europe,Technology,Cloud Servers,Direct Enterprise,7,1240.3986136146184,1643.12,0.0,0.0,1643.12,1141.35,501.77,30.54,False
+ORD-2025240,2025-02-12,Europe,Furniture,Acoustic Panels,Retail Store,1,1723.87744702409,326.23,0.15,48.93,277.29,222.41,54.88,19.79,False
+ORD-2025241,2025-08-16,North America,Furniture,Acoustic Panels,Retail Store,3,354.6913368346476,201.36,0.0,0.0,201.36,153.68,47.68,23.68,False
+ORD-2025242,2025-12-18,North America,Technology,Cloud Servers,Direct Enterprise,8,1396.1405087167338,2113.64,0.1,211.36,1902.27,1479.86,422.41,22.21,False
+ORD-2025243,2025-02-18,North America,Technology,Enterprise Laptops,Direct Enterprise,9,978.028733186027,1665.73,0.0,0.0,1665.73,1332.49,333.24,20.01,False
+ORD-2025244,2025-05-29,North America,Office Supplies,Executive Desks,Online Portal,13,1069.2396518626813,2630.45,0.15,394.57,2235.88,1937.14,298.74,13.36,False
+ORD-2025245,2025-08-14,North America,Technology,UltraHD Monitors,Partner Reseller,9,701.2922917156483,1194.41,0.05,59.72,1134.69,862.3,272.39,24.01,False
+ORD-2025246,2025-04-24,Latin America,Technology,Smart Projectors,Retail Store,3,1602.1185753662216,909.55,0.1,90.96,818.6,626.41,192.19,23.48,False
+ORD-2025247,2025-02-01,North America,Furniture,Task Lighting,Direct Enterprise,2,1163.1238365271938,440.22,0.0,0.0,440.22,352.67,87.55,19.89,False
+ORD-2025248,2025-10-29,Asia Pacific,Furniture,Task Lighting,Retail Store,11,610.1047069117211,1270.01,0.15,190.5,1079.51,853.17,226.34,20.97,False
+ORD-2025249,2025-12-14,North America,Technology,Smart Projectors,Direct Enterprise,4,1481.1243272496538,1121.15,0.0,0.0,1121.15,835.04,286.11,25.52,False
+ORD-2025250,2025-03-29,North America,Technology,Smart Projectors,Direct Enterprise,1,939.6309571034899,177.81,0.05,8.89,168.92,131.03,37.89,22.43,False
+ORD-2025251,2025-01-30,Asia Pacific,Office Supplies,Paper Shredders,Partner Reseller,8,857.7255802346323,1298.52,0.0,0.0,1298.52,927.04,371.48,28.61,False
+ORD-2025252,2025-09-18,Latin America,Technology,Wireless Headsets,Retail Store,10,1200.7305473615404,2272.25,0.05,113.61,2158.64,1722.48,436.16,20.21,False
+ORD-2025253,2025-10-29,Europe,Technology,Enterprise Laptops,Retail Store,13,992.7174178503184,2442.19,0.1,244.22,2197.98,1845.57,352.41,16.03,False
+ORD-2025254,2025-11-10,North America,Furniture,Modern Conference Tables,Online Portal,5,693.8963147786478,656.56,0.05,32.83,623.73,451.26,172.47,27.65,False
+ORD-2025255,2025-03-11,Asia Pacific,Software & Services,Cloud Migration Services,Partner Reseller,13,1175.8890648456227,2892.82,0.15,433.92,2458.9,1925.37,533.53,21.7,False
+ORD-2025256,2025-06-03,North America,Technology,Smart Projectors,Online Portal,6,342.0489562460241,388.37,0.0,0.0,388.37,283.79,104.58,26.93,False
+ORD-2025257,2025-09-30,Europe,Office Supplies,Filing Cabinets,Retail Store,5,1064.97162799923,1007.67,0.1,100.77,906.9,726.98,179.92,19.84,False
+ORD-2025258,2025-09-11,Europe,Office Supplies,Filing Cabinets,Partner Reseller,12,1493.8364678151086,3392.31,0.1,339.23,3053.08,2251.86,801.22,26.24,False
+ORD-2025259,2025-06-01,North America,Furniture,Storage Shelves,Partner Reseller,4,955.2208487728163,723.06,0.05,36.15,686.91,496.85,190.06,27.67,False
+ORD-2025260,2025-07-02,Asia Pacific,Technology,Cloud Servers,Direct Enterprise,11,1452.3921026841583,3023.34,0.15,453.5,2569.84,2198.31,371.53,14.46,False
+ORD-2025261,2025-04-28,Europe,Technology,Cloud Servers,Retail Store,11,1250.3447243372616,2602.76,0.4,1041.1,1561.65,1702.2,-140.55,-9.0,True
+ORD-2025262,2025-12-25,Europe,Office Supplies,Ergonomic Chairs,Retail Store,13,1764.381751309296,4340.57,0.0,0.0,4340.57,3333.46,1007.11,23.2,False
+ORD-2025263,2025-12-16,Asia Pacific,Technology,Enterprise Laptops,Partner Reseller,13,1419.5183947398414,3492.17,0.0,0.0,3492.17,2745.37,746.8,21.38,False
+ORD-2025264,2025-03-10,Asia Pacific,Technology,Enterprise Laptops,Direct Enterprise,10,1690.3682648777628,3198.84,0.15,479.83,2719.01,2286.86,432.15,15.89,False
+ORD-2025265,2025-05-06,Asia Pacific,Office Supplies,Ergonomic Chairs,Retail Store,9,62.30110667383352,106.11,0.0,0.0,106.11,75.48,30.63,28.87,False
+ORD-2025266,2025-12-30,North America,Furniture,Modern Conference Tables,Retail Store,5,170.67652862373706,161.49,0.0,0.0,161.49,115.97,45.52,28.19,False
+ORD-2025267,2025-08-08,North America,Technology,UltraHD Monitors,Retail Store,6,800.5520380068175,908.97,0.2,181.79,727.18,596.92,130.26,17.91,False
+ORD-2025268,2025-11-25,Europe,Technology,Cloud Servers,Online Portal,10,1033.4874830669119,1955.76,0.05,97.79,1857.98,1383.0,474.98,25.56,False
+ORD-2025269,2025-01-07,North America,Technology,Wireless Headsets,Retail Store,8,1030.2943210582234,1559.78,0.3,467.93,1091.84,937.53,154.31,14.13,True
+ORD-2025270,2025-05-22,Asia Pacific,Software & Services,Data Analytics Suite,Direct Enterprise,3,1319.022523214451,748.83,0.0,0.0,748.83,542.78,206.05,27.52,False
+ORD-2025271,2025-12-11,Latin America,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,1,314.6819502861355,59.55,0.0,0.0,59.55,42.54,17.01,28.56,False
+ORD-2025272,2025-11-23,Asia Pacific,Office Supplies,Paper Shredders,Direct Enterprise,2,756.9612835714594,286.49,0.1,28.65,257.84,214.57,43.27,16.78,False
+ORD-2025273,2025-06-26,Europe,Technology,UltraHD Monitors,Direct Enterprise,10,340.10544528573257,643.61,0.3,193.08,450.53,448.05,2.48,0.55,True
+ORD-2025274,2025-03-07,North America,Furniture,Acoustic Panels,Direct Enterprise,7,1004.5057714620846,1330.64,0.0,0.0,1330.64,992.13,338.51,25.44,False
+ORD-2025275,2025-02-28,Europe,Technology,Enterprise Laptops,Retail Store,7,1576.237475039334,2088.0,0.1,208.8,1879.2,1555.6,323.6,17.22,False
+ORD-2025276,2025-08-02,North America,Technology,Cloud Servers,Retail Store,14,467.89336991769375,1239.61,0.1,123.96,1115.65,957.0,158.65,14.22,False
+ORD-2025277,2025-01-26,Europe,Office Supplies,Filing Cabinets,Retail Store,12,992.72814641725,2254.36,0.1,225.44,2028.92,1504.1,524.82,25.87,False
+ORD-2025278,2025-10-06,Asia Pacific,Technology,Wireless Headsets,Direct Enterprise,3,392.3162278279013,222.73,0.0,0.0,222.73,154.96,67.77,30.43,False
+ORD-2025279,2025-10-24,Europe,Office Supplies,Ergonomic Chairs,Partner Reseller,14,982.800517680745,2603.78,0.0,0.0,2603.78,1998.3,605.48,23.25,False
+ORD-2025280,2025-09-25,North America,Office Supplies,Paper Shredders,Partner Reseller,11,534.5828529111657,1112.8,0.35,389.48,723.32,663.97,59.35,8.21,True
+ORD-2025281,2025-05-09,North America,Technology,Cloud Servers,Retail Store,11,598.0334909302442,1244.89,0.15,186.73,1058.15,939.91,118.24,11.17,False
+ORD-2025282,2025-10-02,Latin America,Furniture,Modern Conference Tables,Partner Reseller,13,1772.1930583138712,4359.79,0.15,653.97,3705.82,3118.65,587.17,15.84,False
+ORD-2025283,2025-09-17,Latin America,Software & Services,Cybersecurity Audits,Partner Reseller,11,1252.0067459313009,2606.22,0.0,0.0,2606.22,1793.14,813.08,31.2,False
+ORD-2025284,2025-06-03,North America,Furniture,Storage Shelves,Retail Store,13,568.8571172458018,1399.45,0.25,349.86,1049.59,871.84,177.75,16.94,True
+ORD-2025285,2025-03-01,North America,Office Supplies,Laser Printers,Retail Store,9,676.1469643195231,1151.58,0.1,115.16,1036.42,867.53,168.89,16.3,False
+ORD-2025286,2025-10-13,North America,Furniture,Modular Workstations,Online Portal,1,469.77969732290325,88.9,0.0,0.0,88.9,64.54,24.36,27.4,False
+ORD-2025287,2025-12-04,Asia Pacific,Office Supplies,Ergonomic Chairs,Direct Enterprise,12,874.752542946788,1986.45,0.35,695.26,1291.19,1302.06,-10.87,-0.84,True
+ORD-2025288,2025-07-31,Asia Pacific,Technology,Wireless Headsets,Retail Store,8,171.87200928421004,260.2,0.0,0.0,260.2,204.65,55.55,21.35,False
+ORD-2025289,2025-05-04,Latin America,Technology,Wireless Headsets,Retail Store,10,947.1458180038426,1792.37,0.05,89.62,1702.75,1245.55,457.2,26.85,False
+ORD-2025290,2025-08-15,Asia Pacific,Technology,Cloud Servers,Online Portal,4,1574.6078439603411,1191.91,0.15,178.79,1013.12,874.44,138.68,13.69,False
+ORD-2025291,2025-11-29,Latin America,Office Supplies,Filing Cabinets,Partner Reseller,7,345.8918731229869,458.19,0.05,22.91,435.28,327.51,107.77,24.76,False
+ORD-2025292,2025-05-22,Asia Pacific,Office Supplies,Filing Cabinets,Partner Reseller,14,1454.1200760287122,3852.47,0.1,385.25,3467.22,2530.2,937.02,27.03,False
+ORD-2025293,2025-12-10,North America,Software & Services,Data Analytics Suite,Retail Store,9,561.3819033083212,956.12,0.25,239.03,717.09,668.94,48.15,6.71,True
+ORD-2025294,2025-07-20,Asia Pacific,Software & Services,Data Analytics Suite,Partner Reseller,9,583.3144169257333,993.47,0.2,198.7,794.78,653.99,140.79,17.71,False
+ORD-2025295,2025-04-30,Asia Pacific,Office Supplies,Ergonomic Chairs,Online Portal,9,71.70706348530088,122.13,0.1,12.21,109.91,84.33,25.58,23.27,False
+ORD-2025296,2025-07-22,North America,Technology,Enterprise Laptops,Retail Store,11,1630.0662415859777,3393.2,0.2,678.64,2714.56,2389.91,324.65,11.96,False
+ORD-2025297,2025-04-20,North America,Software & Services,Cybersecurity Audits,Partner Reseller,13,1516.7663212158677,3731.41,0.05,186.57,3544.84,2689.32,855.52,24.13,False
+ORD-2025298,2025-09-24,Latin America,Furniture,Storage Shelves,Direct Enterprise,4,435.3942774103014,329.58,0.1,32.96,296.62,244.72,51.9,17.5,False
+ORD-2025299,2025-07-20,Latin America,Office Supplies,Ergonomic Chairs,Online Portal,8,1722.6928465113165,2608.01,0.0,0.0,2608.01,2001.09,606.92,23.27,False
+ORD-2025300,2025-11-28,Latin America,Office Supplies,Ergonomic Chairs,Partner Reseller,10,338.4431818568336,640.47,0.0,0.0,640.47,510.79,129.68,20.25,False
+ORD-2025301,2025-02-07,Europe,Furniture,Task Lighting,Partner Reseller,7,280.4635173260674,371.52,0.0,0.0,371.52,289.15,82.37,22.17,False
+ORD-2025302,2025-03-08,Europe,Software & Services,Data Analytics Suite,Partner Reseller,7,1771.7205474970162,2346.95,0.05,117.35,2229.61,1685.3,544.31,24.41,False
+ORD-2025303,2025-08-02,North America,Technology,Cloud Servers,Online Portal,10,1637.9152882474823,3099.58,0.0,0.0,3099.58,2295.22,804.36,25.95,False
+ORD-2025304,2025-04-03,Europe,Office Supplies,Filing Cabinets,Retail Store,13,880.0047357547058,2164.91,0.1,216.49,1948.42,1555.77,392.65,20.15,False
+ORD-2025305,2025-02-18,North America,Technology,Wireless Headsets,Retail Store,12,548.5890376791815,1245.78,0.1,124.58,1121.2,880.63,240.57,21.46,False
+ORD-2025306,2025-07-11,Europe,Technology,Enterprise Laptops,Direct Enterprise,8,202.41234189260012,306.44,0.1,30.64,275.79,204.76,71.03,25.76,False
+ORD-2025307,2025-11-03,Asia Pacific,Office Supplies,Paper Shredders,Retail Store,11,128.49374404124515,267.48,0.1,26.75,240.73,204.73,36.0,14.95,False
+ORD-2025308,2025-02-14,North America,Technology,Cloud Servers,Retail Store,8,1224.1502582993887,1853.26,0.05,92.66,1760.59,1389.89,370.7,21.06,False
+ORD-2025309,2025-10-28,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Retail Store,9,1163.7023978209622,1981.96,0.0,0.0,1981.96,1417.54,564.42,28.48,False
+ORD-2025310,2025-08-03,North America,Furniture,Modular Workstations,Online Portal,4,721.7180453287141,546.31,0.1,54.63,491.68,381.66,110.02,22.38,False
+ORD-2025311,2025-05-27,Europe,Office Supplies,Ergonomic Chairs,Direct Enterprise,12,190.31502464333104,432.18,0.05,21.61,410.57,337.88,72.69,17.7,False
+ORD-2025312,2025-10-12,Europe,Technology,Wireless Headsets,Direct Enterprise,10,928.768817433477,1757.6,0.0,0.0,1757.6,1227.36,530.24,30.17,False
+ORD-2025313,2025-02-08,Asia Pacific,Furniture,Acoustic Panels,Direct Enterprise,2,977.4851651212327,369.96,0.2,73.99,295.97,274.84,21.13,7.14,False
+ORD-2025314,2025-09-15,North America,Technology,Wireless Headsets,Partner Reseller,1,197.6866659529491,37.41,0.05,1.87,35.54,29.11,6.43,18.09,False
+ORD-2025315,2025-03-03,Europe,Technology,Enterprise Laptops,Online Portal,12,727.9370249201538,1653.05,0.2,330.61,1322.44,1112.29,210.15,15.89,False
+ORD-2025316,2025-03-14,North America,Furniture,Task Lighting,Retail Store,2,722.4193352404174,273.42,0.1,27.34,246.08,197.87,48.21,19.59,False
+ORD-2025317,2025-02-10,Europe,Technology,UltraHD Monitors,Partner Reseller,9,97.9855424521509,166.88,0.05,8.34,158.54,122.2,36.34,22.92,False
+ORD-2025318,2025-10-17,North America,Technology,Cloud Servers,Direct Enterprise,8,1383.336935231727,2094.25,0.3,628.28,1465.98,1330.55,135.43,9.24,True
+ORD-2025319,2025-07-21,Europe,Office Supplies,Filing Cabinets,Partner Reseller,11,766.850566066656,1596.3,0.05,79.82,1516.49,1197.67,318.82,21.02,False
+ORD-2025320,2025-11-21,Europe,Furniture,Task Lighting,Online Portal,1,234.20357409477168,44.32,0.0,0.0,44.32,35.47,8.85,19.97,False
+ORD-2025321,2025-12-10,Europe,Software & Services,Cloud Migration Services,Online Portal,11,415.51212373504495,864.94,0.25,216.24,648.71,570.13,78.58,12.11,True
+ORD-2025322,2025-02-20,North America,Furniture,Storage Shelves,Online Portal,10,1625.1455702788412,3075.41,0.0,0.0,3075.41,2455.56,619.85,20.16,False
+ORD-2025323,2025-12-23,Europe,Technology,UltraHD Monitors,Retail Store,9,1772.0230356183124,3018.03,0.05,150.9,2867.13,2366.51,500.62,17.46,False
+ORD-2025324,2025-04-19,Latin America,Furniture,Storage Shelves,Direct Enterprise,9,1018.9950993765195,1735.51,0.1,173.55,1561.95,1293.7,268.25,17.17,False
+ORD-2025325,2025-12-09,Europe,Technology,Smart Projectors,Partner Reseller,10,150.88326884829354,285.53,0.05,14.28,271.25,200.38,70.87,26.13,False
+ORD-2025326,2025-10-27,Asia Pacific,Office Supplies,Ergonomic Chairs,Retail Store,8,1799.4991572728495,2724.29,0.0,0.0,2724.29,2130.02,594.27,21.81,False
+ORD-2025327,2025-09-30,Asia Pacific,Technology,Enterprise Laptops,Retail Store,10,857.5296458027972,1622.78,0.15,243.42,1379.37,1066.69,312.68,22.67,False
+ORD-2025328,2025-01-05,Europe,Office Supplies,Filing Cabinets,Partner Reseller,11,1641.5455691401735,3417.09,0.15,512.56,2904.53,2403.07,501.46,17.26,False
+ORD-2025329,2025-05-20,North America,Furniture,Task Lighting,Direct Enterprise,1,1241.3228126808497,234.91,0.1,23.49,211.42,154.75,56.67,26.8,False
+ORD-2025330,2025-03-11,North America,Office Supplies,Laser Printers,Retail Store,4,1561.208164400454,1181.77,0.1,118.18,1063.59,826.48,237.11,22.29,False
+ORD-2025331,2025-04-12,Europe,Office Supplies,Filing Cabinets,Partner Reseller,9,683.9691524225345,1164.9,0.15,174.74,990.17,869.35,120.82,12.2,False
+ORD-2025332,2025-08-07,Europe,Furniture,Task Lighting,Partner Reseller,13,883.8459216120123,2174.36,0.4,869.74,1304.62,1243.81,60.81,4.66,True
+ORD-2025333,2025-12-03,Europe,Technology,Wireless Headsets,Partner Reseller,6,498.08323893367003,565.54,0.0,0.0,565.54,452.61,112.93,19.97,False
+ORD-2025334,2025-07-08,Latin America,Technology,Smart Projectors,Online Portal,11,1576.0845922822634,3280.83,0.1,328.08,2952.75,2395.06,557.69,18.89,False
+ORD-2025335,2025-10-04,North America,Furniture,Acoustic Panels,Retail Store,14,1725.5340333166682,4571.54,0.0,0.0,4571.54,3672.97,898.57,19.66,False
+ORD-2025336,2025-09-21,Latin America,Technology,Wireless Headsets,Direct Enterprise,4,1509.7530447511826,1142.82,0.15,171.42,971.4,750.5,220.9,22.74,False
+ORD-2025337,2025-08-20,Latin America,Furniture,Modern Conference Tables,Partner Reseller,1,1530.3625194360313,289.6,0.1,28.96,260.64,192.64,68.0,26.09,False
+ORD-2025338,2025-09-22,Asia Pacific,Technology,Cloud Servers,Online Portal,6,585.7403465392881,665.07,0.1,66.51,598.56,485.47,113.09,18.89,False
+ORD-2025339,2025-06-22,Asia Pacific,Technology,Wireless Headsets,Partner Reseller,6,574.2399364192793,652.01,0.0,0.0,652.01,485.22,166.79,25.58,False
+ORD-2025340,2025-08-22,North America,Office Supplies,Executive Desks,Online Portal,10,755.028244607115,1428.81,0.05,71.44,1357.37,996.27,361.1,26.6,False
+ORD-2025341,2025-10-22,Europe,Technology,Wireless Headsets,Online Portal,13,1070.7006117982023,2634.04,0.2,526.81,2107.23,1817.91,289.32,13.73,False
+ORD-2025342,2025-06-07,Latin America,Office Supplies,Paper Shredders,Partner Reseller,9,1379.3200002246438,2349.19,0.0,0.0,2349.19,1809.6,539.59,22.97,False
+ORD-2025343,2025-02-01,Europe,Office Supplies,Laser Printers,Retail Store,2,473.38044055217676,179.16,0.15,26.87,152.29,132.17,20.12,13.21,False
+ORD-2025344,2025-12-01,Europe,Office Supplies,Paper Shredders,Partner Reseller,7,1311.146504245448,1736.84,0.05,86.84,1650.0,1195.78,454.22,27.53,False
+ORD-2025345,2025-10-17,North America,Office Supplies,Filing Cabinets,Direct Enterprise,12,754.2816155089206,1712.88,0.0,0.0,1712.88,1211.1,501.78,29.29,False
+ORD-2025346,2025-12-15,North America,Technology,Enterprise Laptops,Partner Reseller,8,1518.842361623004,2299.4,0.0,0.0,2299.4,1641.63,657.77,28.61,False
+ORD-2025347,2025-11-16,North America,Technology,Enterprise Laptops,Partner Reseller,3,1038.7226259316938,589.7,0.2,117.94,471.76,408.59,63.17,13.39,False
+ORD-2025348,2025-12-04,Latin America,Technology,Enterprise Laptops,Online Portal,8,1737.1372288576893,2629.88,0.0,0.0,2629.88,2015.54,614.34,23.36,False
+ORD-2025349,2025-08-06,Europe,Software & Services,SaaS Enterprise Licenses,Retail Store,7,57.635721888040905,76.35,0.0,0.0,76.35,58.75,17.6,23.05,False
+ORD-2025350,2025-01-13,North America,Technology,Wireless Headsets,Direct Enterprise,4,1279.4458776859121,968.48,0.05,48.42,920.06,660.63,259.43,28.2,False
+ORD-2025351,2025-07-30,Europe,Technology,Smart Projectors,Online Portal,7,925.7020049928522,1226.25,0.05,61.31,1164.94,887.96,276.98,23.78,False
+ORD-2025352,2025-05-26,Europe,Furniture,Modern Conference Tables,Retail Store,7,1393.243349906357,1845.59,0.05,92.28,1753.31,1416.61,336.7,19.2,False
+ORD-2025353,2025-01-31,Asia Pacific,Technology,Wireless Headsets,Online Portal,8,1183.4980493601126,1791.71,0.15,268.76,1522.96,1307.14,215.82,14.17,False
+ORD-2025354,2025-08-25,North America,Technology,Cloud Servers,Online Portal,3,602.3478515858625,341.96,0.1,34.2,307.77,239.97,67.8,22.03,False
+ORD-2025355,2025-11-06,North America,Software & Services,Cloud Migration Services,Partner Reseller,3,1217.016655964113,690.92,0.2,138.18,552.74,496.04,56.7,10.26,False
+ORD-2025356,2025-02-22,North America,Furniture,Storage Shelves,Direct Enterprise,6,640.3547068459122,727.08,0.0,0.0,727.08,508.48,218.6,30.07,False
+ORD-2025357,2025-05-18,North America,Furniture,Modern Conference Tables,Retail Store,6,516.6815941584607,586.66,0.15,88.0,498.66,436.64,62.02,12.44,False
+ORD-2025358,2025-07-07,North America,Furniture,Task Lighting,Retail Store,1,962.2680833947431,182.1,0.35,63.73,118.37,108.33,10.04,8.48,True
+ORD-2025359,2025-06-30,North America,Technology,Enterprise Laptops,Online Portal,5,514.7699576775606,487.07,0.0,0.0,487.07,350.44,136.63,28.05,False
+ORD-2025360,2025-02-02,Asia Pacific,Technology,Enterprise Laptops,Online Portal,12,52.36884500206927,118.92,0.05,5.95,112.98,88.79,24.19,21.41,False
+ORD-2025361,2025-05-15,Asia Pacific,Office Supplies,Filing Cabinets,Retail Store,1,1110.7564886335895,210.2,0.05,10.51,199.69,145.93,53.76,26.92,False
+ORD-2025362,2025-02-28,North America,Technology,Enterprise Laptops,Direct Enterprise,2,1105.7606600011502,418.51,0.1,41.85,376.66,276.95,99.71,26.47,False
+ORD-2025363,2025-08-06,Europe,Software & Services,Cybersecurity Audits,Direct Enterprise,8,1784.823827737386,2702.07,0.1,270.21,2431.86,2078.89,352.97,14.51,False
+ORD-2025364,2025-01-28,Asia Pacific,Technology,UltraHD Monitors,Retail Store,7,296.40516056218314,392.64,0.1,39.26,353.38,293.6,59.78,16.92,False
+ORD-2025365,2025-10-28,North America,Software & Services,Cloud Migration Services,Retail Store,4,729.2899857222421,552.04,0.15,82.81,469.24,370.23,99.01,21.1,False
+ORD-2025366,2025-02-18,Latin America,Technology,Cloud Servers,Direct Enterprise,9,1257.4995402906509,2141.71,0.15,321.26,1820.46,1607.56,212.9,11.69,False
+ORD-2025367,2025-03-25,Europe,Technology,Enterprise Laptops,Online Portal,6,976.9045169048348,1109.21,0.0,0.0,1109.21,825.46,283.75,25.58,False
+ORD-2025368,2025-10-04,Latin America,Office Supplies,Executive Desks,Online Portal,10,365.53888698986174,691.74,0.1,69.17,622.57,499.08,123.49,19.84,False
+ORD-2025369,2025-01-06,Europe,Technology,Wireless Headsets,Retail Store,1,289.7483603439249,54.83,0.4,21.93,32.9,34.42,-1.52,-4.62,True
+ORD-2025370,2025-12-17,North America,Software & Services,Cloud Migration Services,Retail Store,3,921.9130008737277,523.39,0.05,26.17,497.22,409.9,87.32,17.56,False
+ORD-2025371,2025-11-28,North America,Technology,Wireless Headsets,Partner Reseller,7,424.4248177044146,562.22,0.0,0.0,562.22,385.8,176.42,31.38,False
+ORD-2025372,2025-04-18,Asia Pacific,Software & Services,Data Analytics Suite,Direct Enterprise,11,741.6103710424478,1543.76,0.3,463.13,1080.63,1096.21,-15.58,-1.44,True
+ORD-2025373,2025-01-08,North America,Office Supplies,Laser Printers,Partner Reseller,14,1171.0765712105529,3102.59,0.15,465.39,2637.2,2044.83,592.37,22.46,False
+ORD-2025374,2025-03-29,Asia Pacific,Furniture,Task Lighting,Direct Enterprise,5,65.81732088876132,62.28,0.05,3.11,59.16,48.57,10.59,17.9,False
+ORD-2025375,2025-09-12,Europe,Technology,Cloud Servers,Retail Store,2,950.6963299625181,359.82,0.2,71.96,287.85,235.67,52.18,18.13,False
+ORD-2025376,2025-06-04,North America,Office Supplies,Paper Shredders,Direct Enterprise,10,1627.4204191233862,3079.72,0.0,0.0,3079.72,2471.54,608.18,19.75,False
+ORD-2025377,2025-02-03,Latin America,Technology,Smart Projectors,Partner Reseller,1,1162.0263799041645,219.9,0.0,0.0,219.9,151.38,68.52,31.16,False
+ORD-2025378,2025-04-09,Latin America,Office Supplies,Ergonomic Chairs,Online Portal,13,489.25242070902544,1203.61,0.1,120.36,1083.25,839.36,243.89,22.51,False
+ORD-2025379,2025-11-20,Asia Pacific,Software & Services,Data Analytics Suite,Direct Enterprise,4,228.15644516168956,172.71,0.1,17.27,155.44,117.61,37.83,24.34,False
+ORD-2025380,2025-04-15,North America,Software & Services,Data Analytics Suite,Online Portal,8,544.3378019597967,824.08,0.3,247.22,576.86,547.32,29.54,5.12,True
+ORD-2025381,2025-05-19,Europe,Technology,Cloud Servers,Online Portal,3,544.3681154524915,309.05,0.05,15.45,293.59,239.86,53.73,18.3,False
+ORD-2025382,2025-11-23,Asia Pacific,Technology,Cloud Servers,Partner Reseller,10,1605.552992006352,3038.34,0.1,303.83,2734.5,2063.02,671.48,24.56,False
+ORD-2025383,2025-02-10,North America,Office Supplies,Laser Printers,Online Portal,9,687.6199172494061,1171.12,0.05,58.56,1112.57,906.91,205.66,18.49,False
+ORD-2025384,2025-07-14,North America,Furniture,Storage Shelves,Retail Store,2,1404.335888098664,531.51,0.05,26.57,504.94,408.14,96.8,19.17,False
+ORD-2025385,2025-10-17,Asia Pacific,Office Supplies,Laser Printers,Partner Reseller,13,115.74940819808792,284.76,0.0,0.0,284.76,220.91,63.85,22.42,False
+ORD-2025386,2025-11-09,Europe,Technology,Smart Projectors,Direct Enterprise,10,400.98043937772013,758.81,0.0,0.0,758.81,520.33,238.48,31.43,False
+ORD-2025387,2025-07-31,North America,Technology,Cloud Servers,Retail Store,12,442.51359574882883,1004.89,0.15,150.73,854.16,731.66,122.5,14.34,False
+ORD-2025388,2025-12-09,Europe,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,11,525.0175108598503,1092.89,0.0,0.0,1092.89,792.0,300.89,27.53,False
+ORD-2025389,2025-02-16,Asia Pacific,Software & Services,Cloud Migration Services,Online Portal,5,999.3242560596482,945.56,0.0,0.0,945.56,690.16,255.4,27.01,False
+ORD-2025390,2025-10-14,Asia Pacific,Technology,UltraHD Monitors,Partner Reseller,14,1071.6023658996953,2839.05,0.3,851.71,1987.33,1703.13,284.2,14.3,True
+ORD-2025391,2025-09-30,Europe,Technology,Enterprise Laptops,Partner Reseller,5,1030.160470525942,974.73,0.15,146.21,828.52,705.82,122.7,14.81,False
+ORD-2025392,2025-02-20,North America,Software & Services,Cloud Migration Services,Online Portal,8,365.34256972425885,553.1,0.0,0.0,553.1,431.58,121.52,21.97,False
+ORD-2025393,2025-06-16,Asia Pacific,Technology,UltraHD Monitors,Partner Reseller,9,391.6710551738611,667.08,0.05,33.35,633.72,473.34,160.38,25.31,False
+ORD-2025394,2025-11-04,North America,Technology,Enterprise Laptops,Retail Store,13,1707.4086674399084,4200.41,0.1,420.04,3780.37,2940.2,840.17,22.22,False
+ORD-2025395,2025-09-28,Europe,Technology,Cloud Servers,Online Portal,1,94.08847442865138,17.81,0.2,3.56,14.24,11.14,3.1,21.77,False
+ORD-2025396,2025-11-10,Europe,Furniture,Task Lighting,Retail Store,11,926.9037904588449,1929.47,0.15,289.42,1640.05,1357.11,282.94,17.25,False
+ORD-2025397,2025-06-17,North America,Office Supplies,Filing Cabinets,Retail Store,6,257.36162784470105,292.22,0.3,87.67,204.55,198.7,5.85,2.86,True
+ORD-2025398,2025-05-27,North America,Technology,UltraHD Monitors,Direct Enterprise,4,1235.016721800929,934.86,0.1,93.49,841.37,647.25,194.12,23.07,False
+ORD-2025399,2025-01-22,Europe,Furniture,Acoustic Panels,Online Portal,7,1635.652355842206,2166.71,0.0,0.0,2166.71,1657.21,509.5,23.51,False
+ORD-2025400,2025-05-04,North America,Technology,Smart Projectors,Partner Reseller,5,667.677381041624,631.75,0.1,63.18,568.58,438.72,129.86,22.84,False
+ORD-2025401,2025-02-26,Asia Pacific,Office Supplies,Filing Cabinets,Direct Enterprise,14,196.85918768750147,521.55,0.05,26.08,495.47,391.33,104.14,21.02,False
+ORD-2025402,2025-02-16,North America,Software & Services,Cloud Migration Services,Online Portal,7,1156.4937688658697,1531.98,0.0,0.0,1531.98,1125.05,406.93,26.56,False
+ORD-2025403,2025-11-06,Europe,Software & Services,Cloud Migration Services,Online Portal,10,1650.7794511738814,3123.92,0.0,0.0,3123.92,2305.98,817.94,26.18,False
+ORD-2025404,2025-07-21,North America,Software & Services,SaaS Enterprise Licenses,Retail Store,14,1022.1169921852553,2707.95,0.0,0.0,2707.95,2041.54,666.41,24.61,False
+ORD-2025405,2025-08-07,Europe,Technology,Wireless Headsets,Online Portal,2,895.3194707280575,338.86,0.05,16.94,321.92,238.5,83.42,25.91,False
+ORD-2025406,2025-03-15,Asia Pacific,Technology,Wireless Headsets,Direct Enterprise,6,169.58468347980735,192.55,0.05,9.63,182.92,144.89,38.03,20.79,False
+ORD-2025407,2025-03-25,North America,Office Supplies,Paper Shredders,Online Portal,6,1738.7768965453258,1974.27,0.05,98.71,1875.56,1480.99,394.57,21.04,False
+ORD-2025408,2025-12-18,Europe,Technology,Cloud Servers,Partner Reseller,12,53.532406059409354,121.57,0.0,0.0,121.57,84.92,36.65,30.15,False
+ORD-2025409,2025-09-23,Europe,Technology,Wireless Headsets,Retail Store,5,404.60710973685053,382.84,0.1,38.28,344.56,282.61,61.95,17.98,False
+ORD-2025410,2025-01-25,North America,Office Supplies,Paper Shredders,Retail Store,7,492.92769356431535,652.97,0.1,65.3,587.67,501.97,85.7,14.58,False
+ORD-2025411,2025-03-14,Asia Pacific,Technology,Enterprise Laptops,Online Portal,2,1349.9437060860535,510.93,0.05,25.55,485.38,396.3,89.08,18.35,False
+ORD-2025412,2025-12-07,Latin America,Technology,Cloud Servers,Direct Enterprise,11,1316.0336812375017,2739.5,0.0,0.0,2739.5,2067.7,671.8,24.52,False
+ORD-2025413,2025-09-30,Europe,Office Supplies,Executive Desks,Retail Store,13,209.93510108060872,516.46,0.0,0.0,516.46,407.54,108.92,21.09,False
+ORD-2025414,2025-02-16,North America,Technology,Smart Projectors,Partner Reseller,2,159.42101754998004,60.34,0.1,6.03,54.3,44.76,9.54,17.57,False
+ORD-2025415,2025-11-10,Europe,Office Supplies,Executive Desks,Online Portal,6,720.7474193738524,818.36,0.1,81.84,736.52,563.35,173.17,23.51,False
+ORD-2025416,2025-06-23,North America,Office Supplies,Filing Cabinets,Online Portal,8,169.8027588337616,257.07,0.05,12.85,244.21,200.33,43.88,17.97,False
+ORD-2025417,2025-04-17,Europe,Technology,Cloud Servers,Direct Enterprise,6,1554.691711934733,1765.25,0.0,0.0,1765.25,1374.0,391.25,22.16,False
+ORD-2025418,2025-09-15,Europe,Technology,Cloud Servers,Online Portal,10,924.0055972669619,1748.58,0.1,174.86,1573.72,1174.76,398.96,25.35,False
+ORD-2025419,2025-12-01,North America,Furniture,Acoustic Panels,Online Portal,9,401.922773024668,684.54,0.1,68.45,616.08,481.37,134.71,21.87,False
+ORD-2025420,2025-12-29,Europe,Software & Services,Cybersecurity Audits,Direct Enterprise,7,1297.68001375291,1719.0,0.0,0.0,1719.0,1260.44,458.56,26.68,False
+ORD-2025421,2025-04-12,North America,Technology,Smart Projectors,Direct Enterprise,10,1699.4297881602042,3215.99,0.15,482.4,2733.59,2333.39,400.2,14.64,False
+ORD-2025422,2025-10-30,Asia Pacific,Technology,Smart Projectors,Direct Enterprise,4,1667.9818469094087,1262.59,0.05,63.13,1199.46,928.67,270.79,22.58,False
+ORD-2025423,2025-06-02,North America,Technology,Cloud Servers,Retail Store,9,1499.2044507611,2553.37,0.0,0.0,2553.37,1994.12,559.25,21.9,False
+ORD-2025424,2025-02-05,Europe,Technology,UltraHD Monitors,Partner Reseller,1,607.5656848363126,114.98,0.25,28.74,86.23,71.17,15.06,17.46,True
+ORD-2025425,2025-04-19,Europe,Technology,Smart Projectors,Online Portal,7,1516.3396559906562,2008.66,0.2,401.73,1606.92,1434.02,172.9,10.76,False
+ORD-2025426,2025-11-09,North America,Technology,Smart Projectors,Partner Reseller,13,1313.376148152439,3231.05,0.05,161.55,3069.5,2351.88,717.62,23.38,False
+ORD-2025427,2025-02-14,North America,Technology,UltraHD Monitors,Direct Enterprise,6,1431.5063398415846,1625.38,0.05,81.27,1544.11,1193.18,350.93,22.73,False
+ORD-2025428,2025-07-28,Europe,Furniture,Acoustic Panels,Online Portal,10,669.9748226301274,1267.86,0.0,0.0,1267.86,901.48,366.38,28.9,False
+ORD-2025429,2025-07-20,North America,Technology,Wireless Headsets,Online Portal,14,1729.7599047485467,4582.74,0.1,458.27,4124.47,3304.15,820.32,19.89,False
+ORD-2025430,2025-06-24,Asia Pacific,Furniture,Acoustic Panels,Online Portal,8,1278.7556683182015,1935.93,0.0,0.0,1935.93,1440.58,495.35,25.59,False
+ORD-2025431,2025-05-21,Asia Pacific,Office Supplies,Paper Shredders,Retail Store,1,917.4815629058094,173.62,0.3,52.09,121.54,112.37,9.17,7.54,True
+ORD-2025432,2025-12-10,Asia Pacific,Technology,Smart Projectors,Online Portal,1,1238.0710188862208,234.29,0.15,35.14,199.15,176.44,22.71,11.4,False
+ORD-2025433,2025-07-12,North America,Furniture,Modern Conference Tables,Partner Reseller,13,764.2083494453655,1880.04,0.25,470.01,1410.03,1196.15,213.88,15.17,True
+ORD-2025434,2025-10-09,North America,Technology,Cloud Servers,Direct Enterprise,8,1367.117014625713,2069.7,0.1,206.97,1862.73,1570.51,292.22,15.69,False
+ORD-2025435,2025-12-30,North America,Furniture,Storage Shelves,Partner Reseller,3,1546.20453423258,877.81,0.25,219.45,658.36,584.06,74.3,11.29,True
+ORD-2025436,2025-06-30,Europe,Office Supplies,Executive Desks,Partner Reseller,2,167.20382104422515,63.28,0.2,12.66,50.63,42.47,8.16,16.12,False
+ORD-2025437,2025-07-04,Asia Pacific,Furniture,Task Lighting,Direct Enterprise,1,179.68448950601737,34.0,0.05,1.7,32.3,26.02,6.28,19.44,False
+ORD-2025438,2025-12-01,North America,Software & Services,Data Analytics Suite,Direct Enterprise,3,435.194820333318,247.07,0.05,12.35,234.71,176.4,58.31,24.84,False
+ORD-2025439,2025-02-28,Asia Pacific,Technology,Cloud Servers,Retail Store,11,1199.2765982628139,2496.45,0.15,374.47,2121.98,1599.42,522.56,24.63,False
+ORD-2025440,2025-08-23,Asia Pacific,Furniture,Modern Conference Tables,Retail Store,12,216.90030397785262,492.55,0.0,0.0,492.55,340.02,152.53,30.97,False
+ORD-2025441,2025-05-16,Europe,Office Supplies,Paper Shredders,Online Portal,7,1235.5784759410776,1636.74,0.15,245.51,1391.23,1049.85,341.38,24.54,False
+ORD-2025442,2025-07-30,Europe,Furniture,Task Lighting,Direct Enterprise,12,733.821516576865,1666.41,0.0,0.0,1666.41,1191.98,474.43,28.47,False
+ORD-2025443,2025-10-04,Europe,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,6,1376.9677610981034,1563.46,0.05,78.17,1485.29,1124.18,361.11,24.31,False
+ORD-2025444,2025-09-24,North America,Technology,Wireless Headsets,Direct Enterprise,8,1099.5998011983713,1664.7,0.2,332.94,1331.76,1212.33,119.43,8.97,False
+ORD-2025445,2025-05-18,Europe,Technology,Enterprise Laptops,Online Portal,2,283.88851746840646,107.45,0.05,5.37,102.07,77.71,24.36,23.87,False
+ORD-2025446,2025-11-14,Asia Pacific,Technology,Enterprise Laptops,Partner Reseller,3,1693.3698390380102,961.36,0.1,96.14,865.22,666.51,198.71,22.97,False
+ORD-2025447,2025-06-22,Asia Pacific,Office Supplies,Paper Shredders,Partner Reseller,4,1491.5929426484652,1129.07,0.0,0.0,1129.07,877.4,251.67,22.29,False
+ORD-2025448,2025-07-26,Asia Pacific,Furniture,Task Lighting,Online Portal,5,1358.7175052211257,1285.61,0.0,0.0,1285.61,913.31,372.3,28.96,False
+ORD-2025449,2025-06-14,North America,Technology,Smart Projectors,Retail Store,3,1492.572060788721,847.36,0.1,84.74,762.62,641.36,121.26,15.9,False
+ORD-2025450,2025-06-25,North America,Software & Services,Cybersecurity Audits,Retail Store,8,1338.4005444249626,2026.22,0.05,101.31,1924.91,1517.72,407.19,21.15,False
+ORD-2025451,2025-09-15,Asia Pacific,Furniture,Storage Shelves,Retail Store,6,216.106389437922,245.38,0.4,98.15,147.22,148.17,-0.95,-0.65,True
+ORD-2025452,2025-10-14,Asia Pacific,Office Supplies,Filing Cabinets,Direct Enterprise,11,472.6188491995187,983.82,0.0,0.0,983.82,721.66,262.16,26.65,False
+ORD-2025453,2025-10-18,North America,Technology,Wireless Headsets,Online Portal,11,73.97246321560046,153.98,0.0,0.0,153.98,111.13,42.85,27.83,False
+ORD-2025454,2025-03-27,North America,Furniture,Modular Workstations,Direct Enterprise,4,118.14152920341482,89.43,0.2,17.88,71.54,62.47,9.07,12.68,False
+ORD-2025455,2025-12-21,Latin America,Technology,Smart Projectors,Online Portal,3,1066.663164804314,605.56,0.4,242.23,363.34,396.73,-33.39,-9.19,True
+ORD-2025456,2025-06-20,Europe,Technology,Enterprise Laptops,Retail Store,3,1569.7188788974186,891.16,0.05,44.56,846.6,636.15,210.45,24.86,False
+ORD-2025457,2025-01-28,Europe,Technology,Wireless Headsets,Direct Enterprise,12,914.7584236162946,2077.3,0.2,415.46,1661.84,1411.93,249.91,15.04,False
+ORD-2025458,2025-06-15,Europe,Technology,Wireless Headsets,Direct Enterprise,2,684.2548145777009,258.98,0.2,51.79,207.18,165.19,41.99,20.27,False
+ORD-2025459,2025-03-16,North America,Office Supplies,Ergonomic Chairs,Partner Reseller,9,1185.1181743454272,2018.44,0.05,100.92,1917.52,1389.08,528.44,27.56,False
+ORD-2025460,2025-03-05,Asia Pacific,Technology,Cloud Servers,Online Portal,6,1064.5207749201431,1208.69,0.1,120.87,1087.82,927.91,159.91,14.7,False
+ORD-2025461,2025-04-22,North America,Technology,Cloud Servers,Retail Store,6,1249.975950133877,1419.27,0.25,354.82,1064.45,973.54,90.91,8.54,True
+ORD-2025462,2025-03-31,Europe,Technology,Smart Projectors,Direct Enterprise,6,1174.5108180663597,1333.58,0.0,0.0,1333.58,1030.57,303.01,22.72,False
+ORD-2025463,2025-12-30,North America,Technology,Smart Projectors,Retail Store,10,197.98941167016625,374.67,0.1,37.47,337.21,284.61,52.6,15.6,False
+ORD-2025464,2025-05-24,Asia Pacific,Office Supplies,Paper Shredders,Partner Reseller,8,394.14377366767775,596.7,0.15,89.5,507.2,402.08,105.12,20.73,False
+ORD-2025465,2025-03-14,Latin America,Technology,UltraHD Monitors,Direct Enterprise,7,1133.2352382225292,1501.17,0.3,450.35,1050.82,1031.78,19.04,1.81,True
+ORD-2025466,2025-10-03,North America,Technology,Cloud Servers,Direct Enterprise,1,1541.9579871804483,291.8,0.3,87.54,204.26,176.53,27.73,13.58,True
+ORD-2025467,2025-01-11,Asia Pacific,Technology,UltraHD Monitors,Online Portal,11,870.9376193332627,1812.97,0.05,90.65,1722.32,1235.74,486.58,28.25,False
+ORD-2025468,2025-02-21,Europe,Office Supplies,Paper Shredders,Online Portal,9,1743.5825642217335,2969.59,0.05,148.48,2821.11,2086.88,734.23,26.03,False
+ORD-2025469,2025-12-26,North America,Office Supplies,Paper Shredders,Online Portal,8,276.93821189241186,419.26,0.05,20.96,398.3,298.48,99.82,25.06,False
+ORD-2025470,2025-05-05,North America,Software & Services,Data Analytics Suite,Online Portal,4,307.11336627159886,232.47,0.05,11.62,220.85,179.62,41.23,18.67,False
+ORD-2025471,2025-10-05,Europe,Technology,Cloud Servers,Online Portal,14,290.0098542673005,768.34,0.1,76.83,691.5,549.26,142.24,20.57,False
+ORD-2025472,2025-08-26,North America,Technology,Cloud Servers,Online Portal,7,193.9765674848583,256.96,0.1,25.69,231.26,177.59,53.67,23.21,False
+ORD-2025473,2025-11-09,Asia Pacific,Technology,UltraHD Monitors,Direct Enterprise,6,1318.7606335234577,1497.37,0.1,149.74,1347.63,1099.29,248.34,18.43,False
+ORD-2025474,2025-04-16,North America,Office Supplies,Paper Shredders,Direct Enterprise,9,1695.7336127763072,2888.09,0.0,0.0,2888.09,2156.9,731.19,25.32,False
+ORD-2025475,2025-11-29,Asia Pacific,Office Supplies,Laser Printers,Online Portal,3,1201.644523311083,682.19,0.0,0.0,682.19,531.99,150.2,22.02,False
+ORD-2025476,2025-10-22,Europe,Furniture,Storage Shelves,Direct Enterprise,1,1481.2485348963016,280.31,0.1,28.03,252.28,208.09,44.19,17.52,False
+ORD-2025477,2025-07-07,Europe,Office Supplies,Laser Printers,Retail Store,7,1681.5648269005358,2227.53,0.15,334.13,1893.4,1499.09,394.31,20.83,False
+ORD-2025478,2025-07-10,Europe,Technology,Wireless Headsets,Retail Store,3,369.96611477042995,210.04,0.2,42.01,168.03,138.37,29.66,17.65,False
+ORD-2025479,2025-07-19,Europe,Technology,Wireless Headsets,Online Portal,3,1614.4741088321814,916.57,0.05,45.83,870.74,693.4,177.34,20.37,False
+ORD-2025480,2025-12-15,Asia Pacific,Technology,Enterprise Laptops,Partner Reseller,9,492.13055358725165,838.17,0.1,83.82,754.35,600.83,153.52,20.35,False
+ORD-2025481,2025-01-13,Europe,Office Supplies,Ergonomic Chairs,Retail Store,4,1362.9650868929739,1031.71,0.0,0.0,1031.71,762.58,269.13,26.09,False
+ORD-2025482,2025-09-30,North America,Technology,Wireless Headsets,Direct Enterprise,7,560.0565986141394,741.89,0.0,0.0,741.89,528.89,213.0,28.71,False
+ORD-2025483,2025-07-06,Europe,Technology,Cloud Servers,Direct Enterprise,13,320.36135700862013,788.12,0.1,78.81,709.31,556.31,153.0,21.57,False
+ORD-2025484,2025-10-13,Latin America,Furniture,Storage Shelves,Online Portal,14,882.4536815191777,2337.93,0.15,350.69,1987.24,1708.1,279.14,14.05,False
+ORD-2025485,2025-04-22,North America,Office Supplies,Laser Printers,Partner Reseller,9,869.5778253841736,1481.02,0.15,222.15,1258.87,969.16,289.71,23.01,False
+ORD-2025486,2025-06-29,North America,Furniture,Modern Conference Tables,Online Portal,1,1443.0129542477457,273.07,0.15,40.96,232.11,181.69,50.42,21.72,False
+ORD-2025487,2025-10-15,North America,Furniture,Modern Conference Tables,Direct Enterprise,8,541.837062792056,820.3,0.0,0.0,820.3,598.64,221.66,27.02,False
+ORD-2025488,2025-08-20,North America,Technology,Wireless Headsets,Partner Reseller,1,418.8675363707044,79.27,0.1,7.93,71.34,59.98,11.36,15.92,False
+ORD-2025489,2025-02-25,North America,Technology,Smart Projectors,Direct Enterprise,3,968.2873659075063,549.71,0.15,82.46,467.26,367.0,100.26,21.46,False
+ORD-2025490,2025-05-19,North America,Technology,UltraHD Monitors,Partner Reseller,8,1683.1089035787859,2548.08,0.05,127.4,2420.68,1891.83,528.85,21.85,False
+ORD-2025491,2025-05-27,North America,Technology,Smart Projectors,Partner Reseller,4,1343.3672078939019,1016.87,0.05,50.84,966.03,715.0,251.03,25.99,False
+ORD-2025492,2025-02-27,Europe,Office Supplies,Ergonomic Chairs,Direct Enterprise,4,1139.7066966621455,862.71,0.4,345.08,517.63,519.46,-1.83,-0.35,True
+ORD-2025493,2025-12-21,North America,Technology,Cloud Servers,Direct Enterprise,10,650.9267288108774,1231.81,0.2,246.36,985.45,906.89,78.56,7.97,False
+ORD-2025494,2025-07-27,Europe,Technology,Wireless Headsets,Direct Enterprise,8,1091.6224597220307,1652.62,0.0,0.0,1652.62,1321.93,330.69,20.01,False
+ORD-2025495,2025-01-25,Latin America,Technology,UltraHD Monitors,Direct Enterprise,10,1183.1538134758855,2238.99,0.05,111.95,2127.04,1546.45,580.59,27.3,False
+ORD-2025496,2025-06-01,Asia Pacific,Furniture,Modern Conference Tables,Partner Reseller,3,421.7827350920777,239.45,0.15,35.92,203.54,164.91,38.63,18.98,False
+ORD-2025497,2025-06-11,Asia Pacific,Technology,Cloud Servers,Partner Reseller,4,599.2866339012978,453.63,0.15,68.04,385.59,304.87,80.72,20.93,False
+ORD-2025498,2025-03-30,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,4,1504.1610493463697,1138.58,0.0,0.0,1138.58,879.11,259.47,22.79,False
+ORD-2025499,2025-10-21,Asia Pacific,Software & Services,Data Analytics Suite,Retail Store,14,1156.4167640187566,3063.75,0.1,306.37,2757.38,2148.07,609.31,22.1,False
+ORD-2025500,2025-03-11,Latin America,Technology,Cloud Servers,Partner Reseller,2,235.2431627863405,89.04,0.2,17.81,71.23,61.18,10.05,14.11,False
+ORD-2025501,2025-07-11,Latin America,Technology,Enterprise Laptops,Retail Store,1,194.78456934142383,36.86,0.05,1.84,35.02,28.11,6.91,19.73,False
+ORD-2025502,2025-08-25,North America,Technology,Wireless Headsets,Direct Enterprise,6,425.71780306087203,483.38,0.0,0.0,483.38,365.15,118.23,24.46,False
+ORD-2025503,2025-12-26,North America,Office Supplies,Laser Printers,Retail Store,12,1577.9404748373984,3583.3,0.15,537.49,3045.81,2611.68,434.13,14.25,False
+ORD-2025504,2025-08-08,Latin America,Technology,UltraHD Monitors,Direct Enterprise,8,658.1578917990706,996.39,0.0,0.0,996.39,688.32,308.07,30.92,False
+ORD-2025505,2025-03-17,Europe,Technology,Smart Projectors,Partner Reseller,1,492.50170693769456,93.2,0.1,9.32,83.88,65.0,18.88,22.51,False
+ORD-2025506,2025-12-01,Asia Pacific,Office Supplies,Paper Shredders,Retail Store,8,327.0318251848251,495.1,0.0,0.0,495.1,371.79,123.31,24.91,False
+ORD-2025507,2025-05-21,North America,Office Supplies,Paper Shredders,Online Portal,3,437.16771878061195,248.19,0.05,12.41,235.78,190.1,45.68,19.37,False
+ORD-2025508,2025-11-06,Asia Pacific,Furniture,Storage Shelves,Retail Store,3,79.32353286166922,45.03,0.15,6.76,38.28,29.22,9.06,23.67,False
+ORD-2025509,2025-08-05,Europe,Software & Services,Data Analytics Suite,Retail Store,6,332.1329209564645,377.12,0.15,56.57,320.55,284.88,35.67,11.13,False
+ORD-2025510,2025-09-30,Latin America,Furniture,Task Lighting,Partner Reseller,3,1403.7511780287605,796.93,0.0,0.0,796.93,611.37,185.56,23.28,False
+ORD-2025511,2025-04-10,Asia Pacific,Software & Services,Cloud Migration Services,Retail Store,8,1120.7042851806375,1696.65,0.05,84.83,1611.82,1187.67,424.15,26.31,False
+ORD-2025512,2025-03-06,Europe,Furniture,Modular Workstations,Retail Store,14,536.6741513661239,1421.84,0.0,0.0,1421.84,1022.09,399.75,28.11,False
+ORD-2025513,2025-10-23,North America,Furniture,Task Lighting,Direct Enterprise,10,344.35639759140685,651.66,0.2,130.33,521.33,450.38,70.95,13.61,False
+ORD-2025514,2025-09-03,North America,Software & Services,Cybersecurity Audits,Direct Enterprise,7,435.7805074294831,577.27,0.25,144.32,432.95,416.29,16.66,3.85,True
+ORD-2025515,2025-04-13,Europe,Office Supplies,Filing Cabinets,Online Portal,10,600.9452013653854,1137.22,0.0,0.0,1137.22,884.3,252.92,22.24,False
+ORD-2025516,2025-03-01,Europe,Software & Services,Cybersecurity Audits,Direct Enterprise,14,995.5189306330377,2637.48,0.2,527.49,2109.98,1783.29,326.69,15.48,False
+ORD-2025517,2025-01-04,Asia Pacific,Office Supplies,Executive Desks,Online Portal,8,1008.0751072590576,1526.14,0.05,76.31,1449.83,1185.85,263.98,18.21,False
+ORD-2025518,2025-01-06,North America,Technology,Wireless Headsets,Online Portal,11,1297.4804927566713,2700.88,0.15,405.13,2295.75,1832.11,463.64,20.2,False
+ORD-2025519,2025-12-03,Asia Pacific,Technology,Wireless Headsets,Online Portal,1,750.371482736926,142.0,0.15,21.3,120.7,95.34,25.36,21.01,False
+ORD-2025520,2025-09-08,Asia Pacific,Software & Services,Cloud Migration Services,Partner Reseller,14,1254.0797248797255,3322.5,0.0,0.0,3322.5,2645.96,676.54,20.36,False
+ORD-2025521,2025-10-06,North America,Software & Services,SaaS Enterprise Licenses,Partner Reseller,4,1006.3024480242176,761.73,0.05,38.09,723.64,524.58,199.06,27.51,False
+ORD-2025522,2025-08-25,Europe,Technology,UltraHD Monitors,Online Portal,10,197.22340895391997,373.22,0.05,18.66,354.56,254.36,100.2,28.26,False
+ORD-2025523,2025-01-25,Europe,Office Supplies,Executive Desks,Online Portal,3,461.2399856857103,261.85,0.2,52.37,209.48,193.18,16.3,7.78,False
+ORD-2025524,2025-07-28,North America,Furniture,Task Lighting,Direct Enterprise,10,1672.1036060794393,3164.28,0.0,0.0,3164.28,2324.41,839.87,26.54,False
+ORD-2025525,2025-08-31,North America,Technology,UltraHD Monitors,Retail Store,6,1417.8270885936984,1609.85,0.05,80.49,1529.36,1125.48,403.88,26.41,False
+ORD-2025526,2025-10-25,Europe,Technology,UltraHD Monitors,Online Portal,11,986.8938970678896,2054.35,0.1,205.43,1848.91,1528.82,320.09,17.31,False
+ORD-2025527,2025-07-10,North America,Office Supplies,Laser Printers,Retail Store,13,1506.6361944067412,3706.49,0.2,741.3,2965.19,2414.66,550.53,18.57,False
+ORD-2025528,2025-10-19,Asia Pacific,Software & Services,Cloud Migration Services,Retail Store,12,138.47857892919316,314.47,0.1,31.45,283.02,216.63,66.39,23.46,False
+ORD-2025529,2025-05-31,North America,Furniture,Storage Shelves,Retail Store,12,1378.4021319723672,3130.17,0.15,469.53,2660.65,2183.02,477.63,17.95,False
+ORD-2025530,2025-10-02,North America,Technology,Smart Projectors,Partner Reseller,7,319.32483321410393,423.0,0.0,0.0,423.0,303.07,119.93,28.35,False
+ORD-2025531,2025-06-13,Europe,Technology,UltraHD Monitors,Direct Enterprise,6,110.67723239561617,125.67,0.05,6.28,119.38,94.58,24.8,20.77,False
+ORD-2025532,2025-05-21,North America,Software & Services,Cloud Migration Services,Online Portal,4,1617.457402466579,1224.35,0.05,61.22,1163.13,853.35,309.78,26.63,False
+ORD-2025533,2025-02-07,North America,Office Supplies,Ergonomic Chairs,Retail Store,9,1004.7687131361163,1711.28,0.0,0.0,1711.28,1180.65,530.63,31.01,False
+ORD-2025534,2025-12-09,Asia Pacific,Technology,UltraHD Monitors,Retail Store,13,1782.0737234663357,4384.1,0.0,0.0,4384.1,3233.28,1150.82,26.25,False
+ORD-2025535,2025-04-05,Latin America,Software & Services,Data Analytics Suite,Partner Reseller,3,1061.1623379393982,602.44,0.2,120.49,481.95,397.14,84.81,17.6,False
+ORD-2025536,2025-06-30,Asia Pacific,Technology,UltraHD Monitors,Online Portal,2,627.9981681286478,237.68,0.1,23.77,213.92,179.69,34.23,16.0,False
+ORD-2025537,2025-10-29,North America,Technology,Enterprise Laptops,Partner Reseller,7,224.2063974153565,297.0,0.1,29.7,267.3,212.96,54.34,20.33,False
+ORD-2025538,2025-04-05,Europe,Office Supplies,Ergonomic Chairs,Partner Reseller,12,1416.6088736756583,3216.94,0.15,482.54,2734.4,2288.8,445.6,16.3,False
+ORD-2025539,2025-09-17,North America,Technology,UltraHD Monitors,Partner Reseller,11,1532.0526427506675,3189.17,0.05,159.46,3029.71,2392.51,637.2,21.03,False
+ORD-2025540,2025-07-01,Europe,Office Supplies,Laser Printers,Online Portal,14,711.6763471280389,1885.48,0.0,0.0,1885.48,1294.78,590.7,31.33,False
+ORD-2025541,2025-09-23,Asia Pacific,Technology,Smart Projectors,Retail Store,9,1191.4118679817714,2029.16,0.05,101.46,1927.7,1515.97,411.73,21.36,False
+ORD-2025542,2025-08-25,Europe,Furniture,Acoustic Panels,Partner Reseller,9,1794.5911325313718,3056.46,0.0,0.0,3056.46,2308.64,747.82,24.47,False
+ORD-2025543,2025-01-12,North America,Office Supplies,Ergonomic Chairs,Online Portal,9,502.53528448587207,855.89,0.0,0.0,855.89,650.28,205.61,24.02,False
+ORD-2025544,2025-11-17,Europe,Furniture,Acoustic Panels,Online Portal,9,1739.2797663531996,2962.26,0.0,0.0,2962.26,2342.08,620.18,20.94,False
+ORD-2025545,2025-06-05,North America,Technology,Smart Projectors,Online Portal,14,207.28449053828118,549.17,0.1,54.92,494.25,381.82,112.43,22.75,False
+ORD-2025546,2025-05-08,Asia Pacific,Technology,Cloud Servers,Direct Enterprise,4,1321.9679543344157,1000.67,0.15,150.1,850.57,758.71,91.86,10.8,False
+ORD-2025547,2025-08-05,North America,Furniture,Task Lighting,Online Portal,6,567.6921706189381,644.58,0.0,0.0,644.58,462.12,182.46,28.31,False
+ORD-2025548,2025-07-06,Latin America,Technology,Wireless Headsets,Online Portal,7,78.42602561654398,103.89,0.15,15.58,88.3,70.46,17.84,20.2,False
+ORD-2025549,2025-03-28,Europe,Technology,Cloud Servers,Direct Enterprise,9,856.172202208606,1458.19,0.1,145.82,1312.37,1009.88,302.49,23.05,False
+ORD-2025550,2025-10-10,Europe,Furniture,Acoustic Panels,Online Portal,11,50.05375797941923,104.19,0.15,15.63,88.56,71.07,17.49,19.75,False
+ORD-2025551,2025-03-24,North America,Technology,Smart Projectors,Partner Reseller,4,1040.053663573256,787.27,0.1,78.73,708.55,523.36,185.19,26.14,False
+ORD-2025552,2025-04-05,North America,Office Supplies,Laser Printers,Partner Reseller,9,732.324556009391,1247.26,0.1,124.73,1122.53,837.0,285.53,25.44,False
+ORD-2025553,2025-04-06,North America,Software & Services,Cloud Migration Services,Partner Reseller,13,203.38721334064323,500.35,0.0,0.0,500.35,395.65,104.7,20.93,False
+ORD-2025554,2025-07-12,North America,Office Supplies,Ergonomic Chairs,Direct Enterprise,2,1226.887709678886,464.35,0.15,69.65,394.7,314.48,80.22,20.32,False
+ORD-2025555,2025-06-10,Europe,Technology,Wireless Headsets,Retail Store,12,1052.124992952273,2389.24,0.05,119.46,2269.78,1828.75,441.03,19.43,False
+ORD-2025556,2025-08-31,Europe,Furniture,Storage Shelves,Partner Reseller,13,1228.9780336987737,3023.42,0.15,453.51,2569.91,2044.84,525.07,20.43,False
+ORD-2025557,2025-04-21,Europe,Furniture,Acoustic Panels,Retail Store,4,1014.3391682661317,767.81,0.1,76.78,691.03,528.46,162.57,23.53,False
+ORD-2025558,2025-10-26,North America,Furniture,Acoustic Panels,Retail Store,7,1757.0777995495382,2327.56,0.1,232.75,2094.8,1542.18,552.62,26.38,False
+ORD-2025559,2025-09-24,Europe,Furniture,Modular Workstations,Partner Reseller,3,1256.293221179708,713.22,0.05,35.66,677.56,503.72,173.84,25.66,False
+ORD-2025560,2025-08-08,Latin America,Furniture,Acoustic Panels,Retail Store,6,1613.861693355734,1832.44,0.0,0.0,1832.44,1452.59,379.85,20.73,False
+ORD-2025561,2025-11-20,North America,Furniture,Task Lighting,Partner Reseller,3,1644.8435826376037,933.81,0.0,0.0,933.81,674.36,259.45,27.78,False
+ORD-2025562,2025-09-26,Asia Pacific,Furniture,Modern Conference Tables,Retail Store,6,1149.2091796762506,1304.85,0.3,391.46,913.4,881.33,32.07,3.51,True
+ORD-2025563,2025-05-02,Europe,Software & Services,Cybersecurity Audits,Direct Enterprise,7,606.4694648455861,803.38,0.1,80.34,723.04,559.01,164.03,22.69,False
+ORD-2025564,2025-02-23,Europe,Technology,Wireless Headsets,Online Portal,12,1796.061430767851,4078.62,0.1,407.86,3670.76,2842.41,828.35,22.57,False
+ORD-2025565,2025-04-03,Asia Pacific,Office Supplies,Ergonomic Chairs,Partner Reseller,6,727.7302199934722,826.29,0.15,123.94,702.35,572.1,130.25,18.54,False
+ORD-2025566,2025-09-01,North America,Office Supplies,Ergonomic Chairs,Online Portal,7,1185.3394257789255,1570.19,0.3,471.06,1099.13,962.35,136.78,12.44,True
+ORD-2025567,2025-05-18,North America,Office Supplies,Executive Desks,Online Portal,11,641.6477163909574,1335.67,0.0,0.0,1335.67,976.65,359.02,26.88,False
+ORD-2025568,2025-01-04,Asia Pacific,Technology,UltraHD Monitors,Retail Store,1,123.43712852636,23.36,0.05,1.17,22.19,15.91,6.28,28.3,False
+ORD-2025569,2025-01-08,North America,Furniture,Modular Workstations,Retail Store,11,1237.1857996302729,2575.36,0.1,257.54,2317.83,1731.44,586.39,25.3,False
+ORD-2025570,2025-06-05,North America,Technology,Wireless Headsets,Partner Reseller,4,1125.2000130048168,851.73,0.1,85.17,766.56,589.96,176.6,23.04,False
+ORD-2025571,2025-02-08,Europe,Technology,Wireless Headsets,Online Portal,12,1652.6294190447225,3752.91,0.05,187.65,3565.26,2650.15,915.11,25.67,False
+ORD-2025572,2025-09-12,Latin America,Technology,UltraHD Monitors,Online Portal,7,619.9484036119181,821.23,0.05,41.06,780.17,608.93,171.24,21.95,False
+ORD-2025573,2025-06-01,Europe,Office Supplies,Paper Shredders,Online Portal,9,1616.36425548968,2752.92,0.0,0.0,2752.92,2142.29,610.63,22.18,False
+ORD-2025574,2025-12-16,North America,Software & Services,SaaS Enterprise Licenses,Retail Store,7,446.70864113111645,591.74,0.1,59.18,532.57,412.17,120.4,22.61,False
+ORD-2025575,2025-09-15,Europe,Technology,UltraHD Monitors,Partner Reseller,7,1629.2057331936808,2158.17,0.05,107.91,2050.26,1500.7,549.56,26.8,False
+ORD-2025576,2025-12-30,North America,Furniture,Task Lighting,Partner Reseller,2,512.8256791675839,194.09,0.1,19.41,174.68,128.63,46.05,26.36,False
+ORD-2025577,2025-06-21,Latin America,Office Supplies,Ergonomic Chairs,Direct Enterprise,7,482.9495573521051,639.75,0.2,127.95,511.8,412.23,99.57,19.45,False
+ORD-2025578,2025-08-12,North America,Office Supplies,Ergonomic Chairs,Online Portal,13,1484.3167178651497,3651.58,0.2,730.32,2921.27,2624.1,297.17,10.17,False
+ORD-2025579,2025-02-22,Europe,Technology,UltraHD Monitors,Partner Reseller,7,823.2089834034206,1090.48,0.0,0.0,1090.48,770.43,320.05,29.35,False
+ORD-2025580,2025-12-14,North America,Office Supplies,Laser Printers,Partner Reseller,6,945.4880324507265,1073.54,0.1,107.35,966.19,751.75,214.44,22.19,False
+ORD-2025581,2025-05-02,North America,Office Supplies,Paper Shredders,Partner Reseller,13,1018.2586193402501,2505.03,0.1,250.5,2254.52,1936.79,317.73,14.09,False
+ORD-2025582,2025-01-09,Europe,Software & Services,SaaS Enterprise Licenses,Partner Reseller,7,127.11525774816744,168.39,0.0,0.0,168.39,126.13,42.26,25.1,False
+ORD-2025583,2025-01-01,North America,Office Supplies,Ergonomic Chairs,Direct Enterprise,2,347.3023781333502,131.45,0.0,0.0,131.45,91.91,39.54,30.08,False
+ORD-2025584,2025-11-30,North America,Technology,Wireless Headsets,Online Portal,5,1710.7161673322523,1618.67,0.0,0.0,1618.67,1181.73,436.94,26.99,False
+ORD-2025585,2025-11-30,North America,Office Supplies,Ergonomic Chairs,Retail Store,3,629.5063560372621,357.38,0.15,53.61,303.77,246.23,57.54,18.94,False
+ORD-2025586,2025-08-08,North America,Technology,UltraHD Monitors,Retail Store,3,1743.6547908848488,989.9,0.1,98.99,890.91,761.65,129.26,14.51,False
+ORD-2025587,2025-04-04,Europe,Technology,Cloud Servers,Online Portal,2,1445.6495792688502,547.15,0.15,82.07,465.08,385.67,79.41,17.07,False
+ORD-2025588,2025-06-24,Latin America,Technology,UltraHD Monitors,Partner Reseller,9,1183.0513963047053,2014.92,0.2,402.98,1611.93,1336.81,275.12,17.07,False
+ORD-2025589,2025-01-26,Asia Pacific,Furniture,Task Lighting,Retail Store,9,1153.755527860876,1965.02,0.15,294.75,1670.27,1400.38,269.89,16.16,False
+ORD-2025590,2025-10-02,North America,Furniture,Task Lighting,Retail Store,11,701.2103766729728,1459.66,0.1,145.97,1313.69,967.36,346.33,26.36,False
+ORD-2025591,2025-05-06,North America,Office Supplies,Executive Desks,Partner Reseller,3,854.3780454250405,485.04,0.15,72.76,412.29,346.04,66.25,16.07,False
+ORD-2025592,2025-11-06,North America,Office Supplies,Filing Cabinets,Retail Store,13,282.7671480878254,695.64,0.0,0.0,695.64,554.88,140.76,20.23,False
+ORD-2025593,2025-03-26,Europe,Technology,Enterprise Laptops,Direct Enterprise,6,672.0188403871081,763.03,0.15,114.46,648.58,532.1,116.48,17.96,False
+ORD-2025594,2025-12-18,North America,Office Supplies,Ergonomic Chairs,Direct Enterprise,9,397.9246066404552,677.73,0.05,33.89,643.84,471.93,171.91,26.7,False
+ORD-2025595,2025-03-29,Asia Pacific,Technology,UltraHD Monitors,Partner Reseller,2,125.80172819504591,47.61,0.15,7.14,40.47,32.33,8.14,20.11,False
+ORD-2025596,2025-09-02,Europe,Furniture,Modular Workstations,Retail Store,13,904.3109317939245,2224.7,0.0,0.0,2224.7,1592.14,632.56,28.43,False
+ORD-2025597,2025-04-27,North America,Office Supplies,Executive Desks,Direct Enterprise,10,61.31262613199347,116.03,0.1,11.6,104.43,79.91,24.52,23.48,False
+ORD-2025598,2025-02-07,North America,Technology,UltraHD Monitors,Retail Store,3,355.21621744512413,201.66,0.1,20.17,181.5,134.22,47.28,26.05,False
+ORD-2025599,2025-05-26,Asia Pacific,Technology,Smart Projectors,Partner Reseller,14,1173.6513878666983,3109.41,0.05,155.47,2953.94,2265.24,688.7,23.31,False
+ORD-2025600,2025-05-06,Europe,Software & Services,Data Analytics Suite,Direct Enterprise,3,1464.69104403204,831.53,0.1,83.15,748.38,573.66,174.72,23.35,False
+ORD-2025601,2025-11-25,Europe,Technology,UltraHD Monitors,Retail Store,12,1433.7094283252939,3255.77,0.05,162.79,3092.98,2349.16,743.82,24.05,False
+ORD-2025602,2025-02-14,Europe,Technology,Enterprise Laptops,Retail Store,11,203.62941485177996,423.88,0.0,0.0,423.88,316.33,107.55,25.37,False
+ORD-2025603,2025-09-01,Europe,Technology,Smart Projectors,Direct Enterprise,4,1186.4129354140891,898.06,0.15,134.71,763.35,659.95,103.4,13.55,False
+ORD-2025604,2025-07-28,North America,Technology,Cloud Servers,Direct Enterprise,7,1209.4938560428739,1602.19,0.2,320.44,1281.75,1170.11,111.64,8.71,False
+ORD-2025605,2025-04-03,Latin America,Software & Services,Data Analytics Suite,Direct Enterprise,9,1589.5667040151013,2707.28,0.0,0.0,2707.28,1927.75,779.53,28.79,False
+ORD-2025606,2025-01-09,North America,Technology,Smart Projectors,Direct Enterprise,10,1553.4455758821039,2939.73,0.1,293.97,2645.76,2160.89,484.87,18.33,False
+ORD-2025607,2025-03-15,Latin America,Technology,UltraHD Monitors,Online Portal,8,1680.4714539420454,2544.09,0.1,254.41,2289.68,1909.14,380.54,16.62,False
+ORD-2025608,2025-12-07,Latin America,Technology,Wireless Headsets,Direct Enterprise,7,314.89954971073115,417.14,0.0,0.0,417.14,301.88,115.26,27.63,False
+ORD-2025609,2025-07-02,North America,Office Supplies,Paper Shredders,Online Portal,7,1156.0336147392638,1531.37,0.15,229.71,1301.66,1046.56,255.1,19.6,False
+ORD-2025610,2025-04-09,Europe,Office Supplies,Paper Shredders,Partner Reseller,6,759.3193811321684,862.16,0.05,43.11,819.05,597.69,221.36,27.03,False
+ORD-2025611,2025-05-24,Asia Pacific,Furniture,Modern Conference Tables,Retail Store,7,1389.089209070186,1840.09,0.0,0.0,1840.09,1403.82,436.27,23.71,False
+ORD-2025612,2025-04-10,North America,Technology,Enterprise Laptops,Retail Store,6,240.77382737162523,273.38,0.0,0.0,273.38,197.46,75.92,27.77,False
+ORD-2025613,2025-03-24,Asia Pacific,Technology,Smart Projectors,Partner Reseller,11,1423.896400169575,2964.03,0.05,148.2,2815.83,2306.75,509.08,18.08,False
+ORD-2025614,2025-08-03,Asia Pacific,Technology,Enterprise Laptops,Online Portal,8,454.73987455292206,688.44,0.0,0.0,688.44,496.36,192.08,27.9,False
+ORD-2025615,2025-10-11,Asia Pacific,Furniture,Acoustic Panels,Online Portal,5,1244.6420588273484,1177.68,0.0,0.0,1177.68,938.59,239.09,20.3,False
+ORD-2025616,2025-06-28,Latin America,Technology,Wireless Headsets,Partner Reseller,9,1776.4854497002182,3025.63,0.1,302.56,2723.06,2010.21,712.85,26.18,False
+ORD-2025617,2025-07-15,Europe,Office Supplies,Paper Shredders,Retail Store,7,1305.5637335708464,1729.45,0.1,172.95,1556.5,1307.16,249.34,16.02,False
+ORD-2025618,2025-06-21,North America,Furniture,Modular Workstations,Direct Enterprise,1,381.09263668312104,72.12,0.15,10.82,61.3,50.52,10.78,17.59,False
+ORD-2025619,2025-07-28,Europe,Furniture,Acoustic Panels,Retail Store,14,753.8915359824466,1997.32,0.1,199.73,1797.59,1475.48,322.11,17.92,False
+ORD-2025620,2025-11-13,North America,Furniture,Task Lighting,Partner Reseller,2,763.6115602107847,289.01,0.25,72.25,216.76,177.86,38.9,17.95,True
+ORD-2025621,2025-03-11,North America,Furniture,Acoustic Panels,Online Portal,13,571.9767949097148,1407.13,0.15,211.07,1196.06,966.04,230.02,19.23,False
+ORD-2025622,2025-09-13,North America,Office Supplies,Ergonomic Chairs,Online Portal,14,497.3684141418827,1317.7,0.1,131.77,1185.93,889.55,296.38,24.99,False
+ORD-2025623,2025-03-23,Europe,Furniture,Storage Shelves,Direct Enterprise,6,160.4773411139413,182.21,0.05,9.11,173.1,132.3,40.8,23.57,False
+ORD-2025624,2025-12-23,Europe,Office Supplies,Paper Shredders,Retail Store,5,768.7411794354158,727.38,0.2,145.48,581.9,532.01,49.89,8.57,False
+ORD-2025625,2025-11-02,Europe,Technology,Enterprise Laptops,Retail Store,10,130.6103614434605,247.17,0.3,74.15,173.02,166.49,6.53,3.77,True
+ORD-2025626,2025-12-16,Europe,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,4,52.876574946786945,40.03,0.05,2.0,38.02,29.52,8.5,22.36,False
+ORD-2025627,2025-07-20,Europe,Technology,Enterprise Laptops,Partner Reseller,4,947.713862186588,717.38,0.05,35.87,681.51,550.64,130.87,19.2,False
+ORD-2025628,2025-06-06,North America,Technology,UltraHD Monitors,Partner Reseller,1,455.7222605007713,86.24,0.15,12.94,73.3,58.33,14.97,20.42,False
+ORD-2025629,2025-05-05,North America,Technology,Enterprise Laptops,Retail Store,10,243.55629802803148,460.9,0.0,0.0,460.9,370.11,90.79,19.7,False
+ORD-2025630,2025-10-17,North America,Technology,Enterprise Laptops,Direct Enterprise,8,1454.2031227898174,2201.54,0.05,110.08,2091.46,1590.64,500.82,23.95,False
+ORD-2025631,2025-10-22,Asia Pacific,Furniture,Modular Workstations,Partner Reseller,6,67.34371710951888,76.46,0.15,11.47,64.99,53.11,11.88,18.28,False
+ORD-2025632,2025-11-19,Asia Pacific,Technology,UltraHD Monitors,Direct Enterprise,4,1786.2373690875197,1352.1,0.2,270.42,1081.68,860.39,221.29,20.46,False
+ORD-2025633,2025-11-30,Asia Pacific,Technology,UltraHD Monitors,Partner Reseller,8,1483.021223410825,2245.17,0.05,112.26,2132.91,1724.74,408.17,19.14,False
+ORD-2025634,2025-11-24,North America,Technology,Wireless Headsets,Online Portal,9,559.8818774660529,953.57,0.05,47.68,905.89,681.32,224.57,24.79,False
+ORD-2025635,2025-01-22,Latin America,Furniture,Acoustic Panels,Direct Enterprise,10,236.90123200413635,448.31,0.3,134.49,313.82,269.89,43.93,14.0,True
+ORD-2025636,2025-09-04,Latin America,Technology,Enterprise Laptops,Partner Reseller,14,1652.6632708636764,4378.48,0.15,656.77,3721.71,2948.83,772.88,20.77,False
+ORD-2025637,2025-02-26,North America,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,4,1563.141620554805,1183.23,0.0,0.0,1183.23,834.18,349.05,29.5,False
+ORD-2025638,2025-08-07,Asia Pacific,Technology,Wireless Headsets,Direct Enterprise,6,73.15042258426448,83.06,0.1,8.31,74.75,61.99,12.76,17.07,False
+ORD-2025639,2025-03-15,Europe,Technology,Wireless Headsets,Partner Reseller,7,398.6344502148839,528.06,0.05,26.4,501.66,371.76,129.9,25.89,False
+ORD-2025640,2025-10-29,Latin America,Furniture,Acoustic Panels,Online Portal,10,389.9787492531525,737.99,0.05,36.9,701.09,567.12,133.97,19.11,False
+ORD-2025641,2025-05-30,Asia Pacific,Office Supplies,Paper Shredders,Online Portal,6,1437.9749414353487,1632.73,0.0,0.0,1632.73,1153.83,478.9,29.33,False
+ORD-2025642,2025-01-23,North America,Software & Services,Cloud Migration Services,Partner Reseller,10,1335.7399979637948,2527.74,0.15,379.16,2148.58,1873.9,274.68,12.78,False
+ORD-2025643,2025-08-07,Latin America,Technology,UltraHD Monitors,Direct Enterprise,7,1135.4223699705963,1504.07,0.1,150.41,1353.66,1070.32,283.34,20.93,False
+ORD-2025644,2025-02-04,Europe,Technology,UltraHD Monitors,Direct Enterprise,9,979.4416185906732,1668.14,0.15,250.22,1417.92,1231.29,186.63,13.16,False
+ORD-2025645,2025-10-14,Asia Pacific,Technology,Enterprise Laptops,Direct Enterprise,14,1224.9606271265395,3245.35,0.25,811.34,2434.01,2218.45,215.56,8.86,True
+ORD-2025646,2025-03-31,Europe,Furniture,Task Lighting,Direct Enterprise,1,394.20434529744034,74.6,0.0,0.0,74.6,53.73,20.87,27.98,False
+ORD-2025647,2025-07-23,Europe,Office Supplies,Filing Cabinets,Retail Store,1,388.03001471475727,73.43,0.1,7.34,66.09,52.21,13.88,21.0,False
+ORD-2025648,2025-05-07,North America,Software & Services,Cybersecurity Audits,Direct Enterprise,7,771.6413527306919,1022.17,0.0,0.0,1022.17,769.84,252.33,24.69,False
+ORD-2025649,2025-07-22,North America,Office Supplies,Filing Cabinets,Direct Enterprise,6,403.76144864422383,458.45,0.1,45.85,412.6,311.42,101.18,24.52,False
+ORD-2025650,2025-04-07,North America,Software & Services,Data Analytics Suite,Retail Store,9,479.71359540285937,817.03,0.2,163.4,653.62,543.81,109.81,16.8,False
+ORD-2025651,2025-09-30,North America,Software & Services,Cloud Migration Services,Online Portal,11,470.38400811467477,979.17,0.05,48.96,930.21,688.58,241.63,25.98,False
+ORD-2025652,2025-03-15,Europe,Technology,Cloud Servers,Direct Enterprise,13,623.7168479875596,1534.41,0.05,76.72,1457.69,1166.35,291.34,19.99,False
+ORD-2025653,2025-08-11,North America,Office Supplies,Filing Cabinets,Retail Store,9,599.5766621072569,1021.17,0.1,102.12,919.05,694.84,224.21,24.4,False
+ORD-2025654,2025-09-04,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Online Portal,10,508.0644252353443,961.46,0.1,96.14,865.31,724.43,140.88,16.28,False
+ORD-2025655,2025-05-11,North America,Software & Services,SaaS Enterprise Licenses,Retail Store,1,804.0019819189738,152.15,0.05,7.61,144.54,115.02,29.52,20.42,False
+ORD-2025656,2025-02-18,Asia Pacific,Technology,Cloud Servers,Retail Store,5,1102.4221237049858,1043.11,0.05,52.16,990.95,766.14,224.81,22.69,False
+ORD-2025657,2025-07-08,Asia Pacific,Technology,Enterprise Laptops,Online Portal,6,1229.0734021221572,1395.53,0.1,139.55,1255.98,1038.12,217.86,17.35,False
+ORD-2025658,2025-12-14,Europe,Office Supplies,Ergonomic Chairs,Online Portal,11,247.47557757133745,515.15,0.1,51.51,463.64,366.99,96.65,20.85,False
+ORD-2025659,2025-05-01,Europe,Technology,Cloud Servers,Retail Store,13,742.6109394057538,1826.9,0.1,182.69,1644.21,1371.34,272.87,16.6,False
+ORD-2025660,2025-02-18,Latin America,Office Supplies,Paper Shredders,Online Portal,8,1241.1766531450398,1879.03,0.15,281.85,1597.18,1316.41,280.77,17.58,False
+ORD-2025661,2025-10-31,North America,Technology,Enterprise Laptops,Partner Reseller,13,1210.7937416320035,2978.69,0.2,595.74,2382.95,2056.37,326.58,13.7,False
+ORD-2025662,2025-03-25,Asia Pacific,Software & Services,Cybersecurity Audits,Retail Store,8,1397.0565899999026,2115.02,0.35,740.26,1374.76,1371.06,3.7,0.27,True
+ORD-2025663,2025-06-11,Latin America,Office Supplies,Paper Shredders,Retail Store,4,258.91676984184437,195.99,0.05,9.8,186.19,150.28,35.91,19.29,False
+ORD-2025664,2025-08-10,North America,Technology,Wireless Headsets,Online Portal,4,1571.8869484212998,1189.85,0.0,0.0,1189.85,924.63,265.22,22.29,False
+ORD-2025665,2025-03-10,North America,Technology,UltraHD Monitors,Direct Enterprise,7,1430.7899779592349,1895.33,0.0,0.0,1895.33,1329.14,566.19,29.87,False
+ORD-2025666,2025-01-17,Europe,Furniture,Modern Conference Tables,Partner Reseller,6,1551.3860994953254,1761.5,0.15,264.23,1497.27,1218.2,279.07,18.64,False
+ORD-2025667,2025-01-14,North America,Office Supplies,Laser Printers,Partner Reseller,14,981.3900309983393,2600.04,0.2,520.01,2080.04,1655.76,424.28,20.4,False
+ORD-2025668,2025-08-11,Europe,Office Supplies,Laser Printers,Online Portal,13,1287.9959815333816,3168.61,0.15,475.29,2693.32,2366.15,327.17,12.15,False
+ORD-2025669,2025-12-04,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Online Portal,2,371.623163938827,140.65,0.05,7.03,133.62,102.34,31.28,23.41,False
+ORD-2025670,2025-05-20,Europe,Office Supplies,Filing Cabinets,Retail Store,5,1324.0214511433455,1252.78,0.2,250.56,1002.23,821.1,181.13,18.07,False
+ORD-2025671,2025-10-19,North America,Technology,UltraHD Monitors,Direct Enterprise,6,1026.7995718082711,1165.87,0.05,58.29,1107.57,910.25,197.32,17.82,False
+ORD-2025672,2025-08-04,North America,Technology,UltraHD Monitors,Online Portal,6,114.24765109536662,129.72,0.1,12.97,116.75,90.12,26.63,22.81,False
+ORD-2025673,2025-05-25,Europe,Technology,Wireless Headsets,Online Portal,8,1751.807432548829,2652.09,0.1,265.21,2386.88,1930.26,456.62,19.13,False
+ORD-2025674,2025-02-08,Europe,Technology,Cloud Servers,Direct Enterprise,4,1515.5769093328554,1147.23,0.0,0.0,1147.23,811.96,335.27,29.22,False
+ORD-2025675,2025-04-20,Asia Pacific,Technology,UltraHD Monitors,Online Portal,9,258.6182749710034,440.47,0.0,0.0,440.47,304.28,136.19,30.92,False
+ORD-2025676,2025-12-09,North America,Technology,Enterprise Laptops,Direct Enterprise,2,509.2146588562784,192.73,0.05,9.64,183.09,129.96,53.13,29.02,False
+ORD-2025677,2025-10-18,Asia Pacific,Technology,UltraHD Monitors,Online Portal,14,602.1830661604871,1595.39,0.0,0.0,1595.39,1161.82,433.57,27.18,False
+ORD-2025678,2025-12-09,Asia Pacific,Software & Services,Data Analytics Suite,Online Portal,4,954.0982857449818,722.21,0.05,36.11,686.1,528.09,158.01,23.03,False
+ORD-2025679,2025-02-11,Europe,Office Supplies,Filing Cabinets,Online Portal,7,514.114939744451,681.03,0.0,0.0,681.03,473.94,207.09,30.41,False
+ORD-2025680,2025-02-03,North America,Office Supplies,Ergonomic Chairs,Retail Store,5,338.04872897425577,319.86,0.0,0.0,319.86,231.05,88.81,27.77,False
+ORD-2025681,2025-09-16,Asia Pacific,Office Supplies,Executive Desks,Partner Reseller,12,1635.9086590114925,3714.94,0.15,557.24,3157.69,2612.28,545.41,17.27,False
+ORD-2025682,2025-09-15,North America,Technology,UltraHD Monitors,Retail Store,12,270.70181415696845,614.73,0.1,61.47,553.26,458.57,94.69,17.11,False
+ORD-2025683,2025-02-01,North America,Office Supplies,Filing Cabinets,Online Portal,4,1141.1342946828402,863.79,0.0,0.0,863.79,623.17,240.62,27.86,False
+ORD-2025684,2025-12-28,Europe,Office Supplies,Laser Printers,Retail Store,3,576.691059355338,327.4,0.0,0.0,327.4,253.63,73.77,22.53,False
+ORD-2025685,2025-03-06,North America,Office Supplies,Paper Shredders,Direct Enterprise,7,620.7979447244436,822.36,0.1,82.24,740.12,552.84,187.28,25.3,False
+ORD-2025686,2025-08-07,Asia Pacific,Technology,Wireless Headsets,Retail Store,14,1395.8569830295173,3698.11,0.05,184.91,3513.21,2725.37,787.84,22.43,False
+ORD-2025687,2025-11-05,North America,Technology,UltraHD Monitors,Direct Enterprise,1,201.73649329237037,38.18,0.1,3.82,34.36,29.15,5.21,15.16,False
+ORD-2025688,2025-07-01,Europe,Technology,UltraHD Monitors,Online Portal,2,1364.9908056797797,516.62,0.3,154.99,361.63,348.96,12.67,3.5,True
+ORD-2025689,2025-03-19,North America,Technology,Smart Projectors,Direct Enterprise,7,1276.4147315030455,1690.83,0.15,253.62,1437.21,1268.88,168.33,11.71,False
+ORD-2025690,2025-03-15,North America,Technology,Smart Projectors,Direct Enterprise,3,473.95002577334293,269.07,0.0,0.0,269.07,214.8,54.27,20.17,False
+ORD-2025691,2025-12-17,Europe,Furniture,Modern Conference Tables,Partner Reseller,12,468.2754356654009,1063.39,0.1,106.34,957.05,777.28,179.77,18.78,False
+ORD-2025692,2025-11-05,North America,Software & Services,Cybersecurity Audits,Direct Enterprise,7,529.4803677002817,701.39,0.1,70.14,631.25,500.04,131.21,20.79,False
+ORD-2025693,2025-09-12,Europe,Furniture,Modular Workstations,Retail Store,12,453.1766189253065,1029.11,0.05,51.46,977.65,734.37,243.28,24.88,False
+ORD-2025694,2025-12-18,North America,Technology,Wireless Headsets,Retail Store,3,1060.1281277656628,601.85,0.15,90.28,511.57,386.19,125.38,24.51,False
+ORD-2025695,2025-10-21,Asia Pacific,Technology,Wireless Headsets,Direct Enterprise,4,933.115253960511,706.33,0.0,0.0,706.33,541.73,164.6,23.3,False
+ORD-2025696,2025-09-04,Asia Pacific,Office Supplies,Filing Cabinets,Partner Reseller,2,1549.4618620155586,586.44,0.1,58.64,527.79,409.04,118.75,22.5,False
+ORD-2025697,2025-07-04,Asia Pacific,Furniture,Task Lighting,Retail Store,14,725.5891373907126,1922.34,0.3,576.7,1345.64,1303.21,42.43,3.15,True
+ORD-2025698,2025-12-08,Asia Pacific,Software & Services,Cloud Migration Services,Direct Enterprise,12,1012.0051965357943,2298.13,0.05,114.91,2183.23,1779.19,404.04,18.51,False
+ORD-2025699,2025-07-05,Asia Pacific,Office Supplies,Laser Printers,Retail Store,5,752.9695623296088,712.46,0.1,71.25,641.21,537.67,103.54,16.15,False
+ORD-2025700,2025-02-14,North America,Technology,Cloud Servers,Retail Store,4,1753.2065453033606,1327.1,0.0,0.0,1327.1,909.94,417.16,31.43,False
+ORD-2025701,2025-04-27,North America,Software & Services,SaaS Enterprise Licenses,Partner Reseller,10,849.2785375502204,1607.17,0.05,80.36,1526.81,1086.17,440.64,28.86,False
+ORD-2025702,2025-01-10,Asia Pacific,Software & Services,Cybersecurity Audits,Direct Enterprise,8,268.13300073742334,405.93,0.3,121.78,284.15,272.23,11.92,4.19,True
+ORD-2025703,2025-01-30,North America,Technology,Smart Projectors,Online Portal,9,380.38954860352777,647.86,0.05,32.39,615.47,506.05,109.42,17.78,False
+ORD-2025704,2025-06-20,North America,Furniture,Modern Conference Tables,Direct Enterprise,14,1116.6353092587206,2958.36,0.1,295.84,2662.52,2215.86,446.66,16.78,False
+ORD-2025705,2025-10-19,Europe,Technology,Enterprise Laptops,Direct Enterprise,7,637.6786381226855,844.72,0.1,84.47,760.24,646.29,113.95,14.99,False
+ORD-2025706,2025-11-08,Latin America,Technology,Enterprise Laptops,Retail Store,5,299.92503282751784,283.79,0.1,28.38,255.41,195.33,60.08,23.52,False
+ORD-2025707,2025-04-03,Asia Pacific,Furniture,Storage Shelves,Partner Reseller,10,1062.44818185618,2010.57,0.0,0.0,2010.57,1413.31,597.26,29.71,False
+ORD-2025708,2025-05-07,North America,Technology,Cloud Servers,Retail Store,12,202.19228544788285,459.15,0.05,22.96,436.19,360.32,75.87,17.39,False
+ORD-2025709,2025-07-17,North America,Office Supplies,Ergonomic Chairs,Direct Enterprise,13,1468.6962480907857,3613.15,0.3,1083.95,2529.21,2188.58,340.63,13.47,True
+ORD-2025710,2025-07-10,Europe,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,11,500.855997836176,1042.6,0.05,52.13,990.47,784.2,206.27,20.83,False
+ORD-2025711,2025-01-17,North America,Furniture,Acoustic Panels,Partner Reseller,1,1594.57705065518,301.76,0.0,0.0,301.76,208.57,93.19,30.88,False
+ORD-2025712,2025-07-16,North America,Furniture,Storage Shelves,Direct Enterprise,4,1001.6273731855571,758.19,0.15,113.73,644.46,531.55,112.91,17.52,False
+ORD-2025713,2025-02-26,Europe,Technology,Wireless Headsets,Partner Reseller,7,722.9026739859664,957.61,0.05,47.88,909.73,690.47,219.26,24.1,False
+ORD-2025714,2025-09-28,North America,Technology,Wireless Headsets,Online Portal,11,648.6215106507219,1350.19,0.2,270.04,1080.15,881.85,198.3,18.36,False
+ORD-2025715,2025-04-19,Europe,Technology,Wireless Headsets,Retail Store,14,368.61047554324693,976.58,0.1,97.66,878.92,737.62,141.3,16.08,False
+ORD-2025716,2025-01-27,Asia Pacific,Office Supplies,Ergonomic Chairs,Direct Enterprise,2,1568.96434677908,593.82,0.1,59.38,534.44,439.55,94.89,17.76,False
+ORD-2025717,2025-11-23,North America,Technology,Wireless Headsets,Partner Reseller,9,1567.355319163158,2669.45,0.0,0.0,2669.45,2134.86,534.59,20.03,False
+ORD-2025718,2025-02-04,Europe,Office Supplies,Laser Printers,Partner Reseller,4,615.2319455595197,465.7,0.25,116.43,349.28,292.9,56.38,16.14,True
+ORD-2025719,2025-07-25,Asia Pacific,Technology,Cloud Servers,Direct Enterprise,6,236.22058507997804,268.21,0.2,53.64,214.57,172.0,42.57,19.84,False
+ORD-2025720,2025-05-15,North America,Office Supplies,Paper Shredders,Retail Store,2,61.89396002569562,23.43,0.15,3.51,19.91,16.42,3.49,17.53,False
+ORD-2025721,2025-03-15,Europe,Office Supplies,Ergonomic Chairs,Retail Store,7,1242.243693431759,1645.57,0.15,246.84,1398.73,1171.74,226.99,16.23,False
+ORD-2025722,2025-04-29,North America,Office Supplies,Paper Shredders,Online Portal,3,419.19730858491323,237.99,0.2,47.6,190.39,149.54,40.85,21.46,False
+ORD-2025723,2025-06-27,Europe,Technology,Wireless Headsets,Online Portal,6,1718.287543269152,1951.01,0.0,0.0,1951.01,1381.8,569.21,29.18,False
+ORD-2025724,2025-06-25,North America,Technology,UltraHD Monitors,Retail Store,10,557.0239715418757,1054.11,0.0,0.0,1054.11,748.39,305.72,29.0,False
+ORD-2025725,2025-11-21,Asia Pacific,Technology,Smart Projectors,Partner Reseller,5,734.105496972034,694.61,0.35,243.11,451.49,481.82,-30.33,-6.72,True
+ORD-2025726,2025-09-16,Europe,Technology,Wireless Headsets,Partner Reseller,8,935.3701502561893,1416.07,0.15,212.41,1203.66,1050.69,152.97,12.71,False
+ORD-2025727,2025-11-30,North America,Office Supplies,Laser Printers,Retail Store,1,156.58470066156974,29.63,0.15,4.45,25.19,18.99,6.2,24.61,False
+ORD-2025728,2025-06-29,North America,Technology,Wireless Headsets,Online Portal,6,582.1656129497467,661.01,0.2,132.2,528.81,436.11,92.7,17.53,False
+ORD-2025729,2025-08-04,Latin America,Furniture,Storage Shelves,Direct Enterprise,9,1209.0563486942692,2059.21,0.1,205.92,1853.29,1572.6,280.69,15.15,False
+ORD-2025730,2025-12-19,North America,Technology,Smart Projectors,Partner Reseller,3,506.24035473249137,287.4,0.1,28.74,258.66,212.88,45.78,17.7,False
+ORD-2025731,2025-04-27,Europe,Office Supplies,Executive Desks,Partner Reseller,8,97.39198392258933,147.44,0.05,7.37,140.07,103.93,36.14,25.8,False
+ORD-2025732,2025-03-11,North America,Office Supplies,Ergonomic Chairs,Online Portal,2,830.7982661722189,314.44,0.1,31.44,283.0,217.01,65.99,23.32,False
+ORD-2025733,2025-02-14,Asia Pacific,Furniture,Acoustic Panels,Online Portal,6,578.1500977570214,656.45,0.25,164.11,492.34,449.46,42.88,8.71,True
+ORD-2025734,2025-12-01,Europe,Furniture,Storage Shelves,Direct Enterprise,4,514.7257965217239,389.62,0.2,77.92,311.7,255.1,56.6,18.16,False
+ORD-2025735,2025-10-01,Europe,Technology,Wireless Headsets,Partner Reseller,10,513.9481882265104,972.59,0.05,48.63,923.96,767.03,156.93,16.98,False
+ORD-2025736,2025-03-28,North America,Technology,Wireless Headsets,Online Portal,12,967.3434743607878,2196.71,0.15,329.51,1867.2,1475.13,392.07,21.0,False
+ORD-2025737,2025-11-21,Europe,Furniture,Storage Shelves,Retail Store,8,1175.432617081238,1779.5,0.05,88.97,1690.53,1323.33,367.2,21.72,False
+ORD-2025738,2025-05-08,Europe,Software & Services,Cybersecurity Audits,Online Portal,5,1700.2198721244874,1608.74,0.1,160.87,1447.87,1213.22,234.65,16.21,False
+ORD-2025739,2025-06-03,Europe,Office Supplies,Paper Shredders,Online Portal,13,348.5519680878776,857.48,0.05,42.87,814.6,621.56,193.04,23.7,False
+ORD-2025740,2025-03-05,Europe,Office Supplies,Executive Desks,Partner Reseller,11,440.26719118403275,916.47,0.05,45.82,870.65,651.64,219.01,25.15,False
+ORD-2025741,2025-03-07,North America,Furniture,Modular Workstations,Partner Reseller,1,949.8972697154608,179.76,0.1,17.98,161.78,123.14,38.64,23.88,False
+ORD-2025742,2025-10-08,Asia Pacific,Office Supplies,Filing Cabinets,Online Portal,2,162.4175077499703,61.47,0.1,6.15,55.33,46.29,9.04,16.34,False
+ORD-2025743,2025-09-22,Europe,Office Supplies,Paper Shredders,Partner Reseller,10,531.5476968541191,1005.9,0.05,50.29,955.6,785.19,170.41,17.83,False
+ORD-2025744,2025-11-22,Latin America,Software & Services,SaaS Enterprise Licenses,Online Portal,10,1244.3955277033504,2354.89,0.15,353.23,2001.65,1707.13,294.52,14.71,False
+ORD-2025745,2025-08-24,North America,Technology,Wireless Headsets,Retail Store,1,70.85647021192366,13.41,0.0,0.0,13.41,10.32,3.09,23.04,False
+ORD-2025746,2025-01-13,Europe,Office Supplies,Paper Shredders,Online Portal,6,1339.4462975651322,1520.86,0.1,152.09,1368.77,1099.41,269.36,19.68,False
+ORD-2025747,2025-12-24,Asia Pacific,Furniture,Modern Conference Tables,Direct Enterprise,7,386.86301361269733,512.47,0.0,0.0,512.47,406.45,106.02,20.69,False
+ORD-2025748,2025-12-07,Asia Pacific,Technology,UltraHD Monitors,Online Portal,2,649.1914657677544,245.7,0.1,24.57,221.13,163.52,57.61,26.05,False
+ORD-2025749,2025-06-03,Asia Pacific,Furniture,Task Lighting,Retail Store,13,372.4351402521799,916.23,0.0,0.0,916.23,691.36,224.87,24.54,False
+ORD-2025750,2025-08-20,North America,Office Supplies,Paper Shredders,Direct Enterprise,9,661.8251979135138,1127.19,0.1,112.72,1014.47,774.73,239.74,23.63,False
+ORD-2025751,2025-03-31,Europe,Technology,Cloud Servers,Retail Store,8,1347.9472257356904,2040.68,0.15,306.1,1734.57,1355.45,379.12,21.86,False
+ORD-2025752,2025-06-13,North America,Office Supplies,Executive Desks,Direct Enterprise,9,1552.550187219372,2644.23,0.3,793.27,1850.96,1770.91,80.05,4.32,True
+ORD-2025753,2025-06-02,North America,Furniture,Storage Shelves,Online Portal,6,1409.5640593585272,1600.47,0.0,0.0,1600.47,1221.52,378.95,23.68,False
+ORD-2025754,2025-01-02,North America,Furniture,Task Lighting,Direct Enterprise,1,599.7836117147011,113.5,0.3,34.05,79.45,67.97,11.48,14.45,True
+ORD-2025755,2025-04-15,North America,Furniture,Acoustic Panels,Retail Store,6,1137.1464283402927,1291.16,0.0,0.0,1291.16,958.24,332.92,25.78,False
+ORD-2025756,2025-01-24,North America,Furniture,Task Lighting,Retail Store,8,306.575475029724,464.13,0.1,46.41,417.72,316.72,101.0,24.18,False
+ORD-2025757,2025-09-28,Asia Pacific,Office Supplies,Executive Desks,Partner Reseller,4,833.9503986688323,631.26,0.05,31.56,599.7,496.71,102.99,17.17,False
+ORD-2025758,2025-04-13,Latin America,Technology,Wireless Headsets,Partner Reseller,3,503.18280879370667,285.67,0.2,57.13,228.53,185.16,43.37,18.98,False
+ORD-2025759,2025-06-25,Europe,Software & Services,Cybersecurity Audits,Retail Store,4,1004.9201636951108,760.68,0.15,114.1,646.58,503.84,142.74,22.08,False
+ORD-2025760,2025-11-29,North America,Technology,Cloud Servers,Direct Enterprise,7,233.155770606342,308.86,0.05,15.44,293.41,236.08,57.33,19.54,False
+ORD-2025761,2025-05-08,Europe,Office Supplies,Paper Shredders,Retail Store,5,220.8175666907353,208.94,0.0,0.0,208.94,166.03,42.91,20.54,False
+ORD-2025762,2025-06-30,North America,Technology,UltraHD Monitors,Online Portal,2,1234.967461094487,467.41,0.15,70.11,397.3,334.02,63.28,15.93,False
+ORD-2025763,2025-02-08,North America,Technology,Enterprise Laptops,Retail Store,12,1046.6202024075078,2376.74,0.2,475.35,1901.39,1765.72,135.67,7.14,False
+ORD-2025764,2025-04-11,North America,Technology,Wireless Headsets,Direct Enterprise,3,445.98533475166226,253.19,0.0,0.0,253.19,200.08,53.11,20.98,False
+ORD-2025765,2025-01-02,North America,Furniture,Storage Shelves,Online Portal,4,1153.6117662203908,873.23,0.05,43.66,829.57,630.25,199.32,24.03,False
+ORD-2025766,2025-12-21,Europe,Technology,UltraHD Monitors,Partner Reseller,1,1717.4601810485226,325.01,0.0,0.0,325.01,246.65,78.36,24.11,False
+ORD-2025767,2025-04-10,Asia Pacific,Technology,Smart Projectors,Direct Enterprise,2,1311.8456565712756,496.51,0.05,24.82,471.68,375.02,96.66,20.49,False
+ORD-2025768,2025-06-06,Asia Pacific,Technology,UltraHD Monitors,Direct Enterprise,1,1490.2562552821357,282.02,0.0,0.0,282.02,214.97,67.05,23.77,False
+ORD-2025769,2025-04-24,Europe,Technology,Smart Projectors,Online Portal,2,1647.0587970454433,623.38,0.0,0.0,623.38,427.24,196.14,31.46,False
+ORD-2025770,2025-11-09,North America,Technology,Enterprise Laptops,Retail Store,4,1652.6751093338019,1251.0,0.1,125.1,1125.9,937.49,188.41,16.73,False
+ORD-2025771,2025-03-10,Latin America,Software & Services,Cloud Migration Services,Direct Enterprise,14,963.0334829931799,2551.41,0.0,0.0,2551.41,1984.2,567.21,22.23,False
+ORD-2025772,2025-07-04,North America,Technology,UltraHD Monitors,Online Portal,3,1151.946291703605,653.98,0.05,32.7,621.28,450.87,170.41,27.43,False
+ORD-2025773,2025-10-27,North America,Technology,UltraHD Monitors,Direct Enterprise,6,149.09472541072654,169.29,0.0,0.0,169.29,127.6,41.69,24.63,False
+ORD-2025774,2025-05-10,North America,Technology,Smart Projectors,Online Portal,10,1290.021205093694,2441.23,0.15,366.18,2075.04,1612.22,462.82,22.3,False
+ORD-2025775,2025-06-11,Europe,Technology,Wireless Headsets,Direct Enterprise,3,880.4337345892712,499.84,0.2,99.97,399.87,338.0,61.87,15.47,False
+ORD-2025776,2025-10-26,North America,Software & Services,Cloud Migration Services,Direct Enterprise,4,1107.5327346875881,838.35,0.1,83.83,754.52,590.51,164.01,21.74,False
+ORD-2025777,2025-03-26,Europe,Technology,Cloud Servers,Online Portal,5,463.83109641771546,438.88,0.0,0.0,438.88,338.92,99.96,22.78,False
+ORD-2025778,2025-01-30,Europe,Technology,Enterprise Laptops,Partner Reseller,4,1305.4023546102035,988.13,0.15,148.22,839.91,672.52,167.39,19.93,False
+ORD-2025779,2025-11-24,Asia Pacific,Software & Services,Cloud Migration Services,Online Portal,11,846.9410841838964,1763.02,0.1,176.3,1586.72,1155.69,431.03,27.16,False
+ORD-2025780,2025-06-16,Asia Pacific,Technology,Smart Projectors,Partner Reseller,1,457.7831876944609,86.63,0.2,17.33,69.3,60.19,9.11,13.15,False
+ORD-2025781,2025-01-12,North America,Technology,Smart Projectors,Direct Enterprise,1,777.3486185510216,147.11,0.05,7.36,139.75,113.7,26.05,18.64,False
+ORD-2025782,2025-06-10,Europe,Technology,UltraHD Monitors,Online Portal,5,1146.904602613477,1085.2,0.05,54.26,1030.94,855.4,175.54,17.03,False
+ORD-2025783,2025-06-03,Europe,Technology,UltraHD Monitors,Direct Enterprise,6,1451.431674754563,1648.01,0.1,164.8,1483.21,1220.0,263.21,17.75,False
+ORD-2025784,2025-03-13,Europe,Technology,Smart Projectors,Online Portal,6,1505.518104783907,1709.42,0.1,170.94,1538.48,1218.22,320.26,20.82,False
+ORD-2025785,2025-05-20,Europe,Office Supplies,Executive Desks,Direct Enterprise,13,852.733952418192,2097.82,0.0,0.0,2097.82,1511.61,586.21,27.94,False
+ORD-2025786,2025-01-09,North America,Technology,Smart Projectors,Online Portal,3,1682.0538631313766,954.93,0.0,0.0,954.93,697.15,257.78,26.99,False
+ORD-2025787,2025-04-30,Asia Pacific,Technology,Enterprise Laptops,Partner Reseller,3,802.228172050522,455.44,0.05,22.77,432.67,357.18,75.49,17.45,False
+ORD-2025788,2025-11-19,North America,Furniture,Storage Shelves,Direct Enterprise,11,58.519713397130644,121.82,0.05,6.09,115.73,83.03,32.7,28.26,False
+ORD-2025789,2025-10-24,North America,Technology,Wireless Headsets,Online Portal,4,1792.9888859262244,1357.22,0.2,271.44,1085.77,984.68,101.09,9.31,False
+ORD-2025790,2025-05-23,Europe,Technology,Wireless Headsets,Retail Store,10,231.36427134139228,437.83,0.15,65.68,372.16,295.7,76.46,20.54,False
+ORD-2025791,2025-06-01,North America,Office Supplies,Filing Cabinets,Retail Store,10,1765.4571136788734,3340.94,0.15,501.14,2839.8,2432.59,407.21,14.34,False
+ORD-2025792,2025-10-31,North America,Office Supplies,Executive Desks,Online Portal,9,1141.5515206532923,1944.24,0.0,0.0,1944.24,1357.7,586.54,30.17,False
+ORD-2025793,2025-10-10,Latin America,Technology,Cloud Servers,Retail Store,12,1620.6815714136471,3680.36,0.25,920.09,2760.27,2282.58,477.69,17.31,True
+ORD-2025794,2025-09-01,North America,Furniture,Modular Workstations,Retail Store,14,1458.9586153206635,3865.29,0.2,773.06,3092.23,2547.98,544.25,17.6,False
+ORD-2025795,2025-09-24,North America,Office Supplies,Executive Desks,Retail Store,1,528.6985507533896,100.05,0.05,5.0,95.05,78.71,16.34,17.19,False
+ORD-2025796,2025-01-31,Europe,Technology,Enterprise Laptops,Partner Reseller,3,136.64710197901368,77.58,0.1,7.76,69.82,53.94,15.88,22.74,False
+ORD-2025797,2025-06-29,Europe,Office Supplies,Paper Shredders,Online Portal,4,1247.761881871288,944.5,0.1,94.45,850.05,704.43,145.62,17.13,False
+ORD-2025798,2025-06-18,North America,Office Supplies,Filing Cabinets,Direct Enterprise,13,422.8118097257123,1040.16,0.1,104.02,936.15,691.31,244.84,26.15,False
+ORD-2025799,2025-10-18,Europe,Technology,Smart Projectors,Direct Enterprise,6,1481.1886287408336,1681.79,0.35,588.63,1093.16,1075.85,17.31,1.58,True
+ORD-2025800,2025-04-14,Asia Pacific,Technology,UltraHD Monitors,Retail Store,12,1476.2768041832592,3352.43,0.05,167.62,3184.81,2363.33,821.48,25.79,False
+ORD-2025801,2025-02-08,Latin America,Software & Services,Data Analytics Suite,Retail Store,12,275.57952387862315,625.8,0.15,93.87,531.93,407.86,124.07,23.32,False
+ORD-2025802,2025-03-18,Latin America,Software & Services,Cybersecurity Audits,Retail Store,1,1168.6032014324296,221.14,0.0,0.0,221.14,170.18,50.96,23.04,False
+ORD-2025803,2025-10-07,Asia Pacific,Technology,Cloud Servers,Online Portal,5,272.443359017292,257.79,0.05,12.89,244.9,177.55,67.35,27.5,False
+ORD-2025804,2025-01-29,Asia Pacific,Technology,Enterprise Laptops,Direct Enterprise,9,385.4248079529801,656.44,0.1,65.64,590.79,458.0,132.79,22.48,False
+ORD-2025805,2025-07-05,Europe,Technology,Wireless Headsets,Direct Enterprise,7,646.6914860593481,856.66,0.2,171.33,685.32,569.75,115.57,16.86,False
+ORD-2025806,2025-10-16,Asia Pacific,Technology,Enterprise Laptops,Retail Store,13,1320.6073206093301,3248.84,0.25,812.21,2436.63,2332.81,103.82,4.26,True
+ORD-2025807,2025-04-30,Europe,Technology,Cloud Servers,Online Portal,10,1403.043460557178,2655.11,0.0,0.0,2655.11,2063.81,591.3,22.27,False
+ORD-2025808,2025-09-10,Europe,Technology,Wireless Headsets,Online Portal,8,193.51879711432835,292.97,0.05,14.65,278.32,219.64,58.68,21.08,False
+ORD-2025809,2025-08-16,North America,Technology,Wireless Headsets,Retail Store,9,410.4793223298281,699.11,0.15,104.87,594.24,448.97,145.27,24.45,False
+ORD-2025810,2025-09-16,Europe,Technology,Enterprise Laptops,Direct Enterprise,6,1654.8843640721732,1879.01,0.1,187.9,1691.11,1333.65,357.46,21.14,False
+ORD-2025811,2025-05-01,North America,Furniture,Modular Workstations,Partner Reseller,8,380.72490494955645,576.38,0.05,28.82,547.57,404.31,143.26,26.16,False
+ORD-2025812,2025-08-20,North America,Technology,Smart Projectors,Partner Reseller,6,1335.8287554864125,1516.75,0.05,75.84,1440.91,1021.84,419.07,29.08,False
+ORD-2025813,2025-02-06,Asia Pacific,Office Supplies,Laser Printers,Online Portal,10,974.1191416311381,1843.42,0.0,0.0,1843.42,1286.05,557.37,30.24,False
+ORD-2025814,2025-08-23,Latin America,Furniture,Task Lighting,Online Portal,7,251.52262795502313,333.19,0.1,33.32,299.87,244.6,55.27,18.43,False
+ORD-2025815,2025-06-14,Asia Pacific,Office Supplies,Executive Desks,Retail Store,2,1135.9744822910525,429.94,0.1,42.99,386.95,317.29,69.66,18.0,False
+ORD-2025816,2025-06-15,Europe,Furniture,Acoustic Panels,Retail Store,8,1766.9208428986417,2674.97,0.15,401.25,2273.72,1748.75,524.97,23.09,False
+ORD-2025817,2025-10-01,North America,Office Supplies,Executive Desks,Partner Reseller,9,1705.827064484707,2905.28,0.1,290.53,2614.76,2088.94,525.82,20.11,False
+ORD-2025818,2025-06-30,Asia Pacific,Office Supplies,Filing Cabinets,Partner Reseller,9,1350.8675672475217,2300.73,0.15,345.11,1955.62,1509.04,446.58,22.84,False
+ORD-2025819,2025-03-27,Europe,Software & Services,Cloud Migration Services,Online Portal,7,701.5374225028336,929.31,0.05,46.47,882.84,676.39,206.45,23.38,False
+ORD-2025820,2025-01-09,North America,Office Supplies,Paper Shredders,Online Portal,2,142.44531434005435,53.91,0.1,5.39,48.52,35.64,12.88,26.55,False
+ORD-2025821,2025-02-12,North America,Software & Services,Data Analytics Suite,Partner Reseller,12,348.9239860358688,792.36,0.0,0.0,792.36,572.49,219.87,27.75,False
+ORD-2025822,2025-12-03,Europe,Technology,Cloud Servers,Online Portal,1,77.46783479348937,14.66,0.05,0.73,13.93,9.98,3.95,28.36,False
+ORD-2025823,2025-10-10,North America,Office Supplies,Executive Desks,Retail Store,11,1167.6771132107092,2430.67,0.0,0.0,2430.67,1930.54,500.13,20.58,False
+ORD-2025824,2025-11-28,North America,Technology,Cloud Servers,Partner Reseller,7,1614.5125963544106,2138.7,0.1,213.87,1924.83,1467.0,457.83,23.79,False
+ORD-2025825,2025-04-26,Latin America,Technology,UltraHD Monitors,Online Portal,2,1430.653966886122,541.47,0.15,81.22,460.25,403.72,56.53,12.28,False
+ORD-2025826,2025-11-05,Europe,Technology,Smart Projectors,Direct Enterprise,1,518.8998126869838,98.2,0.1,9.82,88.38,70.91,17.47,19.77,False
+ORD-2025827,2025-10-09,North America,Furniture,Task Lighting,Partner Reseller,14,713.745935523203,1890.96,0.0,0.0,1890.96,1334.17,556.79,29.44,False
+ORD-2025828,2025-05-12,North America,Technology,Enterprise Laptops,Partner Reseller,6,1644.8481783787154,1867.62,0.1,186.76,1680.86,1261.44,419.42,24.95,False
+ORD-2025829,2025-09-07,Asia Pacific,Office Supplies,Filing Cabinets,Retail Store,3,733.7136899266603,416.54,0.15,62.48,354.06,277.15,76.91,21.72,False
+ORD-2025830,2025-10-17,Europe,Furniture,Acoustic Panels,Online Portal,9,341.8778365714298,582.27,0.15,87.34,494.93,422.44,72.49,14.65,False
+ORD-2025831,2025-04-18,Europe,Software & Services,Cybersecurity Audits,Retail Store,11,81.64191135994952,169.95,0.05,8.5,161.45,124.93,36.52,22.62,False
+ORD-2025832,2025-09-12,Latin America,Office Supplies,Ergonomic Chairs,Retail Store,10,877.7335389717672,1661.02,0.1,166.1,1494.92,1125.08,369.84,24.74,False
+ORD-2025833,2025-09-15,North America,Furniture,Acoustic Panels,Retail Store,12,1166.89272632107,2649.86,0.05,132.49,2517.37,2067.48,449.89,17.87,False
+ORD-2025834,2025-09-15,Europe,Furniture,Task Lighting,Partner Reseller,8,497.41589083067527,753.05,0.05,37.65,715.39,579.94,135.45,18.93,False
+ORD-2025835,2025-08-24,Europe,Furniture,Acoustic Panels,Direct Enterprise,11,721.9072655822716,1502.74,0.05,75.14,1427.61,1031.57,396.04,27.74,False
+ORD-2025836,2025-09-30,Europe,Software & Services,Data Analytics Suite,Direct Enterprise,8,1353.0447079353828,2048.39,0.3,614.52,1433.88,1393.73,40.15,2.8,True
+ORD-2025837,2025-11-06,Asia Pacific,Software & Services,Cloud Migration Services,Online Portal,7,1278.7743390945818,1693.96,0.05,84.7,1609.26,1137.81,471.45,29.3,False
+ORD-2025838,2025-06-25,Europe,Office Supplies,Ergonomic Chairs,Online Portal,6,1039.806173559076,1180.63,0.1,118.06,1062.57,774.78,287.79,27.08,False
+ORD-2025839,2025-02-03,Europe,Furniture,Modern Conference Tables,Direct Enterprise,14,1223.7728195245516,3242.2,0.05,162.11,3080.09,2278.13,801.96,26.04,False
+ORD-2025840,2025-04-23,Asia Pacific,Office Supplies,Paper Shredders,Direct Enterprise,10,1248.7606516605629,2363.15,0.15,354.47,2008.67,1613.04,395.63,19.7,False
+ORD-2025841,2025-10-03,North America,Technology,UltraHD Monitors,Direct Enterprise,1,601.9786847026961,113.92,0.15,17.09,96.83,84.7,12.13,12.53,False
+ORD-2025842,2025-06-26,North America,Furniture,Task Lighting,Partner Reseller,5,475.4679282396702,449.89,0.15,67.48,382.4,296.8,85.6,22.38,False
+ORD-2025843,2025-02-25,Asia Pacific,Software & Services,Cloud Migration Services,Retail Store,3,1179.1658779683305,669.43,0.15,100.41,569.02,494.01,75.01,13.18,False
+ORD-2025844,2025-07-15,Asia Pacific,Furniture,Storage Shelves,Partner Reseller,8,1093.4525066572287,1655.39,0.15,248.31,1407.08,1060.37,346.71,24.64,False
+ORD-2025845,2025-01-07,North America,Office Supplies,Executive Desks,Online Portal,10,995.9671819306172,1884.76,0.1,188.48,1696.28,1446.09,250.19,14.75,False
+ORD-2025846,2025-10-19,Asia Pacific,Software & Services,Data Analytics Suite,Direct Enterprise,13,499.5999982115134,1229.07,0.2,245.81,983.26,860.44,122.82,12.49,False
+ORD-2025847,2025-08-20,Europe,Furniture,Task Lighting,Direct Enterprise,9,387.20941571269395,659.48,0.1,65.95,593.53,484.96,108.57,18.29,False
+ORD-2025848,2025-06-02,North America,Furniture,Storage Shelves,Retail Store,10,1607.2136896545437,3041.48,0.1,304.15,2737.33,2183.17,554.16,20.24,False
+ORD-2025849,2025-12-11,Europe,Software & Services,Cybersecurity Audits,Online Portal,3,1785.705636811353,1013.78,0.05,50.69,963.09,779.47,183.62,19.07,False
+ORD-2025850,2025-03-27,North America,Technology,Wireless Headsets,Direct Enterprise,14,295.8877804400382,783.91,0.05,39.2,744.72,577.35,167.37,22.47,False
+ORD-2025851,2025-06-04,North America,Technology,UltraHD Monitors,Direct Enterprise,1,1010.3647537102704,191.2,0.15,28.68,162.52,135.59,26.93,16.57,False
+ORD-2025852,2025-01-16,North America,Software & Services,Cloud Migration Services,Retail Store,6,774.0325707655772,878.86,0.05,43.94,834.92,666.82,168.1,20.13,False
+ORD-2025853,2025-10-27,North America,Technology,Enterprise Laptops,Partner Reseller,10,1600.3637002759938,3028.52,0.15,454.28,2574.24,2202.67,371.57,14.43,False
+ORD-2025854,2025-08-12,North America,Software & Services,Cloud Migration Services,Partner Reseller,2,508.98006317622355,192.64,0.05,9.63,183.01,132.59,50.42,27.55,False
+ORD-2025855,2025-07-29,North America,Furniture,Modular Workstations,Retail Store,6,1335.8331698718525,1516.75,0.05,75.84,1440.91,1104.3,336.61,23.36,False
+ORD-2025856,2025-04-02,Europe,Office Supplies,Ergonomic Chairs,Online Portal,11,1579.7956125936196,3288.55,0.15,493.28,2795.27,2383.33,411.94,14.74,False
+ORD-2025857,2025-01-08,Asia Pacific,Technology,Smart Projectors,Online Portal,2,1745.4257085111578,660.61,0.1,66.06,594.54,437.45,157.09,26.42,False
+ORD-2025858,2025-02-23,Europe,Technology,UltraHD Monitors,Direct Enterprise,6,610.5227993692994,693.21,0.25,173.3,519.91,438.51,81.4,15.66,True
+ORD-2025859,2025-07-08,Europe,Technology,UltraHD Monitors,Direct Enterprise,12,1259.4352725942394,2860.01,0.25,715.0,2145.01,2067.2,77.81,3.63,True
+ORD-2025860,2025-12-21,Asia Pacific,Technology,Cloud Servers,Partner Reseller,11,507.44530398069105,1056.31,0.3,316.89,739.42,719.77,19.65,2.66,True
+ORD-2025861,2025-06-09,Asia Pacific,Office Supplies,Filing Cabinets,Direct Enterprise,14,1187.416171790306,3145.88,0.15,471.88,2674.0,2245.57,428.43,16.02,False
+ORD-2025862,2025-12-26,Europe,Technology,Wireless Headsets,Partner Reseller,2,679.6314734183768,257.23,0.05,12.86,244.36,201.98,42.38,17.34,False
+ORD-2025863,2025-09-29,Europe,Software & Services,Cloud Migration Services,Partner Reseller,7,336.43241152702376,445.66,0.05,22.28,423.38,301.9,121.48,28.69,False
+ORD-2025864,2025-11-23,Europe,Technology,Cloud Servers,Direct Enterprise,5,1609.7993873112973,1523.19,0.05,76.16,1447.03,1046.25,400.78,27.7,False
+ORD-2025865,2025-08-22,Asia Pacific,Technology,Enterprise Laptops,Partner Reseller,10,1521.9377906430227,2880.1,0.0,0.0,2880.1,2197.49,682.61,23.7,False
+ORD-2025866,2025-08-16,Europe,Technology,Wireless Headsets,Online Portal,5,141.58250027615998,133.96,0.15,20.1,113.87,99.19,14.68,12.89,False
+ORD-2025867,2025-11-27,Europe,Technology,Smart Projectors,Partner Reseller,2,416.4809239382449,157.63,0.1,15.76,141.87,117.04,24.83,17.5,False
+ORD-2025868,2025-07-15,North America,Furniture,Storage Shelves,Direct Enterprise,1,1327.098395253942,251.14,0.15,37.67,213.47,163.05,50.42,23.62,False
+ORD-2025869,2025-03-18,Asia Pacific,Technology,Wireless Headsets,Retail Store,6,65.921817241358,74.85,0.0,0.0,74.85,53.47,21.38,28.56,False
+ORD-2025870,2025-11-22,Europe,Technology,UltraHD Monitors,Partner Reseller,4,379.874742392232,287.55,0.2,57.51,230.04,212.79,17.25,7.5,False
+ORD-2025871,2025-04-02,Europe,Software & Services,SaaS Enterprise Licenses,Partner Reseller,1,929.871023231691,175.97,0.0,0.0,175.97,129.73,46.24,26.28,False
+ORD-2025872,2025-11-29,Europe,Technology,Wireless Headsets,Online Portal,9,1297.7750107580464,2210.31,0.05,110.52,2099.79,1493.91,605.88,28.85,False
+ORD-2025873,2025-04-03,North America,Software & Services,SaaS Enterprise Licenses,Online Portal,13,371.6725565931762,914.35,0.1,91.43,822.92,615.44,207.48,25.21,False
+ORD-2025874,2025-06-13,Asia Pacific,Technology,Smart Projectors,Partner Reseller,9,1358.1476985193344,2313.13,0.1,231.31,2081.82,1638.95,442.87,21.27,False
+ORD-2025875,2025-02-25,Latin America,Technology,Cloud Servers,Direct Enterprise,12,1669.7702660829757,3791.83,0.1,379.18,3412.65,2781.46,631.19,18.5,False
+ORD-2025876,2025-03-07,Asia Pacific,Technology,UltraHD Monitors,Online Portal,14,644.4620823392775,1707.41,0.15,256.11,1451.29,1150.59,300.7,20.72,False
+ORD-2025877,2025-03-18,Asia Pacific,Office Supplies,Filing Cabinets,Partner Reseller,3,1545.1991483199404,877.24,0.15,131.59,745.65,589.62,156.03,20.93,False
+ORD-2025878,2025-01-12,North America,Software & Services,SaaS Enterprise Licenses,Retail Store,1,1013.7083600736319,191.83,0.3,57.55,134.28,118.96,15.32,11.41,True
+ORD-2025879,2025-07-04,Europe,Technology,Wireless Headsets,Retail Store,6,1624.3010408356627,1844.29,0.15,276.64,1567.65,1222.7,344.95,22.0,False
+ORD-2025880,2025-06-04,Asia Pacific,Technology,Enterprise Laptops,Online Portal,2,1324.8643842330205,501.43,0.0,0.0,501.43,365.43,136.0,27.12,False
+ORD-2025881,2025-12-12,North America,Technology,Smart Projectors,Online Portal,6,1414.0952795479247,1605.61,0.15,240.84,1364.77,1213.21,151.56,11.11,False
+ORD-2025882,2025-07-23,North America,Technology,UltraHD Monitors,Partner Reseller,7,771.0310431653987,1021.37,0.0,0.0,1021.37,780.19,241.18,23.61,False
+ORD-2025883,2025-05-26,Latin America,Technology,Enterprise Laptops,Retail Store,7,497.7769464213724,659.39,0.05,32.97,626.42,494.77,131.65,21.02,False
+ORD-2025884,2025-09-28,Asia Pacific,Office Supplies,Filing Cabinets,Retail Store,11,768.5477201669665,1599.83,0.25,399.96,1199.87,1146.44,53.43,4.45,True
+ORD-2025885,2025-10-30,Latin America,Technology,UltraHD Monitors,Online Portal,4,765.3015849149238,579.3,0.05,28.96,550.34,428.32,122.02,22.17,False
+ORD-2025886,2025-02-12,North America,Technology,UltraHD Monitors,Direct Enterprise,11,1029.5055128745485,2143.05,0.05,107.15,2035.9,1641.4,394.5,19.38,False
+ORD-2025887,2025-08-01,Asia Pacific,Software & Services,Cloud Migration Services,Retail Store,12,1352.773793715719,3071.98,0.0,0.0,3071.98,2150.55,921.43,29.99,False
+ORD-2025888,2025-12-19,Europe,Furniture,Acoustic Panels,Retail Store,12,280.4916866111214,636.96,0.2,127.39,509.57,446.05,63.52,12.47,False
+ORD-2025889,2025-06-01,Asia Pacific,Technology,Enterprise Laptops,Direct Enterprise,11,1562.705227590196,3252.98,0.05,162.65,3090.33,2447.22,643.11,20.81,False
+ORD-2025890,2025-07-05,Europe,Technology,Smart Projectors,Partner Reseller,3,177.28845811009387,100.65,0.15,15.1,85.55,66.99,18.56,21.69,False
+ORD-2025891,2025-02-11,Asia Pacific,Office Supplies,Executive Desks,Partner Reseller,1,672.1771450160134,127.2,0.2,25.44,101.76,83.93,17.83,17.52,False
+ORD-2025892,2025-06-07,North America,Technology,Wireless Headsets,Direct Enterprise,6,853.8555178024397,969.5,0.2,193.9,775.6,713.13,62.47,8.05,False
+ORD-2025893,2025-02-22,North America,Technology,Smart Projectors,Retail Store,9,456.1375112657888,776.87,0.15,116.53,660.34,573.22,87.12,13.19,False
+ORD-2025894,2025-10-26,North America,Technology,Smart Projectors,Retail Store,1,1601.9715799553123,303.16,0.25,75.79,227.37,211.81,15.56,6.84,True
+ORD-2025895,2025-05-05,Europe,Technology,Smart Projectors,Direct Enterprise,1,1551.0872551255516,293.53,0.1,29.35,264.17,192.29,71.88,27.21,False
+ORD-2025896,2025-12-29,Latin America,Technology,Cloud Servers,Direct Enterprise,4,1290.3987135857694,976.78,0.0,0.0,976.78,772.07,204.71,20.96,False
+ORD-2025897,2025-12-10,Latin America,Technology,Wireless Headsets,Direct Enterprise,12,1168.7670771645505,2654.12,0.2,530.82,2123.29,1891.36,231.93,10.92,False
+ORD-2025898,2025-02-11,Europe,Technology,Wireless Headsets,Direct Enterprise,5,552.9544342295944,523.2,0.1,52.32,470.88,361.48,109.4,23.23,False
+ORD-2025899,2025-03-12,North America,Software & Services,Cybersecurity Audits,Direct Enterprise,6,1051.551574852634,1193.97,0.4,477.59,716.38,715.35,1.03,0.14,True
+ORD-2025900,2025-11-01,Europe,Office Supplies,Paper Shredders,Partner Reseller,2,1437.4700792286726,544.05,0.25,136.01,408.04,394.98,13.06,3.2,True
+ORD-2025901,2025-09-02,Latin America,Technology,Smart Projectors,Retail Store,4,1163.1848606263325,880.48,0.0,0.0,880.48,647.81,232.67,26.43,False
+ORD-2025902,2025-04-14,North America,Technology,UltraHD Monitors,Online Portal,10,291.9955534583085,552.57,0.05,27.63,524.94,406.36,118.58,22.59,False
+ORD-2025903,2025-09-28,North America,Furniture,Modular Workstations,Partner Reseller,9,1697.1257147111996,2890.46,0.2,578.09,2312.37,2000.16,312.21,13.5,False
+ORD-2025904,2025-08-19,Asia Pacific,Technology,Enterprise Laptops,Direct Enterprise,1,1254.625843598901,237.43,0.05,11.87,225.55,166.18,59.37,26.32,False
+ORD-2025905,2025-01-23,North America,Technology,Enterprise Laptops,Online Portal,13,1064.6593540418933,2619.18,0.1,261.92,2357.26,1828.6,528.66,22.43,False
+ORD-2025906,2025-11-13,Europe,Furniture,Modern Conference Tables,Online Portal,8,633.9823632573523,959.79,0.05,47.99,911.81,731.2,180.61,19.81,False
+ORD-2025907,2025-01-30,North America,Office Supplies,Ergonomic Chairs,Online Portal,5,145.7498059588699,137.91,0.1,13.79,124.12,105.66,18.46,14.87,False
+ORD-2025908,2025-09-22,Asia Pacific,Furniture,Modular Workstations,Partner Reseller,10,1740.0982767975024,3292.95,0.0,0.0,3292.95,2572.42,720.53,21.88,False
+ORD-2025909,2025-07-13,Europe,Technology,Enterprise Laptops,Direct Enterprise,8,1680.2027124364104,2543.68,0.0,0.0,2543.68,1896.28,647.4,25.45,False
+ORD-2025910,2025-01-08,Latin America,Technology,Wireless Headsets,Partner Reseller,6,1133.4624500817185,1286.97,0.0,0.0,1286.97,1029.44,257.53,20.01,False
+ORD-2025911,2025-10-04,Europe,Furniture,Modular Workstations,Online Portal,14,1641.5264120641045,4348.98,0.0,0.0,4348.98,3192.74,1156.24,26.59,False
+ORD-2025912,2025-03-09,Europe,Technology,Cloud Servers,Online Portal,7,1639.7176877199968,2172.09,0.15,325.81,1846.28,1394.47,451.81,24.47,False
+ORD-2025913,2025-11-15,Europe,Furniture,Modern Conference Tables,Retail Store,11,1159.3065582067734,2413.25,0.0,0.0,2413.25,1913.36,499.89,20.71,False
+ORD-2025914,2025-01-19,Asia Pacific,Technology,Cloud Servers,Partner Reseller,13,601.1661083578291,1478.93,0.05,73.95,1404.99,1017.1,387.89,27.61,False
+ORD-2025915,2025-03-18,Europe,Technology,Smart Projectors,Retail Store,6,625.0575940897247,709.71,0.05,35.49,674.23,515.66,158.57,23.52,False
+ORD-2025916,2025-08-18,North America,Furniture,Task Lighting,Direct Enterprise,9,67.11391553508327,114.31,0.0,0.0,114.31,85.55,28.76,25.16,False
+ORD-2025917,2025-05-18,North America,Software & Services,Cloud Migration Services,Direct Enterprise,1,311.44892979410156,58.94,0.1,5.89,53.05,41.82,11.23,21.17,False
+ORD-2025918,2025-10-12,Latin America,Technology,UltraHD Monitors,Direct Enterprise,6,245.36287644310778,278.59,0.0,0.0,278.59,217.31,61.28,22.0,False
+ORD-2025919,2025-07-29,Europe,Technology,Wireless Headsets,Retail Store,12,1150.528002723284,2612.7,0.15,391.9,2220.8,1909.59,311.21,14.01,False
+ORD-2025920,2025-12-08,North America,Furniture,Acoustic Panels,Direct Enterprise,14,1630.838011414734,4320.66,0.0,0.0,4320.66,2987.57,1333.09,30.85,False
+ORD-2025921,2025-10-03,North America,Technology,Wireless Headsets,Retail Store,8,1226.5719174888723,1856.93,0.1,185.69,1671.23,1237.47,433.76,25.95,False
+ORD-2025922,2025-04-04,Latin America,Technology,Smart Projectors,Retail Store,4,1586.2327942789873,1200.71,0.1,120.07,1080.64,879.92,200.72,18.57,False
+ORD-2025923,2025-01-04,Europe,Office Supplies,Executive Desks,Online Portal,10,213.66021629634164,404.33,0.05,20.22,384.11,276.93,107.18,27.9,False
+ORD-2025924,2025-07-30,Europe,Technology,Cloud Servers,Direct Enterprise,2,921.4100370189618,348.73,0.05,17.44,331.3,267.25,64.05,19.33,False
+ORD-2025925,2025-08-13,Europe,Technology,Enterprise Laptops,Direct Enterprise,8,288.8802711462688,437.34,0.0,0.0,437.34,345.37,91.97,21.03,False
+ORD-2025926,2025-04-22,Asia Pacific,Technology,Wireless Headsets,Retail Store,4,62.41893186605256,47.25,0.2,9.45,37.8,31.54,6.26,16.56,False
+ORD-2025927,2025-02-28,Europe,Furniture,Acoustic Panels,Direct Enterprise,3,608.3268772774129,345.36,0.3,103.61,241.75,243.84,-2.09,-0.86,True
+ORD-2025928,2025-12-04,North America,Technology,Enterprise Laptops,Direct Enterprise,14,775.0722745353634,2053.44,0.0,0.0,2053.44,1424.14,629.3,30.65,False
+ORD-2025929,2025-03-05,North America,Technology,Cloud Servers,Partner Reseller,13,1360.176306689234,3346.18,0.2,669.24,2676.95,2398.05,278.9,10.42,False
+ORD-2025930,2025-11-09,Europe,Office Supplies,Ergonomic Chairs,Retail Store,9,1511.1743563412044,2573.76,0.2,514.75,2059.01,1700.92,358.09,17.39,False
+ORD-2025931,2025-02-24,North America,Furniture,Storage Shelves,Retail Store,13,471.24702491113675,1159.32,0.0,0.0,1159.32,805.1,354.22,30.55,False
+ORD-2025932,2025-09-27,Latin America,Technology,UltraHD Monitors,Partner Reseller,10,654.8352955763817,1239.2,0.1,123.92,1115.28,816.95,298.33,26.75,False
+ORD-2025933,2025-10-10,North America,Technology,Wireless Headsets,Direct Enterprise,8,709.4185986048718,1074.0,0.1,107.4,966.6,703.1,263.5,27.26,False
+ORD-2025934,2025-03-17,Europe,Technology,Enterprise Laptops,Online Portal,9,539.4292489562756,918.73,0.0,0.0,918.73,684.11,234.62,25.54,False
+ORD-2025935,2025-01-09,Latin America,Technology,Cloud Servers,Direct Enterprise,6,1345.0311502768725,1527.2,0.05,76.36,1450.84,1178.88,271.96,18.75,False
+ORD-2025936,2025-05-21,Europe,Office Supplies,Filing Cabinets,Retail Store,14,1129.5483229390677,2992.57,0.0,0.0,2992.57,2051.84,940.73,31.44,False
+ORD-2025937,2025-04-15,North America,Office Supplies,Ergonomic Chairs,Direct Enterprise,12,1561.0025254130926,3544.83,0.25,886.21,2658.63,2582.73,75.9,2.85,True
+ORD-2025938,2025-08-17,Asia Pacific,Technology,Smart Projectors,Direct Enterprise,11,1180.582152169043,2457.54,0.0,0.0,2457.54,1955.41,502.13,20.43,False
+ORD-2025939,2025-03-30,Asia Pacific,Furniture,Modern Conference Tables,Direct Enterprise,9,833.2474133889511,1419.15,0.2,283.83,1135.32,937.79,197.53,17.4,False
+ORD-2025940,2025-05-27,Europe,Office Supplies,Executive Desks,Retail Store,1,846.4674043073466,160.19,0.1,16.02,144.17,112.58,31.59,21.91,False
+ORD-2025941,2025-12-11,Latin America,Office Supplies,Laser Printers,Retail Store,14,1159.1447079872755,3070.98,0.1,307.1,2763.88,2133.99,629.89,22.79,False
+ORD-2025942,2025-03-13,Europe,Technology,Wireless Headsets,Partner Reseller,1,73.46654427621544,13.9,0.0,0.0,13.9,11.13,2.77,19.93,False
+ORD-2025943,2025-12-28,Asia Pacific,Technology,Enterprise Laptops,Direct Enterprise,10,1342.0171433370383,2539.62,0.05,126.98,2412.64,1932.04,480.6,19.92,False
+ORD-2025944,2025-07-26,Europe,Technology,Wireless Headsets,Retail Store,13,1194.4898874854346,2938.58,0.1,293.86,2644.72,2032.19,612.53,23.16,False
+ORD-2025945,2025-10-24,Latin America,Office Supplies,Laser Printers,Direct Enterprise,1,125.54800901014752,23.76,0.05,1.19,22.57,16.81,5.76,25.52,False
+ORD-2025946,2025-07-29,Europe,Technology,Cloud Servers,Direct Enterprise,14,1728.2923079526904,4578.85,0.1,457.89,4120.96,3140.24,980.72,23.8,False
+ORD-2025947,2025-01-31,Europe,Office Supplies,Executive Desks,Retail Store,13,777.8488950206416,1913.59,0.15,287.04,1626.55,1433.51,193.04,11.87,False
+ORD-2025948,2025-08-30,Asia Pacific,Technology,Smart Projectors,Retail Store,12,1457.655224740976,3310.15,0.0,0.0,3310.15,2539.1,771.05,23.29,False
+ORD-2025949,2025-04-02,North America,Furniture,Task Lighting,Online Portal,8,1071.8714435960474,1622.72,0.0,0.0,1622.72,1258.86,363.86,22.42,False
+ORD-2025950,2025-10-05,North America,Technology,Wireless Headsets,Online Portal,7,1645.2846486607216,2179.47,0.1,217.95,1961.52,1563.67,397.85,20.28,False
+ORD-2025951,2025-10-15,North America,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,7,1338.4444089308088,1773.0,0.15,265.95,1507.05,1272.82,234.23,15.54,False
+ORD-2025952,2025-10-04,Asia Pacific,Technology,Enterprise Laptops,Partner Reseller,8,1609.6013954531666,2436.8,0.1,243.68,2193.12,1617.6,575.52,26.24,False
+ORD-2025953,2025-10-15,Asia Pacific,Technology,Smart Projectors,Online Portal,2,523.1100333672725,197.99,0.2,39.6,158.39,135.92,22.47,14.19,False
+ORD-2025954,2025-09-28,Asia Pacific,Technology,Cloud Servers,Online Portal,6,769.132583684827,873.3,0.1,87.33,785.97,644.47,141.5,18.0,False
+ORD-2025955,2025-03-14,Europe,Office Supplies,Filing Cabinets,Online Portal,14,509.22814296837527,1349.12,0.0,0.0,1349.12,1001.17,347.95,25.79,False
+ORD-2025956,2025-03-17,North America,Furniture,Modular Workstations,Partner Reseller,8,883.0992287643581,1336.94,0.4,534.77,802.16,878.06,-75.9,-9.46,True
+ORD-2025957,2025-12-22,Europe,Technology,Cloud Servers,Direct Enterprise,13,600.9088531109945,1478.3,0.1,147.83,1330.47,1051.95,278.52,20.93,False
+ORD-2025958,2025-11-19,Europe,Technology,Enterprise Laptops,Online Portal,10,1650.420769153598,3123.24,0.0,0.0,3123.24,2419.86,703.38,22.52,False
+ORD-2025959,2025-09-14,North America,Furniture,Task Lighting,Direct Enterprise,5,1390.7749277698615,1315.94,0.3,394.78,921.16,931.35,-10.19,-1.11,True
+ORD-2025960,2025-02-25,Europe,Furniture,Modern Conference Tables,Direct Enterprise,3,371.2643478715055,210.77,0.05,10.54,200.23,151.34,48.89,24.42,False
+ORD-2025961,2025-10-14,Europe,Software & Services,Data Analytics Suite,Direct Enterprise,7,517.6173171006296,685.67,0.1,68.57,617.11,460.91,156.2,25.31,False
+ORD-2025962,2025-12-22,North America,Technology,Enterprise Laptops,Retail Store,7,1646.4454819270225,2181.0,0.3,654.3,1526.7,1360.96,165.74,10.86,True
+ORD-2025963,2025-12-31,Latin America,Technology,Smart Projectors,Direct Enterprise,10,242.5310119732013,458.96,0.3,137.69,321.28,296.17,25.11,7.82,True
+ORD-2025964,2025-07-27,North America,Furniture,Modular Workstations,Direct Enterprise,11,642.4695480148398,1337.39,0.1,133.74,1203.65,973.23,230.42,19.14,False
+ORD-2025965,2025-09-27,Europe,Technology,Cloud Servers,Online Portal,8,547.8959295492773,829.47,0.0,0.0,829.47,633.88,195.59,23.58,False
+ORD-2025966,2025-07-26,North America,Furniture,Storage Shelves,Direct Enterprise,1,1508.1169539261525,285.4,0.25,71.35,214.05,195.41,18.64,8.71,True
+ORD-2025967,2025-07-06,Europe,Technology,UltraHD Monitors,Retail Store,5,827.8399614611343,783.3,0.05,39.16,744.13,542.25,201.88,27.13,False
+ORD-2025968,2025-04-28,Europe,Technology,Smart Projectors,Partner Reseller,11,725.9136917734068,1511.08,0.1,151.11,1359.98,1053.14,306.84,22.56,False
+ORD-2025969,2025-11-21,North America,Technology,UltraHD Monitors,Retail Store,10,1581.265224551948,2992.37,0.05,149.62,2842.76,2037.35,805.41,28.33,False
+ORD-2025970,2025-09-14,Latin America,Office Supplies,Ergonomic Chairs,Online Portal,13,295.8732671421553,727.88,0.1,72.79,655.09,494.52,160.57,24.51,False
+ORD-2025971,2025-06-07,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Partner Reseller,8,1524.3121869622564,2307.68,0.15,346.15,1961.53,1497.63,463.9,23.65,False
+ORD-2025972,2025-03-30,North America,Office Supplies,Executive Desks,Online Portal,3,327.41040954796654,185.88,0.1,18.59,167.29,129.75,37.54,22.44,False
+ORD-2025973,2025-01-02,Asia Pacific,Office Supplies,Laser Printers,Direct Enterprise,1,1222.4473671691492,231.34,0.0,0.0,231.34,165.44,65.9,28.49,False
+ORD-2025974,2025-02-12,North America,Furniture,Modular Workstations,Direct Enterprise,14,823.235810336032,2181.04,0.15,327.15,1853.88,1463.79,390.09,21.04,False
+ORD-2025975,2025-05-28,North America,Software & Services,Data Analytics Suite,Retail Store,14,259.8632531224778,688.47,0.05,34.42,654.05,532.18,121.87,18.63,False
+ORD-2025976,2025-07-23,Europe,Office Supplies,Paper Shredders,Partner Reseller,14,1473.4620637381895,3903.72,0.15,585.56,3318.16,2804.94,513.22,15.47,False
+ORD-2025977,2025-01-31,North America,Office Supplies,Ergonomic Chairs,Partner Reseller,13,148.43171505155186,365.16,0.0,0.0,365.16,293.17,71.99,19.71,False
+ORD-2025978,2025-03-21,North America,Technology,Enterprise Laptops,Partner Reseller,11,1702.072236991623,3543.09,0.05,177.15,3365.93,2665.36,700.57,20.81,False
+ORD-2025979,2025-01-17,Europe,Technology,Enterprise Laptops,Online Portal,6,1232.1816450850993,1399.06,0.15,209.86,1189.2,987.77,201.43,16.94,False
+ORD-2025980,2025-10-29,North America,Office Supplies,Paper Shredders,Online Portal,9,1380.8130609831167,2351.74,0.35,823.11,1528.63,1628.84,-100.21,-6.56,True
+ORD-2025981,2025-05-30,Asia Pacific,Technology,Cloud Servers,Direct Enterprise,12,996.0692400682758,2261.94,0.2,452.39,1809.55,1542.54,267.01,14.76,False
+ORD-2025982,2025-06-15,North America,Furniture,Acoustic Panels,Direct Enterprise,11,1229.8271604518243,2560.05,0.1,256.0,2304.04,1706.23,597.81,25.95,False
+ORD-2025983,2025-06-19,North America,Technology,Wireless Headsets,Online Portal,4,489.2276110531238,370.32,0.15,55.55,314.77,267.07,47.7,15.15,False
+ORD-2025984,2025-02-23,North America,Software & Services,Cybersecurity Audits,Online Portal,2,1133.136534836009,428.87,0.05,21.44,407.42,332.89,74.53,18.29,False
+ORD-2025985,2025-01-11,North America,Technology,Smart Projectors,Retail Store,14,1081.2500237599895,2864.61,0.1,286.46,2578.15,2127.53,450.62,17.48,False
+ORD-2025986,2025-10-02,North America,Technology,Wireless Headsets,Direct Enterprise,9,164.80133865380168,280.68,0.15,42.1,238.58,198.7,39.88,16.72,False
+ORD-2025987,2025-09-11,North America,Technology,Cloud Servers,Partner Reseller,10,632.2847694717472,1196.53,0.0,0.0,1196.53,831.82,364.71,30.48,False
+ORD-2025988,2025-11-07,North America,Office Supplies,Filing Cabinets,Direct Enterprise,4,1000.9602413469622,757.68,0.05,37.88,719.8,523.74,196.06,27.24,False
+ORD-2025989,2025-10-27,North America,Office Supplies,Paper Shredders,Retail Store,10,1192.989283260747,2257.6,0.0,0.0,2257.6,1694.52,563.08,24.94,False
+ORD-2025990,2025-03-20,North America,Technology,UltraHD Monitors,Retail Store,7,550.8925376699901,729.75,0.1,72.97,656.78,494.54,162.24,24.7,False
+ORD-2025991,2025-02-28,North America,Software & Services,SaaS Enterprise Licenses,Partner Reseller,13,59.5264910854585,146.44,0.0,0.0,146.44,116.16,30.28,20.68,False
+ORD-2025992,2025-12-12,North America,Technology,Wireless Headsets,Direct Enterprise,6,1401.1566667922489,1590.92,0.2,318.18,1272.74,1138.12,134.62,10.58,False
+ORD-2025993,2025-10-04,Asia Pacific,Technology,UltraHD Monitors,Direct Enterprise,10,518.7787699305213,981.73,0.1,98.17,883.56,744.62,138.94,15.73,False
+ORD-2025994,2025-09-04,Europe,Technology,Smart Projectors,Online Portal,3,1793.519407429145,1018.21,0.2,203.64,814.57,710.25,104.32,12.81,False
+ORD-2025995,2025-05-22,Latin America,Office Supplies,Ergonomic Chairs,Retail Store,7,1507.7608766019007,1997.29,0.15,299.59,1697.7,1347.0,350.7,20.66,False
+ORD-2025996,2025-11-21,North America,Furniture,Modern Conference Tables,Retail Store,14,1272.9589232805574,3372.51,0.2,674.5,2698.01,2163.26,534.75,19.82,False
+ORD-2025997,2025-02-10,Asia Pacific,Technology,UltraHD Monitors,Retail Store,2,1319.586559527102,499.43,0.0,0.0,499.43,384.52,114.91,23.01,False
+ORD-2025998,2025-08-13,Asia Pacific,Furniture,Acoustic Panels,Direct Enterprise,12,1683.3264834536078,3822.62,0.2,764.52,3058.09,2704.01,354.08,11.58,False
+ORD-2025999,2025-05-31,Europe,Furniture,Storage Shelves,Partner Reseller,1,1538.055989275798,291.06,0.0,0.0,291.06,222.43,68.63,23.58,False
+ORD-2026000,2025-05-12,Asia Pacific,Technology,Smart Projectors,Online Portal,2,444.169829086681,168.11,0.15,25.22,142.89,112.62,30.27,21.18,False
+ORD-2026001,2025-06-10,Latin America,Furniture,Storage Shelves,Direct Enterprise,7,1732.803544756038,2295.4,0.15,344.31,1951.09,1601.91,349.18,17.9,False
+ORD-2026002,2025-10-14,North America,Technology,UltraHD Monitors,Direct Enterprise,3,618.0653966696532,350.89,0.15,52.63,298.25,251.96,46.29,15.52,False
+ORD-2026003,2025-01-16,Asia Pacific,Technology,Wireless Headsets,Online Portal,1,529.5727819824826,100.22,0.2,20.04,80.17,67.71,12.46,15.54,False
+ORD-2026004,2025-04-22,North America,Technology,Wireless Headsets,Direct Enterprise,5,1430.8210573535825,1353.84,0.05,67.69,1286.15,971.79,314.36,24.44,False
+ORD-2026005,2025-01-09,North America,Furniture,Acoustic Panels,Online Portal,4,1781.1291959860257,1348.24,0.0,0.0,1348.24,930.4,417.84,30.99,False
+ORD-2026006,2025-03-30,North America,Furniture,Acoustic Panels,Partner Reseller,3,1052.1949277492065,597.35,0.1,59.74,537.61,451.95,85.66,15.93,False
+ORD-2026007,2025-08-11,North America,Office Supplies,Filing Cabinets,Direct Enterprise,4,975.0223525155241,738.05,0.2,147.61,590.44,525.78,64.66,10.95,False
+ORD-2026008,2025-12-21,Europe,Technology,Smart Projectors,Retail Store,11,1659.7741347284498,3455.04,0.0,0.0,3455.04,2702.97,752.07,21.77,False
+ORD-2026009,2025-12-08,North America,Software & Services,Cloud Migration Services,Online Portal,1,1356.0491719958843,256.62,0.0,0.0,256.62,180.82,75.8,29.54,False
+ORD-2026010,2025-12-14,Asia Pacific,Software & Services,Cloud Migration Services,Direct Enterprise,3,740.0970061136626,420.17,0.0,0.0,420.17,293.63,126.54,30.12,False
+ORD-2026011,2025-09-30,Europe,Technology,UltraHD Monitors,Direct Enterprise,11,1114.6125814304378,2320.21,0.05,116.01,2204.2,1814.59,389.61,17.68,False
+ORD-2026012,2025-01-05,Asia Pacific,Software & Services,Data Analytics Suite,Direct Enterprise,3,1468.2640248273442,833.56,0.05,41.68,791.88,581.11,210.77,26.62,False
+ORD-2026013,2025-11-21,North America,Technology,UltraHD Monitors,Direct Enterprise,1,1650.2730266028423,312.3,0.2,62.46,249.84,226.65,23.19,9.28,False
+ORD-2026014,2025-12-02,Latin America,Furniture,Acoustic Panels,Direct Enterprise,9,1521.0563398530858,2590.59,0.1,259.06,2331.53,1707.94,623.59,26.75,False
+ORD-2026015,2025-01-29,North America,Furniture,Acoustic Panels,Direct Enterprise,13,1556.8084499514207,3829.92,0.1,382.99,3446.93,2578.95,867.98,25.18,False
+ORD-2026016,2025-08-15,North America,Office Supplies,Laser Printers,Direct Enterprise,9,760.6924658794762,1295.58,0.0,0.0,1295.58,975.93,319.65,24.67,False
+ORD-2026017,2025-06-22,Europe,Technology,Wireless Headsets,Direct Enterprise,14,1594.8679743463695,4225.36,0.25,1056.34,3169.02,2629.21,539.81,17.03,True
+ORD-2026018,2025-02-23,Latin America,Software & Services,SaaS Enterprise Licenses,Online Portal,7,509.71329229000906,675.2,0.0,0.0,675.2,517.64,157.56,23.34,False
+ORD-2026019,2025-08-03,North America,Office Supplies,Laser Printers,Online Portal,8,85.09224212201492,128.82,0.25,32.21,96.62,87.3,9.32,9.65,True
+ORD-2026020,2025-05-16,Asia Pacific,Furniture,Task Lighting,Direct Enterprise,13,1312.2527207041967,3228.29,0.0,0.0,3228.29,2536.85,691.44,21.42,False
+ORD-2026021,2025-08-04,Asia Pacific,Technology,Enterprise Laptops,Online Portal,9,105.0304213531582,178.88,0.15,26.83,152.05,132.25,19.8,13.02,False
+ORD-2026022,2025-10-20,North America,Furniture,Storage Shelves,Partner Reseller,14,1755.0336854433356,4649.7,0.35,1627.39,3022.3,2980.39,41.91,1.39,True
+ORD-2026023,2025-01-10,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,7,1676.6349843942603,2220.99,0.0,0.0,2220.99,1673.74,547.25,24.64,False
+ORD-2026024,2025-01-15,Europe,Technology,UltraHD Monitors,Partner Reseller,11,595.480812612421,1239.57,0.05,61.98,1177.59,953.76,223.83,19.01,False
+ORD-2026025,2025-11-26,Asia Pacific,Technology,Wireless Headsets,Retail Store,11,1687.989813253111,3513.77,0.15,527.07,2986.71,2421.25,565.46,18.93,False
+ORD-2026026,2025-03-31,Latin America,Technology,Smart Projectors,Direct Enterprise,5,1363.8829045646285,1290.5,0.1,129.05,1161.45,899.44,262.01,22.56,False
+ORD-2026027,2025-12-05,Europe,Furniture,Acoustic Panels,Partner Reseller,9,108.49643291313785,184.79,0.05,9.24,175.55,128.95,46.6,26.55,False
+ORD-2026028,2025-11-06,Europe,Technology,Wireless Headsets,Online Portal,10,298.74649379635605,565.34,0.1,56.54,508.81,373.78,135.03,26.54,False
+ORD-2026029,2025-05-04,Latin America,Technology,Smart Projectors,Online Portal,8,145.87733386621045,220.85,0.05,11.04,209.8,166.49,43.31,20.64,False
+ORD-2026030,2025-04-17,Asia Pacific,Technology,Wireless Headsets,Retail Store,9,1467.7451588045571,2499.8,0.0,0.0,2499.8,1900.01,599.79,23.99,False
+ORD-2026031,2025-03-31,North America,Office Supplies,Laser Printers,Direct Enterprise,8,1337.9187309015615,2025.49,0.05,101.28,1924.22,1468.08,456.14,23.71,False
+ORD-2026032,2025-10-08,North America,Technology,UltraHD Monitors,Direct Enterprise,4,326.9953387239039,247.52,0.15,37.13,210.39,162.11,48.28,22.95,False
+ORD-2026033,2025-10-21,North America,Furniture,Modern Conference Tables,Direct Enterprise,2,1610.6853699615724,609.61,0.0,0.0,609.61,461.89,147.72,24.23,False
+ORD-2026034,2025-09-26,North America,Furniture,Modern Conference Tables,Partner Reseller,1,973.7095657322295,184.26,0.15,27.64,156.62,136.32,20.3,12.96,False
+ORD-2026035,2025-09-26,Asia Pacific,Office Supplies,Paper Shredders,Online Portal,1,572.4588704687869,108.33,0.25,27.08,81.25,69.03,12.22,15.04,True
+ORD-2026036,2025-07-21,North America,Furniture,Acoustic Panels,Direct Enterprise,13,1682.121859469473,4138.2,0.1,413.82,3724.38,2851.17,873.21,23.45,False
+ORD-2026037,2025-06-21,North America,Software & Services,Data Analytics Suite,Partner Reseller,3,1541.7532307459583,875.28,0.1,87.53,787.75,643.8,143.95,18.27,False
+ORD-2026038,2025-02-02,Europe,Office Supplies,Laser Printers,Direct Enterprise,3,307.0647868476323,174.33,0.2,34.87,139.46,123.05,16.41,11.77,False
+ORD-2026039,2025-09-11,North America,Furniture,Storage Shelves,Direct Enterprise,10,601.6292904102506,1138.52,0.0,0.0,1138.52,793.86,344.66,30.27,False
+ORD-2026040,2025-12-14,North America,Office Supplies,Filing Cabinets,Partner Reseller,10,440.4075322793727,833.42,0.0,0.0,833.42,580.76,252.66,30.32,False
+ORD-2026041,2025-08-13,Europe,Technology,Wireless Headsets,Retail Store,2,1695.9402769301585,641.88,0.25,160.47,481.41,434.77,46.64,9.69,True
+ORD-2026042,2025-01-18,North America,Technology,UltraHD Monitors,Online Portal,5,1545.7960825359628,1462.63,0.25,365.66,1096.97,924.0,172.97,15.77,True
+ORD-2026043,2025-10-27,Europe,Technology,Cloud Servers,Online Portal,4,112.59092527613669,85.23,0.1,8.52,76.7,62.51,14.19,18.5,False
+ORD-2026044,2025-08-17,Latin America,Furniture,Modern Conference Tables,Online Portal,3,819.1386157832156,465.04,0.0,0.0,465.04,344.08,120.96,26.01,False
+ORD-2026045,2025-04-21,Asia Pacific,Technology,UltraHD Monitors,Partner Reseller,13,73.86973021279186,181.73,0.05,9.09,172.64,136.8,35.84,20.76,False
+ORD-2026046,2025-09-28,Asia Pacific,Office Supplies,Paper Shredders,Online Portal,10,768.4148726149988,1454.14,0.0,0.0,1454.14,1019.02,435.12,29.92,False
+ORD-2026047,2025-04-17,Europe,Technology,UltraHD Monitors,Direct Enterprise,8,1147.702201112962,1737.52,0.05,86.88,1650.65,1364.92,285.73,17.31,False
+ORD-2026048,2025-07-21,Europe,Software & Services,SaaS Enterprise Licenses,Partner Reseller,2,1518.613917819053,574.76,0.0,0.0,574.76,457.84,116.92,20.34,False
+ORD-2026049,2025-01-03,Europe,Furniture,Storage Shelves,Online Portal,4,442.47848192333424,334.94,0.05,16.75,318.19,240.87,77.32,24.3,False
+ORD-2026050,2025-01-26,Europe,Office Supplies,Laser Printers,Partner Reseller,13,1489.6338725893063,3664.66,0.0,0.0,3664.66,2680.66,984.0,26.85,False
+ORD-2026051,2025-04-11,Europe,Technology,Enterprise Laptops,Partner Reseller,7,181.6035503349043,240.56,0.15,36.08,204.48,167.73,36.75,17.97,False
+ORD-2026052,2025-12-25,Asia Pacific,Office Supplies,Paper Shredders,Retail Store,3,1059.785702958477,601.66,0.0,0.0,601.66,431.15,170.51,28.34,False
+ORD-2026053,2025-11-29,Europe,Technology,Smart Projectors,Retail Store,9,1469.4026808504523,2502.62,0.0,0.0,2502.62,1953.4,549.22,21.95,False
+ORD-2026054,2025-07-03,Europe,Office Supplies,Ergonomic Chairs,Partner Reseller,1,1115.8006532371028,211.15,0.15,31.67,179.48,146.31,33.17,18.48,False
+ORD-2026055,2025-08-23,Europe,Technology,Cloud Servers,Partner Reseller,6,189.2792579010743,214.92,0.3,64.47,150.44,134.52,15.92,10.58,True
+ORD-2026056,2025-05-09,North America,Office Supplies,Ergonomic Chairs,Retail Store,14,1324.320875079844,3508.59,0.05,175.43,3333.16,2757.98,575.18,17.26,False
+ORD-2026057,2025-03-20,North America,Technology,Smart Projectors,Direct Enterprise,13,678.8432334026277,1670.03,0.1,167.0,1503.02,1165.6,337.42,22.45,False
+ORD-2026058,2025-09-23,Europe,Technology,Enterprise Laptops,Direct Enterprise,8,296.52005691400734,448.91,0.1,44.89,404.01,332.86,71.15,17.61,False
+ORD-2026059,2025-11-07,Europe,Technology,Wireless Headsets,Partner Reseller,10,1105.2742608880294,2091.61,0.0,0.0,2091.61,1654.55,437.06,20.9,False
+ORD-2026060,2025-09-12,Latin America,Furniture,Acoustic Panels,Online Portal,14,1588.0420053474913,4207.28,0.05,210.36,3996.91,2881.76,1115.15,27.9,False
+ORD-2026061,2025-11-20,Latin America,Technology,Smart Projectors,Online Portal,14,1107.2286004989364,2933.44,0.3,880.03,2053.4,1826.73,226.67,11.04,True
+ORD-2026062,2025-08-10,Europe,Technology,Wireless Headsets,Online Portal,11,1651.0011603613293,3436.78,0.05,171.84,3264.94,2469.45,795.49,24.36,False
+ORD-2026063,2025-10-24,Asia Pacific,Furniture,Storage Shelves,Direct Enterprise,3,1254.5127472476963,712.21,0.0,0.0,712.21,524.76,187.45,26.32,False
+ORD-2026064,2025-09-26,Asia Pacific,Office Supplies,Paper Shredders,Partner Reseller,9,1252.0163640360925,2132.38,0.25,533.09,1599.28,1454.96,144.32,9.02,True
+ORD-2026065,2025-06-27,North America,Technology,Wireless Headsets,Retail Store,7,1639.7657087764637,2172.16,0.0,0.0,2172.16,1673.35,498.81,22.96,False
+ORD-2026066,2025-12-28,North America,Software & Services,Cloud Migration Services,Direct Enterprise,7,686.5196619874474,909.42,0.15,136.41,773.0,609.63,163.37,21.13,False
+ORD-2026067,2025-03-29,Europe,Technology,Cloud Servers,Direct Enterprise,13,747.9376721171004,1840.01,0.1,184.0,1656.01,1292.58,363.43,21.95,False
+ORD-2026068,2025-07-19,Europe,Office Supplies,Executive Desks,Retail Store,5,410.84488869660396,388.74,0.0,0.0,388.74,281.69,107.05,27.54,False
+ORD-2026069,2025-01-29,Europe,Furniture,Modular Workstations,Direct Enterprise,4,448.3569376839366,339.39,0.1,33.94,305.45,254.78,50.67,16.59,False
+ORD-2026070,2025-12-30,Europe,Technology,Smart Projectors,Direct Enterprise,5,223.19509096523694,211.19,0.05,10.56,200.63,162.93,37.7,18.79,False
+ORD-2026071,2025-01-10,Europe,Technology,Enterprise Laptops,Retail Store,10,121.71188893730829,230.33,0.15,34.55,195.78,159.72,36.06,18.42,False
+ORD-2026072,2025-03-03,Asia Pacific,Technology,Enterprise Laptops,Retail Store,12,292.6419259482815,664.55,0.0,0.0,664.55,468.81,195.74,29.45,False
+ORD-2026073,2025-02-01,Latin America,Office Supplies,Laser Printers,Direct Enterprise,3,638.5472731336722,362.51,0.0,0.0,362.51,268.91,93.6,25.82,False
+ORD-2026074,2025-10-22,Europe,Technology,Wireless Headsets,Direct Enterprise,5,317.98590105770677,300.88,0.0,0.0,300.88,214.5,86.38,28.71,False
+ORD-2026075,2025-01-16,Europe,Office Supplies,Executive Desks,Partner Reseller,2,1302.013355733946,492.78,0.0,0.0,492.78,356.77,136.01,27.6,False
+ORD-2026076,2025-02-10,North America,Office Supplies,Executive Desks,Partner Reseller,10,900.6006983296916,1704.29,0.05,85.21,1619.08,1169.97,449.11,27.74,False
+ORD-2026077,2025-09-22,Asia Pacific,Software & Services,Cloud Migration Services,Retail Store,3,1713.5611502647773,972.82,0.15,145.92,826.9,628.33,198.57,24.01,False
+ORD-2026078,2025-03-09,North America,Technology,Cloud Servers,Online Portal,13,1758.137081826908,4325.21,0.1,432.52,3892.69,3298.08,594.61,15.28,False
+ORD-2026079,2025-11-04,Europe,Furniture,Modern Conference Tables,Retail Store,11,1462.854837100645,3045.12,0.15,456.77,2588.36,2088.06,500.3,19.33,False
+ORD-2026080,2025-08-23,Asia Pacific,Office Supplies,Filing Cabinets,Direct Enterprise,10,395.5787714499453,748.59,0.1,74.86,673.73,551.14,122.59,18.2,False
+ORD-2026081,2025-01-16,Asia Pacific,Technology,Cloud Servers,Partner Reseller,2,1329.4302202562337,503.16,0.0,0.0,503.16,354.72,148.44,29.5,False
+ORD-2026082,2025-04-22,North America,Office Supplies,Filing Cabinets,Partner Reseller,9,100.46357211298437,171.1,0.05,8.56,162.55,116.77,45.78,28.16,False
+ORD-2026083,2025-05-03,Latin America,Furniture,Acoustic Panels,Online Portal,9,1042.4752381816527,1775.5,0.1,177.55,1597.95,1262.87,335.08,20.97,False
+ORD-2026084,2025-06-29,Asia Pacific,Technology,Cloud Servers,Direct Enterprise,9,1259.1648909689227,2144.55,0.05,107.23,2037.32,1659.67,377.65,18.54,False
+ORD-2026085,2025-05-05,Asia Pacific,Office Supplies,Ergonomic Chairs,Direct Enterprise,10,250.26678615448418,473.6,0.05,23.68,449.92,361.21,88.71,19.72,False
+ORD-2026086,2025-03-30,North America,Office Supplies,Laser Printers,Retail Store,11,1700.2862418800382,3539.37,0.15,530.9,3008.46,2340.52,667.94,22.2,False
+ORD-2026087,2025-11-26,Asia Pacific,Technology,Wireless Headsets,Direct Enterprise,3,271.6477774825894,154.22,0.05,7.71,146.51,112.1,34.41,23.49,False
+ORD-2026088,2025-06-24,North America,Technology,Wireless Headsets,Online Portal,3,1776.7193931407417,1008.68,0.1,100.87,907.81,738.55,169.26,18.64,False
+ORD-2026089,2025-10-09,Europe,Technology,Cloud Servers,Direct Enterprise,6,1769.1834704057417,2008.79,0.0,0.0,2008.79,1407.17,601.62,29.95,False
+ORD-2026090,2025-10-08,Asia Pacific,Technology,Wireless Headsets,Partner Reseller,13,1792.6541436148575,4410.13,0.05,220.51,4189.62,3031.37,1158.25,27.65,False
+ORD-2026091,2025-03-12,North America,Technology,Cloud Servers,Online Portal,12,286.5703448000026,650.76,0.15,97.62,553.15,425.61,127.54,23.06,False
+ORD-2026092,2025-08-06,North America,Technology,Smart Projectors,Direct Enterprise,8,1042.2715694853014,1577.91,0.15,236.69,1341.22,1009.89,331.33,24.7,False
+ORD-2026093,2025-10-16,Latin America,Technology,Smart Projectors,Online Portal,14,811.6537565164919,2150.35,0.3,645.11,1505.25,1398.95,106.3,7.06,True
+ORD-2026094,2025-12-25,North America,Technology,Smart Projectors,Direct Enterprise,12,1330.3075959090695,3020.96,0.05,151.05,2869.91,2060.97,808.94,28.19,False
+ORD-2026095,2025-07-30,North America,Technology,UltraHD Monitors,Direct Enterprise,10,1457.5332476721544,2758.22,0.0,0.0,2758.22,1969.98,788.24,28.58,False
+ORD-2026096,2025-09-28,North America,Office Supplies,Executive Desks,Partner Reseller,11,1382.5529585132776,2877.97,0.05,143.9,2734.07,1928.56,805.51,29.46,False
+ORD-2026097,2025-12-10,Europe,Furniture,Storage Shelves,Retail Store,14,824.8386745083154,2185.29,0.05,109.26,2076.02,1700.02,376.0,18.11,False
+ORD-2026098,2025-03-27,North America,Furniture,Modular Workstations,Retail Store,8,1328.2240675431372,2010.82,0.1,201.08,1809.73,1480.33,329.4,18.2,False
+ORD-2026099,2025-10-20,Europe,Technology,Wireless Headsets,Retail Store,7,1662.551038378928,2202.34,0.35,770.82,1431.52,1279.92,151.6,10.59,True
+ORD-2026100,2025-09-01,North America,Software & Services,Cloud Migration Services,Retail Store,1,1766.8016059513832,334.35,0.1,33.43,300.91,250.49,50.42,16.76,False
+ORD-2026101,2025-02-25,Europe,Office Supplies,Laser Printers,Retail Store,12,609.7892591685859,1384.75,0.1,138.48,1246.28,1006.31,239.97,19.25,False
+ORD-2026102,2025-12-23,Europe,Office Supplies,Executive Desks,Online Portal,11,171.88026855946487,357.79,0.1,35.78,322.01,256.42,65.59,20.37,False
+ORD-2026103,2025-06-25,North America,Technology,Enterprise Laptops,Direct Enterprise,13,96.28207954591807,236.87,0.05,11.84,225.02,186.15,38.87,17.27,False
+ORD-2026104,2025-05-24,Asia Pacific,Furniture,Acoustic Panels,Partner Reseller,13,822.2300893126202,2022.78,0.0,0.0,2022.78,1402.6,620.18,30.66,False
+ORD-2026105,2025-09-12,Europe,Technology,Cloud Servers,Retail Store,8,381.38153263575987,577.38,0.15,86.61,490.77,427.24,63.53,12.94,False
+ORD-2026106,2025-12-21,Latin America,Office Supplies,Executive Desks,Direct Enterprise,13,1429.4816142989519,3516.68,0.05,175.83,3340.85,2651.71,689.14,20.63,False
+ORD-2026107,2025-02-16,North America,Office Supplies,Filing Cabinets,Partner Reseller,3,939.9430601209889,533.62,0.1,53.36,480.26,366.54,113.72,23.68,False
+ORD-2026108,2025-05-21,Asia Pacific,Software & Services,Cloud Migration Services,Partner Reseller,3,1567.1468249533966,889.7,0.15,133.46,756.24,660.07,96.17,12.72,False
+ORD-2026109,2025-12-13,North America,Technology,Enterprise Laptops,Online Portal,5,163.75138066055487,154.94,0.2,30.99,123.95,99.12,24.83,20.03,False
+ORD-2026110,2025-12-22,Latin America,Technology,Smart Projectors,Online Portal,5,805.6589263753461,762.31,0.15,114.35,647.96,529.65,118.31,18.26,False
+ORD-2026111,2025-03-13,North America,Technology,Smart Projectors,Direct Enterprise,10,1487.7609605814664,2815.43,0.1,281.54,2533.88,1903.38,630.5,24.88,False
+ORD-2026112,2025-09-04,North America,Furniture,Task Lighting,Retail Store,7,221.60123498430076,293.55,0.05,14.68,278.87,230.22,48.65,17.45,False
+ORD-2026113,2025-04-26,Asia Pacific,Office Supplies,Laser Printers,Retail Store,6,659.0471855802588,748.3,0.25,187.08,561.23,498.27,62.96,11.22,True
+ORD-2026114,2025-02-28,North America,Furniture,Modern Conference Tables,Retail Store,4,68.10479382722491,51.55,0.1,5.15,46.4,38.08,8.32,17.93,False
+ORD-2026115,2025-12-14,Europe,Furniture,Acoustic Panels,Direct Enterprise,13,814.809019537099,2004.52,0.05,100.23,1904.29,1519.81,384.48,20.19,False
+ORD-2026116,2025-04-09,Europe,Technology,Wireless Headsets,Partner Reseller,8,1057.1267823208532,1600.4,0.05,80.02,1520.38,1169.81,350.57,23.06,False
+ORD-2026117,2025-02-14,Europe,Technology,Enterprise Laptops,Online Portal,12,1223.9466913578867,2779.42,0.15,416.91,2362.51,1874.5,488.01,20.66,False
+ORD-2026118,2025-12-30,North America,Office Supplies,Filing Cabinets,Partner Reseller,4,357.3002444899054,270.46,0.0,0.0,270.46,203.76,66.7,24.66,False
+ORD-2026119,2025-06-17,Europe,Furniture,Storage Shelves,Direct Enterprise,6,1680.1863360217085,1907.74,0.1,190.77,1716.97,1371.27,345.7,20.13,False
+ORD-2026120,2025-08-19,Asia Pacific,Furniture,Storage Shelves,Direct Enterprise,2,942.0155503062391,356.53,0.05,17.83,338.71,257.79,80.92,23.89,False
+ORD-2026121,2025-08-31,Latin America,Furniture,Acoustic Panels,Retail Store,10,133.92603176472838,253.44,0.15,38.02,215.42,179.35,36.07,16.74,False
+ORD-2026122,2025-07-27,Asia Pacific,Technology,Cloud Servers,Online Portal,12,449.10817957503485,1019.87,0.0,0.0,1019.87,713.97,305.9,29.99,False
+ORD-2026123,2025-06-17,North America,Software & Services,Cloud Migration Services,Retail Store,1,103.16426492030936,19.52,0.15,2.93,16.59,12.59,4.0,24.11,False
+ORD-2026124,2025-02-01,Latin America,Technology,Wireless Headsets,Retail Store,11,1221.1999120143844,2542.09,0.0,0.0,2542.09,1966.53,575.56,22.64,False
+ORD-2026125,2025-02-14,Europe,Technology,Smart Projectors,Retail Store,14,507.32469289657826,1344.08,0.35,470.43,873.65,829.04,44.61,5.11,True
+ORD-2026126,2025-03-21,North America,Software & Services,SaaS Enterprise Licenses,Partner Reseller,3,822.7077555397033,467.07,0.3,140.12,326.94,285.71,41.23,12.61,True
+ORD-2026127,2025-07-04,North America,Furniture,Storage Shelves,Partner Reseller,13,1627.600239426311,4004.07,0.05,200.2,3803.87,3064.49,739.38,19.44,False
+ORD-2026128,2025-07-06,Latin America,Technology,Wireless Headsets,Partner Reseller,3,76.71346938055208,43.55,0.0,0.0,43.55,31.27,12.28,28.2,False
+ORD-2026129,2025-01-12,North America,Software & Services,Cybersecurity Audits,Direct Enterprise,14,199.10083572940846,527.49,0.15,79.12,448.36,378.51,69.85,15.58,False
+ORD-2026130,2025-10-30,North America,Office Supplies,Laser Printers,Direct Enterprise,8,1681.2343519469953,2545.24,0.15,381.79,2163.46,1860.44,303.02,14.01,False
+ORD-2026131,2025-11-23,Asia Pacific,Technology,UltraHD Monitors,Retail Store,4,1468.030773465832,1111.24,0.0,0.0,1111.24,822.74,288.5,25.96,False
+ORD-2026132,2025-06-04,North America,Technology,Smart Projectors,Direct Enterprise,7,88.97679636764175,117.87,0.2,23.57,94.29,81.42,12.87,13.65,False
+ORD-2026133,2025-04-05,North America,Software & Services,SaaS Enterprise Licenses,Partner Reseller,11,1427.195134764299,2970.89,0.0,0.0,2970.89,2161.16,809.73,27.26,False
+ORD-2026134,2025-05-05,Latin America,Software & Services,Cybersecurity Audits,Retail Store,7,1254.0534081659673,1661.21,0.05,83.06,1578.15,1162.24,415.91,26.35,False
+ORD-2026135,2025-02-26,Europe,Technology,Smart Projectors,Direct Enterprise,3,905.9845555028376,514.34,0.15,77.15,437.19,369.56,67.63,15.47,False
+ORD-2026136,2025-01-26,Europe,Office Supplies,Filing Cabinets,Retail Store,5,1240.0805986549722,1173.36,0.1,117.34,1056.02,895.31,160.71,15.22,False
+ORD-2026137,2025-09-02,North America,Technology,Smart Projectors,Direct Enterprise,10,616.8172170156636,1167.26,0.0,0.0,1167.26,922.49,244.77,20.97,False
+ORD-2026138,2025-03-25,Asia Pacific,Office Supplies,Laser Printers,Direct Enterprise,6,1457.4570201622876,1654.85,0.15,248.23,1406.62,1137.08,269.54,19.16,False
+ORD-2026139,2025-02-07,Asia Pacific,Furniture,Task Lighting,Direct Enterprise,12,1746.382178742608,3965.81,0.3,1189.74,2776.07,2527.99,248.08,8.94,True
+ORD-2026140,2025-02-18,Europe,Technology,Cloud Servers,Retail Store,10,1088.9851201650106,2060.79,0.15,309.12,1751.67,1521.66,230.01,13.13,False
+ORD-2026141,2025-11-05,Europe,Software & Services,SaaS Enterprise Licenses,Retail Store,4,899.2412549428469,680.69,0.1,68.07,612.62,520.16,92.46,15.09,False
+ORD-2026142,2025-07-16,North America,Technology,Cloud Servers,Retail Store,9,728.5875749270621,1240.9,0.05,62.04,1178.85,870.59,308.26,26.15,False
+ORD-2026143,2025-07-14,Latin America,Technology,Smart Projectors,Online Portal,12,652.8853134396106,1482.62,0.0,0.0,1482.62,1062.59,420.03,28.33,False
+ORD-2026144,2025-03-24,North America,Technology,Enterprise Laptops,Direct Enterprise,7,1578.756785079535,2091.34,0.15,313.7,1777.64,1465.67,311.97,17.55,False
+ORD-2026145,2025-06-24,North America,Technology,Cloud Servers,Retail Store,13,1345.547803976915,3310.2,0.1,331.02,2979.18,2375.9,603.28,20.25,False
+ORD-2026146,2025-01-09,North America,Technology,UltraHD Monitors,Direct Enterprise,10,1557.1563977056753,2946.75,0.0,0.0,2946.75,2175.7,771.05,26.17,False
+ORD-2026147,2025-11-16,Europe,Technology,Enterprise Laptops,Online Portal,4,696.8754558394126,527.5,0.05,26.38,501.13,379.83,121.3,24.21,False
+ORD-2026148,2025-09-15,North America,Technology,Cloud Servers,Online Portal,11,945.0918318796706,1967.33,0.1,196.73,1770.6,1311.84,458.76,25.91,False
+ORD-2026149,2025-03-01,North America,Office Supplies,Filing Cabinets,Online Portal,4,1509.6952707160688,1142.77,0.15,171.42,971.36,778.06,193.3,19.9,False
+ORD-2026150,2025-08-19,Europe,Office Supplies,Executive Desks,Online Portal,13,110.8985997696127,272.82,0.05,13.64,259.18,192.08,67.1,25.89,False
+ORD-2026151,2025-04-17,Europe,Software & Services,Cybersecurity Audits,Partner Reseller,11,1107.454152977119,2305.31,0.2,461.06,1844.25,1556.98,287.27,15.58,False
+ORD-2026152,2025-04-11,Europe,Office Supplies,Ergonomic Chairs,Online Portal,8,820.2113492236383,1241.73,0.0,0.0,1241.73,956.34,285.39,22.98,False
+ORD-2026153,2025-05-20,Europe,Furniture,Modular Workstations,Retail Store,12,1071.7519677890268,2433.81,0.05,121.69,2312.12,1759.83,552.29,23.89,False
+ORD-2026154,2025-05-24,Latin America,Office Supplies,Filing Cabinets,Online Portal,3,112.3212629774726,63.77,0.1,6.38,57.39,45.96,11.43,19.92,False
+ORD-2026155,2025-01-10,North America,Technology,UltraHD Monitors,Online Portal,3,1707.5485794759395,969.41,0.0,0.0,969.41,721.08,248.33,25.62,False
+ORD-2026156,2025-11-18,North America,Technology,UltraHD Monitors,Partner Reseller,12,309.7029688508769,703.3,0.05,35.16,668.13,546.71,121.42,18.17,False
+ORD-2026157,2025-09-26,Asia Pacific,Technology,Enterprise Laptops,Online Portal,2,1074.6003920513124,406.71,0.05,20.34,386.38,276.54,109.84,28.43,False
+ORD-2026158,2025-04-11,Europe,Office Supplies,Executive Desks,Retail Store,1,511.6606311561257,96.83,0.0,0.0,96.83,72.27,24.56,25.36,False
+ORD-2026159,2025-03-31,Latin America,Office Supplies,Laser Printers,Retail Store,3,854.1176060127176,484.9,0.05,24.25,460.65,360.94,99.71,21.65,False
+ORD-2026160,2025-04-12,North America,Technology,Smart Projectors,Direct Enterprise,11,1561.2064304250002,3249.86,0.15,487.48,2762.38,2162.01,600.37,21.73,False
+ORD-2026161,2025-04-11,Asia Pacific,Technology,UltraHD Monitors,Retail Store,5,1349.7626200762306,1277.14,0.2,255.43,1021.71,807.59,214.12,20.96,False
+ORD-2026162,2025-02-13,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Retail Store,1,1244.7727711417954,235.56,0.15,35.33,200.22,171.08,29.14,14.55,False
+ORD-2026163,2025-10-13,Asia Pacific,Furniture,Modern Conference Tables,Direct Enterprise,4,424.0454586069634,320.98,0.15,48.15,272.84,221.58,51.26,18.79,False
+ORD-2026164,2025-04-01,Asia Pacific,Technology,Cloud Servers,Retail Store,9,1768.635412612354,3012.26,0.05,150.61,2861.64,2045.64,816.0,28.52,False
+ORD-2026165,2025-01-08,Europe,Technology,Wireless Headsets,Partner Reseller,14,805.726461546052,2134.65,0.0,0.0,2134.65,1592.63,542.02,25.39,False
+ORD-2026166,2025-11-16,Europe,Furniture,Storage Shelves,Partner Reseller,9,226.79943135970242,386.27,0.1,38.63,347.65,261.92,85.73,24.66,False
+ORD-2026167,2025-11-30,Asia Pacific,Technology,Wireless Headsets,Retail Store,6,623.2410143637205,707.65,0.0,0.0,707.65,525.88,181.77,25.69,False
+ORD-2026168,2025-02-16,North America,Furniture,Modern Conference Tables,Retail Store,10,1083.1666891067564,2049.78,0.0,0.0,2049.78,1409.54,640.24,31.23,False
+ORD-2026169,2025-03-26,North America,Technology,Smart Projectors,Partner Reseller,7,908.2813048617071,1203.18,0.0,0.0,1203.18,900.36,302.82,25.17,False
+ORD-2026170,2025-01-06,North America,Software & Services,SaaS Enterprise Licenses,Online Portal,8,1400.2805128186744,2119.9,0.05,105.99,2013.91,1624.59,389.32,19.33,False
+ORD-2026171,2025-04-26,North America,Office Supplies,Filing Cabinets,Partner Reseller,8,78.1893824613397,118.37,0.0,0.0,118.37,83.63,34.74,29.35,False
+ORD-2026172,2025-08-15,Europe,Software & Services,SaaS Enterprise Licenses,Retail Store,6,1148.2230417736314,1303.73,0.05,65.19,1238.55,923.21,315.34,25.46,False
+ORD-2026173,2025-04-30,North America,Office Supplies,Ergonomic Chairs,Online Portal,13,1387.5670003617313,3413.57,0.1,341.36,3072.21,2372.53,699.68,22.77,False
+ORD-2026174,2025-04-13,Latin America,Office Supplies,Laser Printers,Online Portal,14,1393.7566154702467,3692.55,0.0,0.0,3692.55,2581.72,1110.83,30.08,False
+ORD-2026175,2025-10-28,Europe,Technology,Cloud Servers,Direct Enterprise,1,1291.300015906096,244.36,0.1,24.44,219.93,170.37,49.56,22.53,False
+ORD-2026176,2025-06-09,Europe,Technology,UltraHD Monitors,Retail Store,11,724.4869245272876,1508.12,0.1,150.81,1357.3,1138.58,218.72,16.11,False
+ORD-2026177,2025-11-05,North America,Technology,Wireless Headsets,Online Portal,14,1414.9308059456878,3748.65,0.15,562.3,3186.35,2535.89,650.46,20.41,False
+ORD-2026178,2025-11-29,Europe,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,4,573.1585241396156,433.86,0.1,43.38,390.47,284.45,106.02,27.15,False
+ORD-2026179,2025-07-13,North America,Furniture,Acoustic Panels,Online Portal,2,1786.4233510069635,676.12,0.15,101.42,574.7,437.44,137.26,23.88,False
+ORD-2026180,2025-06-26,Europe,Technology,Enterprise Laptops,Retail Store,12,821.3391834318957,1865.16,0.4,746.06,1119.09,1147.09,-28.0,-2.5,True
+ORD-2026181,2025-08-08,North America,Office Supplies,Filing Cabinets,Online Portal,10,1556.7654372890238,2946.01,0.1,294.6,2651.41,1933.02,718.39,27.09,False
+ORD-2026182,2025-01-14,Asia Pacific,Technology,Cloud Servers,Direct Enterprise,13,662.9140750723843,1630.84,0.25,407.71,1223.13,1020.51,202.62,16.57,True
+ORD-2026183,2025-06-24,North America,Software & Services,Data Analytics Suite,Partner Reseller,11,216.0474027582556,449.73,0.05,22.49,427.24,321.15,106.09,24.83,False
+ORD-2026184,2025-05-21,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,1,609.3911089467761,115.32,0.2,23.06,92.26,81.53,10.73,11.63,False
+ORD-2026185,2025-08-18,North America,Technology,Cloud Servers,Retail Store,4,742.0900490553995,561.73,0.0,0.0,561.73,441.34,120.39,21.43,False
+ORD-2026186,2025-08-19,Europe,Office Supplies,Ergonomic Chairs,Partner Reseller,5,1700.8752727422927,1609.36,0.05,80.47,1528.89,1252.62,276.27,18.07,False
+ORD-2026187,2025-09-08,North America,Technology,Wireless Headsets,Online Portal,14,1252.9052309711458,3319.38,0.0,0.0,3319.38,2330.64,988.74,29.79,False
+ORD-2026188,2025-02-19,Asia Pacific,Furniture,Modular Workstations,Retail Store,8,1503.7068090965247,2276.48,0.0,0.0,2276.48,1822.74,453.74,19.93,False
+ORD-2026189,2025-09-25,Europe,Office Supplies,Ergonomic Chairs,Partner Reseller,11,1126.6260690445995,2345.22,0.2,469.04,1876.18,1509.17,367.01,19.56,False
+ORD-2026190,2025-09-07,Europe,Technology,Cloud Servers,Partner Reseller,12,786.5351870506108,1786.12,0.15,267.92,1518.2,1165.39,352.81,23.24,False
+ORD-2026191,2025-10-21,Europe,Office Supplies,Paper Shredders,Retail Store,8,691.2996113180849,1046.57,0.15,156.99,889.58,789.75,99.83,11.22,False
+ORD-2026192,2025-11-09,Asia Pacific,Software & Services,Cloud Migration Services,Direct Enterprise,7,426.4610448305716,564.92,0.2,112.99,451.94,419.39,32.55,7.2,False
+ORD-2026193,2025-03-25,North America,Technology,UltraHD Monitors,Partner Reseller,6,643.6060047258565,730.77,0.05,36.54,694.24,545.48,148.76,21.43,False
+ORD-2026194,2025-05-13,North America,Technology,Cloud Servers,Partner Reseller,11,838.438943367383,1745.32,0.0,0.0,1745.32,1310.53,434.79,24.91,False
+ORD-2026195,2025-05-05,Asia Pacific,Office Supplies,Filing Cabinets,Partner Reseller,1,1237.2336904989966,234.13,0.1,23.41,210.72,164.26,46.46,22.05,False
+ORD-2026196,2025-12-15,Europe,Office Supplies,Laser Printers,Retail Store,6,1252.9018150761617,1422.59,0.05,71.13,1351.46,997.02,354.44,26.23,False
+ORD-2026197,2025-07-20,Europe,Office Supplies,Filing Cabinets,Partner Reseller,12,1268.887571084556,2881.48,0.05,144.07,2737.41,2253.08,484.33,17.69,False
+ORD-2026198,2025-11-02,Europe,Office Supplies,Paper Shredders,Partner Reseller,13,1027.7765261679433,2528.44,0.1,252.84,2275.6,1684.3,591.3,25.98,False
+ORD-2026199,2025-12-07,Asia Pacific,Technology,Cloud Servers,Online Portal,5,122.14867449835569,115.58,0.05,5.78,109.8,86.89,22.91,20.87,False
+ORD-2026200,2025-07-26,Europe,Technology,Enterprise Laptops,Direct Enterprise,4,332.79642292653705,251.91,0.0,0.0,251.91,195.28,56.63,22.48,False
+ORD-2026201,2025-07-25,Europe,Office Supplies,Ergonomic Chairs,Direct Enterprise,14,179.93200382845507,476.7,0.0,0.0,476.7,372.5,104.2,21.86,False
+ORD-2026202,2025-04-20,North America,Office Supplies,Filing Cabinets,Partner Reseller,12,898.7364980106242,2040.91,0.05,102.05,1938.87,1492.46,446.41,23.02,False
+ORD-2026203,2025-02-26,Europe,Furniture,Storage Shelves,Partner Reseller,2,542.6418363516572,205.38,0.0,0.0,205.38,154.3,51.08,24.87,False
+ORD-2026204,2025-11-13,Europe,Furniture,Modern Conference Tables,Online Portal,13,1159.6609038897184,2852.89,0.35,998.51,1854.38,1701.39,152.99,8.25,True
+ORD-2026205,2025-05-29,Latin America,Technology,Cloud Servers,Direct Enterprise,3,907.1991059567642,515.03,0.1,51.5,463.53,363.69,99.84,21.54,False
+ORD-2026206,2025-01-26,Europe,Furniture,Acoustic Panels,Online Portal,6,601.2644815821045,682.7,0.1,68.27,614.43,524.26,90.17,14.68,False
+ORD-2026207,2025-12-18,North America,Technology,Wireless Headsets,Partner Reseller,5,1470.6729371551125,1391.54,0.15,208.73,1182.81,1012.37,170.44,14.41,False
+ORD-2026208,2025-12-26,Europe,Technology,Smart Projectors,Retail Store,11,280.66815362055354,584.25,0.25,146.06,438.19,408.61,29.58,6.75,True
+ORD-2026209,2025-06-14,North America,Office Supplies,Executive Desks,Retail Store,12,1385.7490828555285,3146.86,0.15,472.03,2674.83,2089.69,585.14,21.88,False
+ORD-2026210,2025-12-09,Asia Pacific,Furniture,Acoustic Panels,Direct Enterprise,10,1333.838201253907,2524.14,0.1,252.41,2271.73,1909.29,362.44,15.95,False
+ORD-2026211,2025-12-18,North America,Technology,Cloud Servers,Online Portal,5,903.7840604966041,855.16,0.15,128.27,726.88,599.33,127.55,17.55,False
+ORD-2026212,2025-04-26,North America,Technology,Cloud Servers,Online Portal,8,964.7141045779397,1460.49,0.0,0.0,1460.49,1021.45,439.04,30.06,False
+ORD-2026213,2025-05-31,North America,Technology,Enterprise Laptops,Direct Enterprise,1,807.4027321460557,152.79,0.1,15.28,137.51,104.86,32.65,23.74,False
+ORD-2026214,2025-04-03,Asia Pacific,Technology,Enterprise Laptops,Partner Reseller,8,1104.913181466829,1672.74,0.35,585.46,1087.28,1156.96,-69.68,-6.41,True
+ORD-2026215,2025-04-18,North America,Technology,Enterprise Laptops,Partner Reseller,13,1731.582269725679,4259.88,0.25,1064.97,3194.91,2962.74,232.17,7.27,True
+ORD-2026216,2025-12-12,Asia Pacific,Software & Services,SaaS Enterprise Licenses,Retail Store,5,1256.814033250714,1189.19,0.15,178.38,1010.81,796.46,214.35,21.21,False
+ORD-2026217,2025-04-07,Asia Pacific,Office Supplies,Paper Shredders,Partner Reseller,2,1692.830222536578,640.7,0.1,64.07,576.63,464.93,111.7,19.37,False
+ORD-2026218,2025-01-21,Asia Pacific,Technology,Enterprise Laptops,Direct Enterprise,13,1509.7366672181724,3714.12,0.15,557.12,3157.0,2457.9,699.1,22.14,False
+ORD-2026219,2025-06-11,North America,Office Supplies,Paper Shredders,Retail Store,11,1198.1945133367924,2494.2,0.0,0.0,2494.2,1801.94,692.26,27.75,False
+ORD-2026220,2025-05-04,Europe,Software & Services,Data Analytics Suite,Online Portal,3,633.6466189100169,359.73,0.0,0.0,359.73,267.53,92.2,25.63,False
+ORD-2026221,2025-02-11,Asia Pacific,Technology,Enterprise Laptops,Direct Enterprise,5,515.3166735477084,487.59,0.05,24.38,463.21,328.24,134.97,29.14,False
+ORD-2026222,2025-03-03,North America,Technology,Wireless Headsets,Direct Enterprise,10,1083.0480515688698,2049.55,0.3,614.86,1434.69,1221.25,213.44,14.88,True
+ORD-2026223,2025-01-03,Europe,Technology,UltraHD Monitors,Direct Enterprise,8,1278.6700796641094,1935.8,0.15,290.37,1645.43,1406.36,239.07,14.53,False
+ORD-2026224,2025-03-10,North America,Software & Services,Cloud Migration Services,Partner Reseller,4,77.37576678800974,58.57,0.3,17.57,41.0,40.49,0.51,1.24,True
+ORD-2026225,2025-05-06,North America,Furniture,Task Lighting,Retail Store,3,934.7752045726958,530.69,0.05,26.54,504.15,410.79,93.36,18.52,False
+ORD-2026226,2025-10-19,Europe,Office Supplies,Filing Cabinets,Direct Enterprise,5,333.4425727051456,315.5,0.15,47.32,268.18,236.67,31.51,11.75,False
+ORD-2026227,2025-08-15,Europe,Software & Services,SaaS Enterprise Licenses,Direct Enterprise,13,56.59346546343284,139.23,0.1,13.92,125.3,101.03,24.27,19.37,False
+ORD-2026228,2025-01-24,Europe,Technology,Smart Projectors,Retail Store,14,982.2453385682242,2602.31,0.05,130.12,2472.19,1832.81,639.38,25.86,False
+ORD-2026229,2025-07-01,Europe,Office Supplies,Filing Cabinets,Online Portal,12,498.1547459172416,1131.25,0.0,0.0,1131.25,787.65,343.6,30.37,False
+ORD-2026230,2025-03-25,Latin America,Office Supplies,Executive Desks,Retail Store,11,319.60789250613396,665.31,0.1,66.53,598.78,462.38,136.4,22.78,False
+ORD-2026231,2025-06-04,Asia Pacific,Technology,Smart Projectors,Online Portal,3,948.6214323482501,538.55,0.0,0.0,538.55,383.86,154.69,28.72,False
+ORD-2026232,2025-06-08,Europe,Office Supplies,Paper Shredders,Online Portal,9,1507.0657728171748,2566.76,0.05,128.34,2438.43,1937.97,500.46,20.52,False
+ORD-2026233,2025-04-21,North America,Furniture,Acoustic Panels,Online Portal,4,674.6402714092362,510.67,0.35,178.74,331.94,312.12,19.82,5.97,True
+ORD-2026234,2025-08-03,Asia Pacific,Technology,UltraHD Monitors,Partner Reseller,8,1468.761177654056,2223.58,0.0,0.0,2223.58,1600.65,622.93,28.01,False
+ORD-2026235,2025-05-13,Latin America,Technology,UltraHD Monitors,Online Portal,8,963.297808373087,1458.35,0.15,218.75,1239.6,999.12,240.48,19.4,False
+ORD-2026236,2025-12-23,Asia Pacific,Software & Services,Cloud Migration Services,Retail Store,1,91.50363053513357,17.32,0.0,0.0,17.32,12.72,4.6,26.56,False
+ORD-2026237,2025-02-07,Asia Pacific,Furniture,Modular Workstations,Direct Enterprise,4,1176.4386629250378,890.51,0.1,89.05,801.46,632.56,168.9,21.07,False
+ORD-2026238,2025-09-12,North America,Office Supplies,Executive Desks,Direct Enterprise,5,828.409616352868,783.84,0.15,117.58,666.26,560.25,106.01,15.91,False
+ORD-2026239,2025-11-22,Asia Pacific,Software & Services,Cloud Migration Services,Direct Enterprise,4,1434.595033648222,1085.93,0.05,54.3,1031.63,771.2,260.43,25.24,False
+ORD-2026240,2025-09-05,Asia Pacific,Technology,UltraHD Monitors,Online Portal,12,1591.1698094627598,3613.34,0.05,180.67,3432.67,2535.11,897.56,26.15,False
+ORD-2026241,2025-10-20,North America,Furniture,Modern Conference Tables,Online Portal,4,1103.7953464305458,835.53,0.1,83.55,751.97,625.2,126.77,16.86,False
+ORD-2026242,2025-01-08,Europe,Furniture,Modular Workstations,Partner Reseller,6,923.0274370192917,1048.04,0.35,366.81,681.22,665.5,15.72,2.31,True
+ORD-2026243,2025-04-28,Latin America,Furniture,Modular Workstations,Online Portal,6,1466.9299516541282,1665.6,0.15,249.84,1415.76,1217.47,198.29,14.01,False
+ORD-2026244,2025-02-12,Europe,Technology,Smart Projectors,Direct Enterprise,13,1157.1848109723799,2846.8,0.35,996.38,1850.42,1756.22,94.2,5.09,True
+ORD-2026245,2025-04-20,North America,Office Supplies,Filing Cabinets,Direct Enterprise,9,1383.0497363216527,2355.55,0.0,0.0,2355.55,1892.72,462.83,19.65,False
+ORD-2026246,2025-04-10,Asia Pacific,Technology,Wireless Headsets,Retail Store,11,658.5412122288022,1370.84,0.2,274.17,1096.67,889.36,207.31,18.9,False
+ORD-2026247,2025-06-05,Asia Pacific,Office Supplies,Filing Cabinets,Retail Store,6,1545.1054698697521,1754.37,0.15,263.15,1491.21,1230.98,260.23,17.45,False
+ORD-2026248,2025-07-30,Europe,Furniture,Task Lighting,Retail Store,3,1454.6885347353582,825.85,0.2,165.17,660.68,540.08,120.6,18.25,False
+ORD-2026249,2025-04-16,Europe,Furniture,Modular Workstations,Partner Reseller,8,1578.8591896107253,2390.26,0.0,0.0,2390.26,1706.46,683.8,28.61,False
+ORD-2026250,2025-02-12,Europe,Software & Services,SaaS Enterprise Licenses,Retail Store,1,361.9581176053536,68.5,0.35,23.97,44.52,45.56,-1.04,-2.34,True
