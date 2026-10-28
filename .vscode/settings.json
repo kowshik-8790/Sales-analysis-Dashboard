@@ -1,0 +1,21 @@
+{
+  "python.defaultInterpreterPath": "python",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "files.associations": {
+    "*.dax": "dax",
+    "*.sql": "sql"
+  },
+  "editor.formatOnSave": true,
+  "editor.rulers": [88, 100],
+  "sqltools.connections": [
+    {
+      "name": "MySQL Sales Analytics",
+      "dialect": "MySQL",
+      "server": "localhost",
+      "port": 3306,
+      "database": "sales_analytics",
+      "username": "root"
+    }
+  ]
+}

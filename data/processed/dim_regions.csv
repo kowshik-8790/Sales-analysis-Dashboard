@@ -1,0 +1,26 @@
+Region_ID,Region,State,City
+REG-101,West,California,San Diego
+REG-102,South,Virginia,Richmond
+REG-103,Central,Michigan,Detroit
+REG-104,Central,Indiana,Indianapolis
+REG-105,Central,Texas,Houston
+REG-106,South,Florida,Tampa
+REG-107,Central,Texas,Austin
+REG-108,East,Ohio,Columbus
+REG-109,East,Massachusetts,Boston
+REG-110,West,Washington,Seattle
+REG-111,West,Oregon,Portland
+REG-112,South,Florida,Miami
+REG-113,West,California,San Francisco
+REG-114,West,California,San Jose
+REG-115,East,New York,New York City
+REG-116,West,Arizona,Phoenix
+REG-117,West,Colorado,Denver
+REG-118,South,North Carolina,Charlotte
+REG-119,East,Pennsylvania,Philadelphia
+REG-120,Central,Texas,Dallas
+REG-121,South,Georgia,Atlanta
+REG-122,Central,Minnesota,Minneapolis
+REG-123,Central,Illinois,Chicago
+REG-124,South,Tennessee,Nashville
+REG-125,West,California,Los Angeles

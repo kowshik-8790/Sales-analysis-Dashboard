@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sales Performance Executive Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+  <!-- Google Fonts & Chart.js -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="dashboard-container">
+    <!-- Top Header -->
+    <header class="dashboard-header">
+      <div class="header-branding">
+        <div class="brand-badge">POWER BI EMBEDDED DEMO</div>
+        <h1>Sales Data Analysis Dashboard</h1>
+        <p class="subtitle">Multi-Year Enterprise Performance • Python, Pandas, MySQL & Power BI Pipeline</p>
+      </div>
+
+      <!-- Global Filter Bar -->
+      <div class="filter-controls">
+        <div class="filter-item">
+          <label for="regionFilter">Region:</label>
+          <select id="regionFilter">
+            <option value="All">All Regions</option>
+            <option value="West">West</option>
+            <option value="Central">Central</option>
+            <option value="South">South</option>
+            <option value="East">East</option>
+          </select>
+        </div>
+
+        <div class="filter-item">
+          <label for="categoryFilter">Category:</label>
+          <select id="categoryFilter">
+            <option value="All">All Categories</option>
+            <option value="Technology">Technology</option>
+            <option value="Furniture">Furniture</option>
+            <option value="Office Supplies">Office Supplies</option>
+          </select>
+        </div>
+
+        <div class="filter-item">
+          <label for="yearFilter">Year:</label>
+          <select id="yearFilter">
+            <option value="All">All Years (2023 - 2025)</option>
+            <option value="2023">2023</option>
+            <option value="2024">2024</option>
+            <option value="2025">2025</option>
+          </select>
+        </div>
+
+        <button id="resetBtn" class="reset-btn">Reset Filters</button>
+      </div>
+    </header>
+
+    <!-- KPI Summary Cards Row -->
+    <section class="kpi-grid">
+      <div class="kpi-card">
+        <div class="kpi-header">
+          <span class="kpi-title">TOTAL REVENUE</span>
+          <span class="kpi-badge positive">+14.2% YoY</span>
+        </div>
+        <div class="kpi-value" id="kpiRevenue">$28.80M</div>
+        <div class="kpi-subtext">Gross sales after discounts</div>
+      </div>
+
+      <div class="kpi-card">
+        <div class="kpi-header">
+          <span class="kpi-title">TOTAL PROFIT</span>
+          <span class="kpi-badge positive">+11.8%</span>
+        </div>
+        <div class="kpi-value profit-color" id="kpiProfit">$5.16M</div>
+        <div class="kpi-subtext">Net operating profit</div>
+      </div>
+
+      <div class="kpi-card">
+        <div class="kpi-header">
+          <span class="kpi-title">PROFIT MARGIN</span>
+          <span class="kpi-badge neutral">Target: 20%</span>
+        </div>
+        <div class="kpi-value" id="kpiMargin">17.92%</div>
+        <div class="kpi-subtext">Margin compression in South/Central</div>
+      </div>
+
+      <div class="kpi-card">
+        <div class="kpi-header">
+          <span class="kpi-title">TOTAL ORDERS</span>
+          <span class="kpi-badge blue">AOV: $3,602</span>
+        </div>
+        <div class="kpi-value" id="kpiOrders">7,994</div>
+        <div class="kpi-subtext">Unique completed transactions</div>
+      </div>
+
+      <div class="kpi-card">
+        <div class="kpi-header">
+          <span class="kpi-title">UNITS SOLD</span>
+          <span class="kpi-badge neutral">Avg 8.3/order</span>
+        </div>
+        <div class="kpi-value" id="kpiUnits">66,278</div>
+        <div class="kpi-subtext">Avg delivery: 7.3 days</div>
+      </div>
+    </section>
+
+    <!-- Main Analytics Charts Grid -->
+    <section class="charts-grid">
+      <!-- Monthly Revenue & Margin Trend -->
+      <div class="chart-card span-2">
+        <div class="chart-header">
+          <h3>Monthly Sales Revenue & Profit Trend</h3>
+          <span class="chart-desc">Historical monthly performance with seasonal peaks</span>
+        </div>
+        <div class="canvas-container">
+          <canvas id="monthlyTrendChart"></canvas>
+        </div>
+      </div>
+
+      <!-- Category Revenue Share -->
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3>Revenue by Category</h3>
+          <span class="chart-desc">Share of total portfolio sales</span>
+        </div>
+        <div class="canvas-container">
+          <canvas id="categoryDonutChart"></canvas>
+        </div>
+      </div>
+
+      <!-- Regional Profitability Comparison -->
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3>Regional Revenue vs Profit</h3>
+          <span class="chart-desc">West leads profitability; Central & South margin risk</span>
+        </div>
+        <div class="canvas-container">
+          <canvas id="regionalBarChart"></canvas>
+        </div>
+      </div>
+
+      <!-- Top 5 Best-Selling Products -->
+      <div class="chart-card span-2">
+        <div class="chart-header">
+          <h3>Top Performing Products (Ranked by Revenue)</h3>
+          <span class="chart-desc">Detailed SKU performance, unit volume, and realized margin</span>
+        </div>
+        <div class="table-responsive">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Product Name</th>
+                <th>Category</th>
+                <th>Units Sold</th>
+                <th>Revenue</th>
+                <th>Profit</th>
+                <th>Profit Margin</th>
+                <th>Health Status</th>
+              </tr>
+            </thead>
+            <tbody id="topProductsBody">
+              <!-- Dynamically populated -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- Strategic Insights Banner -->
+    <section class="insights-card">
+      <div class="insights-header">
+        <span class="insight-icon">💡</span>
+        <h3>Executive Actionable Insights & Business Recommendations</h3>
+      </div>
+      <div class="insights-grid">
+        <div class="insight-item">
+          <strong>1. Margin Erosion via Aggressive Discounting:</strong>
+          <p>Discounts above 25% (frequently offered in South and Central regions) reduce average profit margin from 21.7% down to 14.1%. Cap regional promotional discounts at 20% to recover an estimated \$420,000 in annual profit.</p>
+        </div>
+        <div class="insight-item">
+          <strong>2. High-Yield Product Engines:</strong>
+          <p>Dell XPS 15 and MacBook Pro 14 account for \$8.72M (30.3%) of gross revenue. Expanding high-spec corporate bundles and enterprise accessories will increase Average Order Value (AOV).</p>
+        </div>
+        <div class="insight-item">
+          <strong>3. Shipping SLA Optimization:</strong>
+          <p>Standard shipping averages 7.3 days delivery. Consolidating regional fulfillment hubs in Dallas and Atlanta will reduce transit times to under 5 days, increasing customer retention and repeat purchase rates.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="dashboard-footer">
+      <span>Sales Analytics Portfolio Project • Tech Stack: Python (Pandas, NumPy), MySQL 8.0, Power BI, Excel</span>
+      <span>Live Interactive Preview</span>
+    </footer>
+  </div>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>

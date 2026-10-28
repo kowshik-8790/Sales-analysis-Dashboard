@@ -1,0 +1,77 @@
+{
+  "name": "Executive Analytics Dark Navy",
+  "dataColors": [
+    "#1E3A8A",
+    "#0D9488",
+    "#10B981",
+    "#F59E0B",
+    "#6366F1",
+    "#EC4899",
+    "#8B5CF6",
+    "#14B8A6"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#1E3A8A",
+  "good": "#10B981",
+  "neutral": "#F59E0B",
+  "bad": "#EF4444",
+  "maximum": "#10B981",
+  "center": "#F59E0B",
+  "minimum": "#EF4444",
+  "null": "#94A3B8",
+  "textClasses": {
+    "callout": {
+      "fontSize": 24,
+      "fontFace": "Segoe UI",
+      "color": "#0F172A"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1E293B"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#334155"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#64748B"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#F8FAFC" } }
+          }
+        ],
+        "visualHeader": [
+          {
+            "foreground": { "solid": { "color": "#1E3A8A" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#1E3A8A" } },
+            "fontSize": 22
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#64748B" } },
+            "fontSize": 10
+          }
+        ]
+      }
+    }
+  }
+}

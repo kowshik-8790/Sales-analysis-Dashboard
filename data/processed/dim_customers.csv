@@ -1,0 +1,26 @@
+Customer_ID,Customer_Name,Segment,City,State,Region,Postal_Code
+CUST-1001,Aaron Bergman,Consumer,Seattle,Washington,West,98101
+CUST-1002,Darrin Martin,Consumer,Los Angeles,California,West,90001
+CUST-1003,Sean O'Donnell,Consumer,San Francisco,California,West,94102
+CUST-1004,Brosina Hoffman,Consumer,San Diego,California,West,92101
+CUST-1005,Zuschuss Donatelli,Consumer,Denver,Colorado,West,80201
+CUST-1006,Pete Kriz,Consumer,Phoenix,Arizona,West,85001
+CUST-1007,Ken Black,Corporate,New York City,New York,East,00000
+CUST-1008,Sandra Flanagan,Corporate,Philadelphia,Pennsylvania,East,19102
+CUST-1009,Emily Phan,Consumer,Boston,Massachusetts,East,02108
+CUST-1010,Eric Hoffmann,Consumer,Columbus,Ohio,East,43215
+CUST-1011,Tracy Blumstein,Home Office,Chicago,Illinois,Central,60601
+CUST-1012,Matt Abelman,Home Office,Detroit,Michigan,Central,48201
+CUST-1013,Gene Hale,Corporate,Minneapolis,Minnesota,Central,55401
+CUST-1014,Steve Nguyen,Home Office,Dallas,Texas,Central,75201
+CUST-1015,Linda Cazamias,Corporate,Houston,Texas,Central,77001
+CUST-1016,Ruben Ausman,Corporate,Atlanta,Georgia,South,30301
+CUST-1017,Erin Smith,Corporate,Miami,Florida,South,33101
+CUST-1018,Odessa Haupt,Consumer,Charlotte,North Carolina,South,28201
+CUST-1019,Harold Pawlan,Home Office,Nashville,Tennessee,South,37201
+CUST-1020,Patrick O'Brill,Consumer,Richmond,Virginia,South,23219
+CUST-1021,Mick Brown,Consumer,Austin,Texas,Central,00000
+CUST-1022,Jane Waco,Corporate,Portland,Oregon,West,97201
+CUST-1023,Dave Poirier,Corporate,San Jose,California,West,95101
+CUST-1024,Seth Vernon,Consumer,Tampa,Florida,South,33601
+CUST-1025,Bill Tyler,Corporate,Indianapolis,Indiana,Central,46201

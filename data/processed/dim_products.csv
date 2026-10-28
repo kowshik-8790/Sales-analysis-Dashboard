@@ -1,0 +1,23 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Unit_Price
+FUR-BO-2005,Sauder 5-Shelf Bookcase,Furniture,Bookcases,110.0,219.0
+FUR-CH-2001,Herman Miller Aeron Chair,Furniture,Chairs,700.0,1250.0
+FUR-CH-2002,Steelcase Gesture Ergonomic Chair,Furniture,Chairs,650.0,1120.0
+FUR-FU-2006,Tenex Anti-Fatigue Floor Mat,Furniture,Furnishings,35.0,69.0
+FUR-TA-2003,ApexDesk Height Adjustable Desk,Furniture,Tables,350.0,680.0
+FUR-TA-2004,Bush Business Conference Table,Furniture,Tables,420.0,850.0
+OFF-AP-3004,Breville Compact Microwave Oven,Office Supplies,Appliances,90.0,179.0
+OFF-AR-3005,Prismacolor Premier Colored Pencils,Office Supplies,Art,12.0,28.0
+OFF-BI-3002,GBC VeloBind Binding System,Office Supplies,Binders,130.0,260.0
+OFF-EN-3006,Quality Park Security Envelopes 500pk,Office Supplies,Envelopes,18.0,39.0
+OFF-FA-3007,Staples Heavy Duty Stapler & Staples,Office Supplies,Fasteners,10.0,24.0
+OFF-PA-3003,Hammermill Premium Multipurpose Paper,Office Supplies,Paper,22.0,48.0
+OFF-ST-3001,Fellowes Heavy-Duty Storage Box,Office Supplies,Storage,15.0,32.0
+OFF-SU-3008,Fiskars Titanium Easy Action Scissors,Office Supplies,Supplies,8.0,19.0
+TEC-AC-1004,Sony WH-1000XM5 Headphones,Technology,Accessories,220.0,399.0
+TEC-AC-1005,Logitech MX Master 3S Mouse,Technology,Accessories,50.0,99.0
+TEC-CO-1006,Dell XPS 15 Laptop,Technology,Computers,1200.0,1899.0
+TEC-CO-1007,MacBook Pro 14 M3,Technology,Computers,1400.0,1999.0
+TEC-PH-1001,Apple iPhone 15 Pro,Technology,Phones,750.0,999.0
+TEC-PH-1002,Samsung Galaxy S24 Ultra,Technology,Phones,800.0,1199.0
+TEC-PH-1003,Google Pixel 8 Pro,Technology,Phones,550.0,799.0
+TEC-PR-1008,HP LaserJet Pro Multi-Function,Technology,Machines,280.0,449.0
